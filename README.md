@@ -4,10 +4,10 @@ The Normative References if ISO/DIS 32000-2 (PDF 2.) are structured as an orient
 
 This repo contains:
 
-- A human-readable worksheet of normative references in the OpenDocument Spreadsheet format (ODS): [Normative references tree for ISO 32000-2_2020.ods].
-- Machine-readable representation of the normative references in JSON format [referencesGraph.json]
-- A Python script to convert from the human-readable representation (ODS) to the machine-readable JSON equivalent [ODStoJSON.py] 
-- A Python script to calculate some basic metrics [countLevels.py].
+- A human-readable worksheet of normative references in the OpenDocument Spreadsheet format (ODS): [Normative references tree for ISO 32000-2_2020.ods](Normative references tree for ISO 32000-2_2020.ods).
+- Machine-readable representation of the normative references in JSON format [referencesGraph.json](referencesGraph.json).
+- A Python script to convert from the human-readable representation (ODS) to the machine-readable JSON equivalent [ODStoJSON.py](ODStoJSON.py) 
+- A Python script to calculate some basic metrics [countLevels.py](countLevels.py).
 
 As of May 2020, the references database contains 605 documents (vertices of the graph) in total and 1220 references between them (edges of the graph). First level references mean the documents are directly referenced from ISO/DIS 32000-2. Their references are called second level references and so on:
 
@@ -24,7 +24,7 @@ The Legend used within the ODS file reflects the processing status of the docume
 
 ## **Machine-readable JSON**
 
-[referencesGraph.json] contains the JSON representation of the above data organized as follows. The value of the (root) key ISO32000-2-DB is the array of all normative documents. 
+[referencesGraph.json](referencesGraph.json) contains the JSON representation of the above data organized as follows. The value of the (root) key ISO32000-2-DB is the array of all normative documents. 
 Each document is a record with the following fields:
 - id - unique id of the document.
 - title - title of the document.
@@ -37,15 +37,15 @@ Each document is a record with the following fields:
 
 ## **Python Scripts**
 
-The Python script [ODStoJSON.py] converts the human-readable representation of the references graph (the LibreOffice Calc ODS file) to a machine-readable JSON equivalent. It takes no CLI arguments, reads the file "Normative references tree for ISO 32000-2_2020.ods" from the local folder and creates the file “referencesGraph.json” next to it.
+The Python script [ODStoJSON.py](ODStoJSON.py) converts the human-readable representation of the references graph (the LibreOffice Calc ODS file) to a machine-readable JSON equivalent. It takes no CLI arguments, reads the file "Normative references tree for ISO 32000-2_2020.ods" from the local folder and creates the file “referencesGraph.json” next to it.
 
-The Python script [countLevels.py] calculates and writes basic metrics to a JSON file, by processing a referencesGraph.json file. These metrics can be from any given point in the graph, as specified by a document’s unique ID number. 
+The Python script [countLevels.py](countLevels.py) calculates and writes basic metrics to a JSON file, by processing a referencesGraph.json file. These metrics can be from any given point in the graph, as specified by a document’s unique ID number. 
 ```
 Usage: countLevels.py <infilename> <outfilename> <id>
 where:
 infilename	JSON with the references (usually “referencesGraph.json”)
 outfilename	JSON file to write the metrics results
-id		is the root document ID for counting (0 means ISO/DIS 32000-2)
+id		is the root document ID for counting (ID 0 means ISO/DIS 32000-2)
 ```
 
 ## **ToDo** :pushpin:
