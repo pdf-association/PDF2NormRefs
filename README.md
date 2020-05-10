@@ -1,12 +1,12 @@
 # **ISO/DIS 32000-2 (PDF 2.0) Normative References Tree**
 
-Normative References are structured as an oriented graph (tree), whose vertices are normative documents and (oriented) edges are references from one document to another. Both vertices and edges are annotated by additional comments to describe discovered issues or just to provide additional informative notes. 
+The Normative References if ISO/DIS 32000-2 (PDF 2.) are structured as an oriented graph (tree), whose vertices are normative documents and (oriented) edges are references from one document to another. Both vertices and edges are annotated by additional comments to describe discovered issues or just to provide additional informative notes. 
 
 This repo contains:
 
-- A human-readable worksheet of normative references in the OpenDocument Spreadsheet format (ODS).
-- Machine-readable representation of the normative references in JSON format.
-- A Python script to convert from the human-readable representation (ODS) to the a machine-readable JSON equivalent [ODStoJSON.py] 
+- A human-readable worksheet of normative references in the OpenDocument Spreadsheet format (ODS): [Normative references tree for ISO 32000-2_2020.ods].
+- Machine-readable representation of the normative references in JSON format [referencesGraph.json]
+- A Python script to convert from the human-readable representation (ODS) to the machine-readable JSON equivalent [ODStoJSON.py] 
 - A Python script to calculate some basic metrics [countLevels.py].
 
 As of May 2020, the references database contains 605 documents (vertices of the graph) in total and 1220 references between them (edges of the graph). First level references mean the documents are directly referenced from ISO/DIS 32000-2. Their references are called second level references and so on:
@@ -16,7 +16,7 @@ As of May 2020, the references database contains 605 documents (vertices of the 
 
 ## **Legend**
 
-The Legend reflects the processing status of the documents and is visualized on the Refs Tree table using colored naming scheme:
+The Legend used within the ODS file reflects the processing status of the documents and is visualized on the Refs Tree worksheet using colored naming scheme:
 - Processed documents: the documents that were added to the database, their normative references are inspected and added to the database as well.
 - Documents to be inspected: normative references are not yet inspected. Some of them might not be present in the database yet.
 - Not available: documents not available in the open access.
