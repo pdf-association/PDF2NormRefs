@@ -53,3 +53,8 @@ id		is the root document ID for counting (ID 0 means ISO/DIS 32000-2)
 - Complete processing of all 1st and 2nd level references. Process 3rd level references for all cases that are relevant to PDF parsing. It is expected that about 200 extra references will be added to the database.
 - Parse the title strings of the documents to convert them into more granular record (standardization body, author, short title, version, publication date)
 - Introduce short and meaningful names as keys for ease of graph navigation (such as PDF20, XML11, X.509, JPEG, etc.)
+
+---
+Copyright 2020 PDF Association, Inc. https://www.pdfa.org
+
+This material is based upon work supported by the Defense Advanced Research Projects Agency (DARPA) under Contract No. HR001119C0079. Any opinions, findings and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the Defense Advanced Research Projects Agency (DARPA). Approved for public release.
