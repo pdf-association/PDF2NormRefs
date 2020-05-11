@@ -37,7 +37,7 @@ Each document is a record with the following fields:
 
 ## **Python Scripts**
 
-The Python script [ODStoJSON.py](ODStoJSON.py) converts the human-readable representation of the references graph (the LibreOffice Calc ODS file) to a machine-readable JSON equivalent. It takes no CLI arguments, reads the file "Normative references tree for ISO 32000-2_2020.ods" from the local folder and creates the file “referencesGraph.json” next to it.
+The Python script [ODStoJSON.py](ODStoJSON.py) converts the human-readable representation of the references graph (the LibreOffice Calc ODS file) to a machine-readable JSON equivalent. It takes no CLI arguments, reads the file "Normative references tree for ISO 32000-2_2020.ods" from the local folder and creates the file [referencesGraph.json](referencesGraph.json) next to it.
 
 The Python script [countLevels.py](countLevels.py) calculates and writes basic metrics to a JSON file, by processing a [referencesGraph.json](referencesGraph.json) file. These metrics can be from any given point in the graph, as specified by a document’s unique ID number. 
 ```
@@ -52,4 +52,4 @@ id		is the root document ID for counting (ID 0 means ISO/DIS 32000-2)
 
 - Complete processing of all 1st and 2nd level references. Process 3rd level references for all cases that are relevant to PDF parsing. It is expected that about 200 extra references will be added to the database.
 - Parse the title strings of the documents to convert them into more granular record (standardization body, author, short title, version, publication date)
-- Introduce short and meaningful names as  keys for ease of graph navigation (such as PDF20, XML11, X.509, JPEG, etc.)
+- Introduce short and meaningful names as keys for ease of graph navigation (such as PDF20, XML11, X.509, JPEG, etc.)
