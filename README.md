@@ -1,10 +1,10 @@
 # **ISO/DIS 32000-2 (PDF 2.0) Normative References Tree**
 
-The Normative References if ISO/DIS 32000-2 (PDF 2.) are structured as an oriented graph (tree), whose vertices are normative documents and (oriented) edges are references from one document to another. Both vertices and edges are annotated by additional comments to describe discovered issues or just to provide additional informative notes. 
+The Normative References if ISO/DIS 32000-2 (PDF 2.0) are structured as an oriented graph (tree), whose vertices are normative documents and (oriented) edges are references from one document to another. Both vertices and edges are annotated by additional comments to describe discovered issues or just to provide additional informative notes. 
 
 This repo contains:
 
-- A human-readable worksheet of normative references in the OpenDocument Spreadsheet format (ODS), readable by [LibreOffice](https://www.libreoffice.org/): [NormRefsTreeISO32000-2.ods](NormRefsTreeISO32000-2.ods).
+- A human-readable worksheet of normative references in the OpenDocument Spreadsheet format (ODS), readable by [Libre Office](https://www.libreoffice.org/): [NormRefsTreeISO32000-2.ods](NormRefsTreeISO32000-2.ods).
 - Machine-readable representation of the normative references in JSON format [referencesGraph.json](referencesGraph.json).
 - A Python script to convert from the human-readable representation (ODS) to the machine-readable JSON equivalent [ODStoJSON.py](ODStoJSON.py) 
 - A Python script to calculate some basic metrics for any specific document [countLevels.py](countLevels.py).
@@ -16,7 +16,7 @@ As of May 2020, the references database contains 605 documents (vertices of the 
 
 ## **Legend**
 
-The Legend used within the ODS file reflects the processing status of the documents and is visualized on the Refs Tree worksheet using colored naming scheme:
+The Legend used within the ODS file reflects the processing status of the documents and is visualized on the Refs Tree worksheet using the following colored naming scheme:
 - Processed documents (green): the documents that were added to the database, their normative references are inspected and added to the database as well.
 - Documents to be inspected (purple): normative references are not yet inspected. Some of them might not be present in the database yet.
 - Not available (red): documents not available in the open access.
