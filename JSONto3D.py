@@ -11,10 +11,10 @@
 //
 // SPDX-License-Identifier: Apache-2.0
 //
-// Generates a 3D visualization JSON file for use with "3D Force-graph VR"
+// Generates a 3D/VR visualization JSON file for use with "3D Force-graph"
 // from the "referencesGraph.json" file.
 //
-// See https://github.com/vasturiano/3d-force-graph-vr/ 
+// See https://github.com/vasturiano/3d-force-graph/ 
 //
 // Author: Peter Wyatt
 """
@@ -33,14 +33,18 @@ for doc in normrefs:
     # n["nInLinks"]  = len(doc["referencedBy"])
     # Size of planet node is proportional to the square of the number of out-going references
     n["val"] = len(doc["refs"]) * len(doc["refs"])
+    # Short name is everything before a COMMA (normally the ISO document number or simple title)
+    #   then trimmed before a COLON (which will strip off ISO years but so be it!) 
+    s = doc["title"].split(",")
+    s = s[0].split(":")
+    n["short"] = s[0]
     # Make PDF 2.0 the large red centre of the 3D universe!
     # otherwise rough grouping (and thus color coding of node) based on title
     if (doc["id"] == 0):
         n["group"] = "PDF2"
-        n["color"] = "red"
-    elif ("ISO" in doc["title"]):
+    elif ("ISO" in doc["title"]) or ("IEC" in doc["title"]):
         n["group"] = "ISO"
-    elif ("W3C" in doc["title"]) or ("RFC" in doc["title"]) or ("IETF" in doc["title"]):
+    elif ("W3C" in doc["title"]) or ("RFC" in doc["title"]) or ("IETF" in doc["title"]) or ("World Wide Web" in doc["title"]):
         n["group"] = "W3C"
     elif ("Adobe" in doc["title"]):
         n["group"] = "Adobe"
@@ -64,9 +68,9 @@ for doc in normrefs:
             # Make PDF 2.0 the large red centre of the 3D universe
             lnk["group"] = "PDF2"
             lnk["color"] = "red"
-        elif ("ISO" in doc["title"]):
+        elif ("ISO" in doc["title"]) or ("IEC" in doc["title"]):
             lnk["group"] = "ISO"
-        elif ("W3C" in doc["title"]) or ("RFC" in doc["title"]) or ("IETF" in doc["title"]):
+        elif ("W3C" in doc["title"]) or ("RFC" in doc["title"]) or ("IETF" in doc["title"]) or ("World Wide Web" in doc["title"]):
             lnk["group"] = "W3C"
         elif ("Adobe" in doc["title"]):
             lnk["group"] = "Adobe"
@@ -83,5 +87,5 @@ for doc in normrefs:
 outdata = {}
 outdata["nodes"] = nodes
 outdata["links"] = links
-with open("3d-data.json", 'w') as outfile:
+with open("pdf20-norm-refs.json", 'w') as outfile:
     json.dump(outdata, outfile, indent=4)
