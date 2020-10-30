@@ -17,7 +17,7 @@
                     "stid": "32000-2"
                 }
             ],
-            "title": "Document management — Portable Document Format — Part 2: PDF 2.0",
+            "title": "Document management - Portable Document Format - Part 2: PDF 2.0",
             "date": "202x",
             "url": [
                 "https://www.iso.org/standard/75839.html"
@@ -142,7 +142,7 @@
                 265,
                 314
             ],
-            "note": "initially: ISO 3166-1:2013\n"
+            "note": "initially: ISO 3166-1:2013"
         },
         {
             "id": 2,
@@ -273,7 +273,7 @@
                 849,
                 856
             ],
-            "note": "Now under review\nISO/IEC DIS 10646: https://www.iso.org/standard/76835.html "
+            "note": "Now under review - ISO/IEC DIS 10646: https://www.iso.org/standard/76835.html "
         },
         {
             "id": 4,
@@ -325,7 +325,7 @@
                     "stid": "14492"
                 }
             ],
-            "title": "Information technology — Lossy/lossless coding of bi-level images",
+            "title": "Information technology - Lossy/lossless coding of bi-level images",
             "date": "2019",
             "url": [
                 "https://www.iso.org/standard/75396.html"
@@ -350,7 +350,7 @@
                     "stid": "14739-1"
                 }
             ],
-            "title": "Document management — 3D use of Product Representation Compact (PRC) format — Part 1: PRC 10001",
+            "title": "Document management - 3D use of Product Representation Compact (PRC) format - Part 1: PRC 10001",
             "date": "2014",
             "url": [
                 "https://www.iso.org/standard/54948.html "
@@ -382,7 +382,7 @@
                     "stid": "15076-1"
                 }
             ],
-            "title": "Image technology colour management – Architecture, profile format and data structure — Part 1: Based on ICC.1:2010",
+            "title": "Image technology colour management – Architecture, profile format and data structure - Part 1: Based on ICC.1:2010",
             "date": "2010",
             "url": [
                 "https://www.iso.org/standard/54754.html"
@@ -421,7 +421,7 @@
                     "stid": "15444-1"
                 }
             ],
-            "title": "Information technology — JPEG 2000 image coding system: Core coding system",
+            "title": "Information technology - JPEG 2000 image coding system: Core coding system",
             "date": "2019",
             "url": [
                 "https://www.iso.org/standard/78321.html"
@@ -455,7 +455,7 @@
                     "stid": "15948"
                 }
             ],
-            "title": "Information technology — Computer graphics and image processing — Portable Network Graphics (PNG): Functional specification",
+            "title": "Information technology - Computer graphics and image processing - Portable Network Graphics (PNG): Functional specification",
             "date": "2004",
             "url": [
                 "https://www.iso.org/standard/29581.html"
@@ -496,7 +496,7 @@
                     "stid": "16684-1"
                 }
             ],
-            "title": "Extensible metadata platform (XMP) specification — Part 1: Data model, serialization and core properties",
+            "title": "Extensible metadata platform (XMP) specification - Part 1: Data model, serialization and core properties",
             "date": "2019",
             "url": [
                 "https://www.iso.org/standard/75163.html"
@@ -523,7 +523,7 @@
                     "stid": "17972-4"
                 }
             ],
-            "title": "Graphic technology — Colour data exchange format (CxF/X) — Part 4: Spot colour characterisation data (CxF/X-4)",
+            "title": "Graphic technology - Colour data exchange format (CxF/X) - Part 4: Spot colour characterisation data (CxF/X-4)",
             "date": "2018",
             "url": [
                 "https://www.iso.org/standard/71110.html"
@@ -581,7 +581,7 @@
             "referencedBy": [
                 0
             ],
-            "note": "ISO 19162:2019\n"
+            "note": "ISO 19162:2019"
         },
         {
             "id": 15,
@@ -613,7 +613,7 @@
                     "stid": "21757-1"
                 }
             ],
-            "title": "Document management — ECMAScript for PDF — Part 1: Use of ISO 32000-2 (PDF 2.0)",
+            "title": "Document management - ECMAScript for PDF - Part 1: Use of ISO 32000-2 (PDF 2.0)",
             "date": "202x",
             "url": [
                 "https://www.iso.org/standard/71559.html"
@@ -711,7 +711,7 @@
                 261,
                 836
             ],
-            "note": "original version from 1986\nThis document is referenced by ISO 32000-2 for definition of 7-bit ASCII set including character names and the notion of graphical characters. It contains a number of further references, but they are irrelevant for PDF 2.0 syntax. "
+            "note": "original version from 1986: this document is referenced by ISO 32000-2 for definition of 7-bit ASCII set including character names and the notion of graphical characters. It contains a number of further references, but they are irrelevant for PDF 2.0 syntax. "
         },
         {
             "id": 20,
@@ -1375,7 +1375,7 @@
                 854,
                 856
             ],
-            "note": "Updated by RFC 2184, RFC 2231, RFC 5335, RFC 6532\n"
+            "note": "Updated by RFC 2184, RFC 2231, RFC 5335, RFC 6532"
         },
         {
             "id": 47,
@@ -1413,7 +1413,7 @@
                 854,
                 855
             ],
-            "note": "Updated by RFC 2646, RFC 3798, RFC 5147, RFC 6657, RFC 8098\n"
+            "note": "Updated by RFC 2646, RFC 3798, RFC 5147, RFC 6657, RFC 8098"
         },
         {
             "id": 48,
@@ -1504,7 +1504,7 @@
                 54,
                 826
             ],
-            "note": "Obsoleted by:\nRFC 7564"
+            "note": "Obsoleted by: RFC 7564"
         },
         {
             "id": 51,
@@ -2423,7 +2423,7 @@
                 297,
                 494
             ],
-            "note": "Corrigenda/Amendments\nISO/IEC 2022:1994/Cor 1:1999"
+            "note": "Corrigenda/Amendments ISO/IEC 2022:1994/Cor 1:1999"
         },
         {
             "id": 102,
@@ -2543,8 +2543,7 @@
             "refs": [],
             "referencedBy": [
                 3
-            ],
-            "note": "no links to other documents\n"
+            ]
         },
         {
             "id": 107,
@@ -2572,7 +2571,7 @@
                     "stid": "Recommendation T.80"
                 }
             ],
-            "title": "Common components for image compression and communication — Basic principles",
+            "title": "Common components for image compression and communication - Basic principles",
             "date": "1992",
             "url": [
                 "https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.80-199209-I!!PDF-E&type=items"
@@ -2622,8 +2621,7 @@
                 185,
                 201,
                 203
-            ],
-            "note": "Now confirmed\nISO 5-3:2009 "
+            ]
         },
         {
             "id": 110,
@@ -2688,8 +2686,7 @@
                 276,
                 453,
                 527
-            ],
-            "note": "Now confirmed\nISO/IEC 646:1991 "
+            ]
         },
         {
             "id": 112,
@@ -2754,7 +2751,7 @@
                 112,
                 127
             ],
-            "note": "Now\nISO 13655:2017 "
+            "note": "Now ISO 13655:2017 "
         },
         {
             "id": 114,
@@ -3186,7 +3183,7 @@
             "title": "PDF Blend Modes: Addendum",
             "date": "23 January 2006",
             "url": [
-                "http://www.npes.org/standards/toolspdfx.html\n"
+                "http://www.npes.org/standards/toolspdfx.html"
             ],
             "status": "active",
             "refs": [
@@ -3371,7 +3368,7 @@
                 145,
                 564
             ],
-            "note": "Now\nISO/IEC 21778:2017 "
+            "note": "Now ISO/IEC 21778:2017 "
         },
         {
             "id": 138,
@@ -3465,7 +3462,7 @@
             "title": "URIs URLs, and URNs: Clarifications and Recommendations 1.0",
             "date": "21 September 2001",
             "url": [
-                "http://www.w3.org/TR/2001/NOTE-\nuri-clarification-20010921/"
+                "http://www.w3.org/TR/2001/NOTE-uri-clarification-20010921/"
             ],
             "status": "obsolete",
             "refs": [
@@ -3487,7 +3484,7 @@
             "referencedBy": [
                 11
             ],
-            "note": "obsolete\n"
+            "note": "obsolete"
         },
         {
             "id": 142,
@@ -3497,7 +3494,7 @@
                     "stid": "17972-1"
                 }
             ],
-            "title": "Graphic technology — Colour data exchange format — Part 1: Relationship to CxF3 (CxF/X)",
+            "title": "Graphic technology - Colour data exchange format - Part 1: Relationship to CxF3 (CxF/X)",
             "date": "2015",
             "url": [
                 "https://www.iso.org/standard/61500.html"
@@ -3518,7 +3515,7 @@
                     "stid": "8601-1"
                 }
             ],
-            "title": "Date and time — Representations for information interchange — Part 1: Basic rules",
+            "title": "Date and time - Representations for information interchange - Part 1: Basic rules",
             "date": "2019",
             "url": [
                 "https://www.iso.org/iso-8601-date-and-time-format.html"
@@ -3538,7 +3535,7 @@
                     "stid": "19111"
                 }
             ],
-            "title": "Geographic information — Referencing by coordinates",
+            "title": "Geographic information - Referencing by coordinates",
             "date": "2019",
             "url": [
                 "https://www.iso.org/standard/74039.html"
@@ -3568,7 +3565,7 @@
                     "stid": "22275"
                 }
             ],
-            "title": "Information technology — Programming languages, their environments, and system software interfaces — ECMAScript® Specification Suite",
+            "title": "Information technology - Programming languages, their environments, and system software interfaces - ECMAScript® Specification Suite",
             "date": "2018",
             "url": [
                 "https://www.iso.org/standard/73002.html"
@@ -3898,7 +3895,7 @@
                 17,
                 197
             ],
-            "note": "original version from 1991 \n"
+            "note": "original version from 1991 "
         },
         {
             "id": 157,
@@ -3959,7 +3956,7 @@
             "referencedBy": [
                 17
             ],
-            "note": "original version from 1998\n"
+            "note": "original version from 1998"
         },
         {
             "id": 160,
@@ -4678,7 +4675,7 @@
                 497,
                 563
             ],
-            "note": "original version from 2008\n"
+            "note": "original version from 2008"
         },
         {
             "id": 176,
@@ -5032,7 +5029,7 @@
                     "stid": "5-2"
                 }
             ],
-            "title": "Photography and graphic technology — Density measurements — Part 2: Geometric conditions for transmittance density",
+            "title": "Photography and graphic technology - Density measurements - Part 2: Geometric conditions for transmittance density",
             "date": "2009",
             "url": [
                 "https://www.iso.org/standard/52914.html"
@@ -5050,7 +5047,7 @@
                 201,
                 203
             ],
-            "note": "Now confirmed\nISO 5-2:2009 "
+            "note": "Now confirmed ISO 5-2:2009 "
         },
         {
             "id": 185,
@@ -5060,7 +5057,7 @@
                     "stid": "5-4"
                 }
             ],
-            "title": "Photography and graphic technology — Density measurements — Part 4: Geometric conditions for reflection density",
+            "title": "Photography and graphic technology - Density measurements - Part 4: Geometric conditions for reflection density",
             "date": "2009",
             "url": [
                 "https://www.iso.org/standard/52916.html"
@@ -5088,7 +5085,7 @@
                     "stid": "11664-1"
                 }
             ],
-            "title": "Colorimetry — Part 1: CIE standard colorimetric observers",
+            "title": "Colorimetry - Part 1: CIE standard colorimetric observers",
             "date": "2019",
             "url": [
                 "https://www.iso.org/standard/52495.html"
@@ -5103,7 +5100,7 @@
                 188,
                 202
             ],
-            "note": "Revised by\nISO/CIE 11664-1:2019"
+            "note": "Revised by ISO/CIE 11664-1:2019"
         },
         {
             "id": 187,
@@ -5113,7 +5110,7 @@
                     "stid": "11664-3"
                 }
             ],
-            "title": "Colorimetry — Part 3: CIE tristimulus values",
+            "title": "Colorimetry - Part 3: CIE tristimulus values",
             "date": "2019",
             "url": [
                 "https://www.iso.org/standard/74165.html"
@@ -5127,7 +5124,7 @@
             "referencedBy": [
                 113
             ],
-            "note": "Revised by\nISO/CIE 11664-3:2019"
+            "note": "Revised by ISO/CIE 11664-3:2019"
         },
         {
             "id": 188,
@@ -5137,7 +5134,7 @@
                     "stid": "11664-4"
                 }
             ],
-            "title": "Colorimetry — Part 4: CIE 1976 L*a*b* Colour space",
+            "title": "Colorimetry - Part 4: CIE 1976 L*a*b* Colour space",
             "date": "2019",
             "url": [
                 "https://www.iso.org/standard/52497.html"
@@ -5150,7 +5147,7 @@
             "referencedBy": [
                 113
             ],
-            "note": "Revised by\nISO/CIE 11664-4:2019"
+            "note": "Revised by ISO/CIE 11664-4:2019"
         },
         {
             "id": 189,
@@ -5160,10 +5157,10 @@
                     "stid": "28178"
                 }
             ],
-            "title": "Graphic technology — Exchange format for colour and process control data using XML or ASCIl text",
+            "title": "Graphic technology - Exchange format for colour and process control data using XML or ASCIl text",
             "date": "2009",
             "url": [
-                "https://www.iso.org/standard/44527.html\n"
+                "https://www.iso.org/standard/44527.html"
             ],
             "status": "active",
             "refs": [
@@ -5174,7 +5171,7 @@
             "referencedBy": [
                 113
             ],
-            "note": "Now confirmed\nISO 28178:2009 "
+            "note": "Now confirmed ISO 28178:2009 "
         },
         {
             "id": 190,
@@ -5259,7 +5256,7 @@
                     "stid": "8601 Part 1 and Part 2"
                 }
             ],
-            "title": "Data elements and interchange formats — Information interchange — Representation of dates and times",
+            "title": "Data elements and interchange formats - Information interchange - Representation of dates and times",
             "date": "2019",
             "url": [
                 "https://www.iso.org/iso-8601-date-and-time-format.html"
@@ -5278,7 +5275,7 @@
                 528,
                 834
             ],
-            "note": "ISO 8601-1:2019\nISO 8601-2:2019, \nThere are no normative references in this document."
+            "note": "ISO 8601-1:2019 ISO 8601-2:2019,  There are no normative references in this document."
         },
         {
             "id": 195,
@@ -5288,7 +5285,7 @@
                     "stid": "19103"
                 }
             ],
-            "title": "Geographic information — Conceptual schema language",
+            "title": "Geographic information - Conceptual schema language",
             "date": "2015",
             "url": [
                 "https://www.iso.org/obp/ui/#iso:std:iso:19103:ed-1:v1:en"
@@ -5309,7 +5306,7 @@
                 144,
                 196
             ],
-            "note": "Now\nISO 19103:2015"
+            "note": "Now ISO 19103:2015"
         },
         {
             "id": 196,
@@ -5319,7 +5316,7 @@
                     "stid": "19115-1"
                 }
             ],
-            "title": "Geographic information — Metadata — Part 1: Fundamentals",
+            "title": "Geographic information - Metadata - Part 1: Fundamentals",
             "date": "2014",
             "url": [
                 "https://www.iso.org/standard/53798.html"
@@ -5347,7 +5344,7 @@
                 144,
                 239
             ],
-            "note": "Corrigenda/Amendments\nISO 19115-1:2014/Amd 1:2018"
+            "note": "Corrigenda/Amendments ISO 19115-1:2014/Amd 1:2018"
         },
         {
             "id": 197,
@@ -5379,7 +5376,7 @@
                 112,
                 202
             ],
-            "note": "Now under review\nISO 23603:2005 "
+            "note": "Now under review ISO 23603:2005 "
         },
         {
             "id": 198,
@@ -5392,7 +5389,7 @@
             "title": "Method of measuring and specifying colour rendering properties of light sources",
             "date": "1995",
             "url": [
-                "https://standards.globalspec.com/std/164940/CIE%2013.3\n"
+                "https://standards.globalspec.com/std/164940/CIE%2013.3"
             ],
             "status": "active",
             "refs": [],
@@ -5429,7 +5426,7 @@
                     "stid": "69"
                 }
             ],
-            "title": "Methods of characterizing illuminance meters and luminance meters — Performance, characteristics and specifications",
+            "title": "Methods of characterizing illuminance meters and luminance meters - Performance, characteristics and specifications",
             "date": "1987",
             "url": [
                 "https://standards.globalspec.com/std/26479/CIE%2069"
@@ -5449,7 +5446,7 @@
                     "stid": "5-1"
                 }
             ],
-            "title": "Photography and graphic technology — Density measurements — Part 1: Geometry and functional notation",
+            "title": "Photography and graphic technology - Density measurements - Part 1: Geometry and functional notation",
             "date": "2009",
             "url": [
                 "https://www.iso.org/standard/52913.html"
@@ -5467,7 +5464,7 @@
                 185,
                 203
             ],
-            "note": "Now confirmed\nISO 5-1:2009 "
+            "note": "Now confirmed ISO 5-1:2009 "
         },
         {
             "id": 202,
@@ -5477,7 +5474,7 @@
                     "stid": "11664-2"
                 }
             ],
-            "title": "Colorimetry — Part 2: CIE standard illuminants",
+            "title": "Colorimetry - Part 2: CIE standard illuminants",
             "date": "2007",
             "url": [
                 "https://www.iso.org/standard/52496.html"
@@ -5503,7 +5500,7 @@
                     "stid": "14807"
                 }
             ],
-            "title": "Photography — Transmission and reflection densitometers — Method for determining performance",
+            "title": "Photography - Transmission and reflection densitometers - Method for determining performance",
             "date": "2001",
             "url": [
                 "https://www.iso.org/standard/25605.html"
@@ -5519,7 +5516,7 @@
             "referencedBy": [
                 109
             ],
-            "note": "Now confirmed\nISO 14807:2001 "
+            "note": "Now confirmed ISO 14807:2001 "
         },
         {
             "id": 204,
@@ -5529,7 +5526,7 @@
                     "stid": "3166-2"
                 }
             ],
-            "title": "Codes for the representation of names of countries and their subdivisions — Part 2: Country subdivision code",
+            "title": "Codes for the representation of names of countries and their subdivisions - Part 2: Country subdivision code",
             "date": "2013",
             "url": [
                 "https://www.iso.org/standard/63546.html"
@@ -5540,7 +5537,7 @@
                 110,
                 217
             ],
-            "note": "original version from 1998\n"
+            "note": "original version from 1998"
         },
         {
             "id": 205,
@@ -5550,7 +5547,7 @@
                     "stid": "3166-3"
                 }
             ],
-            "title": "Codes for the representation of names of countries and their subdivisions — Part 3: Code for formerly used names of countries",
+            "title": "Codes for the representation of names of countries and their subdivisions - Part 3: Code for formerly used names of countries",
             "date": "2013",
             "url": [
                 "https://www.iso.org/standard/63547.html"
@@ -5575,7 +5572,7 @@
                     "stid": "4873"
                 }
             ],
-            "title": "Information technology — ISO 8-bit code for information interchange — Structure and rules for implementation",
+            "title": "Information technology - ISO 8-bit code for information interchange - Structure and rules for implementation",
             "date": "1991",
             "url": [
                 "https://www.iso.org/standard/10859.html"
@@ -5594,7 +5591,7 @@
                 228,
                 297
             ],
-            "note": "Now confirmed\nISO/IEC 4873:1991 "
+            "note": "Now confirmed ISO/IEC 4873:1991 "
         },
         {
             "id": 207,
@@ -5629,7 +5626,7 @@
                     "stid": "2375"
                 }
             ],
-            "title": "Information technology — Procedure for registration of escape sequences and coded character sets",
+            "title": "Information technology - Procedure for registration of escape sequences and coded character sets",
             "date": "2003",
             "url": [
                 "https://www.iso.org/standard/32184.html"
@@ -5668,7 +5665,7 @@
             "referencedBy": [
                 101
             ],
-            "note": "Now withdrawn\n"
+            "note": "Now withdrawn"
         },
         {
             "id": 210,
@@ -5688,7 +5685,7 @@
             "referencedBy": [
                 101
             ],
-            "note": "withdrawn\n"
+            "note": "withdrawn"
         },
         {
             "id": 211,
@@ -5738,7 +5735,7 @@
                     "stid": "1745"
                 }
             ],
-            "title": "Information processing — Basic mode control procedures for data communication systems",
+            "title": "Information processing - Basic mode control procedures for data communication systems",
             "date": "1975",
             "url": [
                 "https://www.iso.org/standard/6365.html"
@@ -5758,7 +5755,7 @@
                     "stid": "8613-6"
                 }
             ],
-            "title": "Information processing — Text and office systems — Office Document Architecture (ODA) and interchange format — Part 6: Character content architectures",
+            "title": "Information processing - Text and office systems - Office Document Architecture (ODA) and interchange format - Part 6: Character content architectures",
             "date": "1994",
             "url": [
                 "https://www.iso.org/standard/22943.html"
@@ -5775,7 +5772,7 @@
             "referencedBy": [
                 102
             ],
-            "note": "original version from 1989\n"
+            "note": "original version from 1989"
         },
         {
             "id": 215,
@@ -5785,7 +5782,7 @@
                     "stid": "23539"
                 }
             ],
-            "title": "Photometry — The CIE system of physical photometry",
+            "title": "Photometry - The CIE system of physical photometry",
             "date": "2005",
             "url": [
                 "https://www.iso.org/standard/41641.html"
@@ -5795,7 +5792,7 @@
             "referencedBy": [
                 187
             ],
-            "note": "Now under review\nISO 23539:2005 "
+            "note": "Now under review ISO 23539:2005 "
         },
         {
             "id": 216,
@@ -5900,7 +5897,7 @@
                     "stid": "11404"
                 }
             ],
-            "title": "Information technology — General-Purpose Datatypes (GPD)",
+            "title": "Information technology - General-Purpose Datatypes (GPD)",
             "date": "2007",
             "url": [
                 "https://www.iso.org/standard/39479.html"
@@ -5916,7 +5913,7 @@
             "referencedBy": [
                 195
             ],
-            "note": "Now under review\nISO/IEC 11404:2007 "
+            "note": "Now under review ISO/IEC 11404:2007 "
         },
         {
             "id": 220,
@@ -5930,7 +5927,7 @@
                     "stid": "19501"
                 }
             ],
-            "title": "Information technology — Open Distributed Processing — Unified Modeling Language (UML) Version 1.4.2",
+            "title": "Information technology - Open Distributed Processing - Unified Modeling Language (UML) Version 1.4.2",
             "date": "2005",
             "url": [
                 "https://www.iso.org/standard/32620.html"
@@ -5954,7 +5951,7 @@
             "referencedBy": [
                 195
             ],
-            "note": "Now confirmed\nISO/IEC 19501:2005 "
+            "note": "Now confirmed ISO/IEC 19501:2005 "
         },
         {
             "id": 222,
@@ -6062,7 +6059,7 @@
                     "stid": "554"
                 }
             ],
-            "title": "Standard atmospheres for conditioning and/or testing — Specifications",
+            "title": "Standard atmospheres for conditioning and/or testing - Specifications",
             "date": "1976",
             "url": [
                 "https://www.iso.org/standard/4635.html"
@@ -6086,7 +6083,7 @@
                     "stid": "10367"
                 }
             ],
-            "title": "Information technology — Standardized coded graphic character sets for use in 8-bit codes",
+            "title": "Information technology - Standardized coded graphic character sets for use in 8-bit codes",
             "date": "1991",
             "url": [
                 "https://www.iso.org/standard/18428.html"
@@ -6116,7 +6113,7 @@
                     "stid": "6937"
                 }
             ],
-            "title": "Information technology — Coded graphic character set for text communication — Latin alphabet",
+            "title": "Information technology - Coded graphic character set for text communication - Latin alphabet",
             "date": "2001",
             "url": [
                 "https://webstore.iec.ch/preview/info_isoiec6937%7Bed3.0%7Den.pdf"
@@ -6165,7 +6162,7 @@
                     "stid": "15924"
                 }
             ],
-            "title": "Information and documentation — Codes for the representation of names of scripts",
+            "title": "Information and documentation - Codes for the representation of names of scripts",
             "date": "2004",
             "url": [
                 "https://www.iso.org/standard/29546.html"
@@ -6195,7 +6192,7 @@
                     "stid": "11179-1"
                 }
             ],
-            "title": "Information technology — Metadata registries (MDR) — Part 1: Framework",
+            "title": "Information technology - Metadata registries (MDR) - Part 1: Framework",
             "date": "2015",
             "url": [
                 "https://www.iso.org/standard/61932.html"
@@ -6223,7 +6220,7 @@
                     "stid": "TR 11179-2"
                 }
             ],
-            "title": "Information technology — Metadata registries (MDR) — Part 2: Classification",
+            "title": "Information technology - Metadata registries (MDR) - Part 2: Classification",
             "date": "2019",
             "url": [
                 "https://www.iso.org/standard/74570.html"
@@ -6247,7 +6244,7 @@
                     "stid": "11179-3"
                 }
             ],
-            "title": "Information technology — Metadata registries (MDR) — Part 3: Registry metamodel and basic attributes",
+            "title": "Information technology - Metadata registries (MDR) - Part 3: Registry metamodel and basic attributes",
             "date": "2013",
             "url": [
                 "https://www.iso.org/standard/50340.html"
@@ -6275,7 +6272,7 @@
                     "stid": "11179-4"
                 }
             ],
-            "title": "Information technology — Metadata registries (MDR) — Part 4: Formulation of data definitions",
+            "title": "Information technology - Metadata registries (MDR) - Part 4: Formulation of data definitions",
             "date": "2004",
             "url": [
                 "https://www.iso.org/standard/35346.html"
@@ -6303,7 +6300,7 @@
                     "stid": "11179-5"
                 }
             ],
-            "title": "Information technology — Metadata registries (MDR) — Part 5: Naming principles",
+            "title": "Information technology - Metadata registries (MDR) - Part 5: Naming principles",
             "date": "2015",
             "url": [
                 "https://www.iso.org/standard/60341.html"
@@ -6328,7 +6325,7 @@
                     "stid": "11179-6"
                 }
             ],
-            "title": "Information technology — Metadata registries (MDR) — Part 6: Registration",
+            "title": "Information technology - Metadata registries (MDR) - Part 6: Registration",
             "date": "2015",
             "url": [
                 "https://www.iso.org/standard/60342.html"
@@ -6351,7 +6348,7 @@
                     "stid": "12620"
                 }
             ],
-            "title": "Management of terminology resources — Data category specifications, Terminology and other language and content resources — Specification of data categories and management of a Data Category Registry for language resources",
+            "title": "Management of terminology resources - Data category specifications, Terminology and other language and content resources - Specification of data categories and management of a Data Category Registry for language resources",
             "date": "2019",
             "url": [
                 "https://www.iso.org/standard/69550.html"
@@ -6372,7 +6369,7 @@
                     "stid": "19112"
                 }
             ],
-            "title": "Geographic information — Spatial referencing by geographic identifiers, Geographic information — Spatial referencing by geographic identifiers",
+            "title": "Geographic information - Spatial referencing by geographic identifiers, Geographic information - Spatial referencing by geographic identifiers",
             "date": "2019",
             "url": [
                 "https://www.iso.org/standard/70742.html"
@@ -6405,7 +6402,7 @@
                     "stid": "8824 (all parts)"
                 }
             ],
-            "title": "Information technology — Abstract Syntax Notation One (ASN.1)",
+            "title": "Information technology - Abstract Syntax Notation One (ASN.1)",
             "date": "2015",
             "url": [
                 "https://www.iso.org/search.html?q=ISO%2FIEC%208824&hPP=10&idx=all_en&p=0&hFR%5Bcategory%5D%5B0%5D=standard"
@@ -6436,7 +6433,7 @@
                     "stid": "14977"
                 }
             ],
-            "title": "Information technology — Syntactic metalanguage — Extended BNF",
+            "title": "Information technology - Syntactic metalanguage - Extended BNF",
             "date": "1996",
             "url": [
                 "https://www.iso.org/standard/26153.html"
@@ -6489,7 +6486,7 @@
                 854,
                 856
             ],
-            "note": "Obsoleted by: RFC 3986\n\nUpdated by: RFC 2732"
+            "note": "Obsoleted by: RFC 3986  Updated by: RFC 2732"
         },
         {
             "id": 243,
@@ -6503,7 +6500,7 @@
                     "stid": "10746-2"
                 }
             ],
-            "title": "Information technology — Open distributed processing — Reference model: Foundations — Part 2",
+            "title": "Information technology - Open distributed processing - Reference model: Foundations - Part 2",
             "date": "2009",
             "url": [
                 "https://www.iso.org/standard/55723.html"
@@ -6532,7 +6529,7 @@
                     "stid": "10746-3"
                 }
             ],
-            "title": "OpenDistributed Processing — Reference Model: Architecture",
+            "title": "OpenDistributed Processing - Reference Model: Architecture",
             "date": "1995/1995",
             "status": "active",
             "refs": [],
@@ -6552,7 +6549,7 @@
                     "stid": "15474-1"
                 }
             ],
-            "title": "Information technology — CDIF framework — Part 1: Overview",
+            "title": "Information technology - CDIF framework - Part 1: Overview",
             "date": "2002",
             "url": [
                 "https://www.iso.org/standard/27825.html"
@@ -6575,7 +6572,7 @@
                     "stid": "15474-2"
                 }
             ],
-            "title": "Information technology — CDIF framework — Part 2: Modelling and extensibility",
+            "title": "Information technology - CDIF framework - Part 2: Modelling and extensibility",
             "date": "2002",
             "url": [
                 "https://www.iso.org/standard/29029.html"
@@ -6598,7 +6595,7 @@
                     "stid": "15475-1"
                 }
             ],
-            "title": "Information technology — CDIF transfer format — Part 1: General rules for syntaxes and encodings",
+            "title": "Information technology - CDIF transfer format - Part 1: General rules for syntaxes and encodings",
             "date": "2002",
             "url": [
                 "https://www.iso.org/standard/27826.html"
@@ -6621,7 +6618,7 @@
                     "stid": "15475-2"
                 }
             ],
-            "title": "Information technology — CDIF transfer format — Part 2: Syntax SYNTAX.1",
+            "title": "Information technology - CDIF transfer format - Part 2: Syntax SYNTAX.1",
             "date": "2002",
             "url": [
                 "https://www.iso.org/standard/29030.html"
@@ -6644,7 +6641,7 @@
                     "stid": "15475-3"
                 }
             ],
-            "title": "Information technology — CDIF transfer format — Part 3: Encoding ENCODING.1",
+            "title": "Information technology - CDIF transfer format - Part 3: Encoding ENCODING.1",
             "date": "2002",
             "url": [
                 "https://www.iso.org/standard/29031.html"
@@ -6667,7 +6664,7 @@
                     "stid": "15476-1"
                 }
             ],
-            "title": "Information technology — CDIF semantic metamodel — Part 1: Foundation",
+            "title": "Information technology - CDIF semantic metamodel - Part 1: Foundation",
             "date": "2002",
             "url": [
                 "https://www.iso.org/standard/27827.html"
@@ -6690,7 +6687,7 @@
                     "stid": "15476-2"
                 }
             ],
-            "title": "Information technology — CDIF semantic metamodel — Part 2: Common",
+            "title": "Information technology - CDIF semantic metamodel - Part 2: Common",
             "date": "2002",
             "url": [
                 "https://www.iso.org/standard/29032.html"
@@ -6713,7 +6710,7 @@
                     "stid": "15476-3"
                 }
             ],
-            "title": "Information technology — CDIF semantic metamodel — Part 3: Data Definition",
+            "title": "Information technology - CDIF semantic metamodel - Part 3: Data Definition",
             "date": "2006",
             "url": [
                 "https://www.iso.org/standard/39296.html"
@@ -6736,7 +6733,7 @@
                     "stid": "15476-4"
                 }
             ],
-            "title": "Information technology — CDIF semantic metamodel — Part 4: Data Models",
+            "title": "Information technology - CDIF semantic metamodel - Part 4: Data Models",
             "date": "2005",
             "url": [
                 "https://www.iso.org/standard/39131.html"
@@ -6759,7 +6756,7 @@
                     "stid": "15476-5"
                 }
             ],
-            "title": "Information technology — CDIF semantic metamodel — Part 5: Data Flow Models",
+            "title": "Information technology - CDIF semantic metamodel - Part 5: Data Flow Models",
             "date": "2004",
             "url": [
                 "https://infostore.saiglobal.com/en-us/standards/04-30117014-dc-draft-jul-2004-260851_saig_bsi_bsi_604024/"
@@ -6782,7 +6779,7 @@
                     "stid": "15476-6"
                 }
             ],
-            "title": "Information technology — CDIF semantic metamodel — Part 5: State/Event Models",
+            "title": "Information technology - CDIF semantic metamodel - Part 5: State/Event Models",
             "date": "2006",
             "url": [
                 "https://www.iso.org/standard/39132.html"
@@ -6805,7 +6802,7 @@
                     "stid": "19505-2"
                 }
             ],
-            "title": "Information technology — Object Management Group Unified Modeling Language (OMG UML) — Part 2: Superstructure",
+            "title": "Information technology - Object Management Group Unified Modeling Language (OMG UML) - Part 2: Superstructure",
             "date": "2012",
             "url": [
                 "https://www.iso.org/standard/52854.html"
@@ -6825,7 +6822,7 @@
                 195,
                 256
             ],
-            "note": "Now confirmed\nISO/IEC 19505-2:2012 "
+            "note": "Now confirmed ISO/IEC 19505-2:2012 "
         },
         {
             "id": 257,
@@ -6925,7 +6922,7 @@
                     "stid": "19505-1"
                 }
             ],
-            "title": "Information technology — Object Management Group Unified Modeling Language (OMG UML) — Part 1: Infrastructure",
+            "title": "Information technology - Object Management Group Unified Modeling Language (OMG UML) - Part 1: Infrastructure",
             "date": "2012",
             "url": [
                 "https://www.iso.org/standard/32624.html"
@@ -7064,7 +7061,7 @@
                     "stid": "639-2"
                 }
             ],
-            "title": "Codes for the representation of names of languages — Part 2: Alpha-3 code",
+            "title": "Codes for the representation of names of languages - Part 2: Alpha-3 code",
             "date": "1998",
             "url": [
                 "https://www.iso.org/standard/4767.html"
@@ -7091,7 +7088,7 @@
                     "stid": "639-3"
                 }
             ],
-            "title": "Codes for the representation of names of languages — Part 3: Alpha-3 code for comprehensive coverage of languages",
+            "title": "Codes for the representation of names of languages - Part 3: Alpha-3 code for comprehensive coverage of languages",
             "date": "2007",
             "url": [
                 "https://www.iso.org/standard/39534.html"
@@ -7543,7 +7540,7 @@
                     "stid": "5807"
                 }
             ],
-            "title": "Information processing — Documentation symbols and conventions for data, program and system flowcharts, program network charts and system resources charts",
+            "title": "Information processing - Documentation symbols and conventions for data, program and system flowcharts, program network charts and system resources charts",
             "date": "1985",
             "url": [
                 "https://www.iso.org/standard/11955.html"
@@ -7673,7 +7670,7 @@
                     "stid": "19106"
                 }
             ],
-            "title": "Geographic information — Profiles",
+            "title": "Geographic information - Profiles",
             "date": "2004",
             "url": [
                 "https://www.iso.org/standard/26011.html"
@@ -7692,7 +7689,7 @@
                     "stid": "19107"
                 }
             ],
-            "title": "Geographic information — Spatial schema",
+            "title": "Geographic information - Spatial schema",
             "date": "2003",
             "url": [
                 "https://www.iso.org/standard/26012.html"
@@ -7712,7 +7709,7 @@
                     "stid": "19108"
                 }
             ],
-            "title": "Geographic information — Temporal schema",
+            "title": "Geographic information - Temporal schema",
             "date": "2002",
             "url": [
                 "https://www.iso.org/standard/26013.html"
@@ -7731,7 +7728,7 @@
                     "stid": "19109"
                 }
             ],
-            "title": "Geographic information — Rules for application schema",
+            "title": "Geographic information - Rules for application schema",
             "date": "2005",
             "url": [
                 "https://www.iso.org/standard/39891.html"
@@ -7750,7 +7747,7 @@
                     "stid": "19110"
                 }
             ],
-            "title": "Geographic information — Methodology for feature cataloguing",
+            "title": "Geographic information - Methodology for feature cataloguing",
             "date": "2005",
             "url": [
                 "https://www.iso.org/standard/39965.html"
@@ -7769,7 +7766,7 @@
                     "stid": "19111-2"
                 }
             ],
-            "title": "Geographic information — Spatial referencing by coordinates — Part 2: Extension for parametric values",
+            "title": "Geographic information - Spatial referencing by coordinates - Part 2: Extension for parametric values",
             "date": "2009",
             "url": [
                 "https://www.iso.org/standard/44075.html"
@@ -7788,7 +7785,7 @@
                     "stid": "19119"
                 }
             ],
-            "title": "Geographic information — Services",
+            "title": "Geographic information - Services",
             "date": "2016",
             "url": [
                 "https://www.iso.org/standard/59221.html"
@@ -7834,7 +7831,7 @@
                     "stid": "8613-1"
                 }
             ],
-            "title": "Information technology — Open Document Architecture (ODA) and Interchange Format: Introduction and general principles",
+            "title": "Information technology - Open Document Architecture (ODA) and Interchange Format: Introduction and general principles",
             "date": "1993/1994",
             "url": [
                 "https://www.iso.org/standard/15928.html"
@@ -7861,7 +7858,7 @@
                     "stid": "8613-2"
                 }
             ],
-            "title": "Information technology — Open Document Architecture (ODA) and Interchange Format: Document structures",
+            "title": "Information technology - Open Document Architecture (ODA) and Interchange Format: Document structures",
             "date": "1993/1994",
             "url": [
                 "https://www.iso.org/standard/25650.html"
@@ -7888,7 +7885,7 @@
                     "stid": "8613-4"
                 }
             ],
-            "title": "Information technology — Open Document Architecture (ODA) and Interchange Format: Document profde",
+            "title": "Information technology - Open Document Architecture (ODA) and Interchange Format: Document profde",
             "date": "1993/1994",
             "url": [
                 "https://www.iso.org/standard/22941.html"
@@ -7915,7 +7912,7 @@
                     "stid": "8613-5"
                 }
             ],
-            "title": "Information technology — Open Document Architecture (ODA) and Interchange Format: Open Document Interchange Format",
+            "title": "Information technology - Open Document Architecture (ODA) and Interchange Format: Open Document Interchange Format",
             "date": "1993/1994",
             "url": [
                 "https://www.iso.org/standard/23410.html"
@@ -7942,7 +7939,7 @@
                     "stid": "8613-7"
                 }
             ],
-            "title": "Information technology — Open Document Architecture (ODA) and Interchange Format: Raster graphics content architectures",
+            "title": "Information technology - Open Document Architecture (ODA) and Interchange Format: Raster graphics content architectures",
             "date": "1993/1994",
             "url": [
                 "https://www.iso.org/standard/23411.html"
@@ -7969,7 +7966,7 @@
                     "stid": "8613-8"
                 }
             ],
-            "title": "Information technology — Open Document Architecture (ODA) and Interchange Format: Geometric graphics content architectures",
+            "title": "Information technology - Open Document Architecture (ODA) and Interchange Format: Geometric graphics content architectures",
             "date": "1993/1994",
             "url": [
                 "https://www.iso.org/standard/23412.html"
@@ -8068,7 +8065,7 @@
                     "stid": "8859-9"
                 }
             ],
-            "title": "Information technology — 8-bit single-byte coded graphic character sets — Part 9: Latin alphabet No. 5",
+            "title": "Information technology - 8-bit single-byte coded graphic character sets - Part 9: Latin alphabet No. 5",
             "date": "1999",
             "url": [
                 "https://www.iso.org/standard/28253.html"
@@ -8094,7 +8091,7 @@
                     "stid": "9541-1"
                 }
             ],
-            "title": "Information technology — Font information interchange — Part 1: Architecture",
+            "title": "Information technology - Font information interchange - Part 1: Architecture",
             "date": "1991",
             "url": [
                 "https://www.iso.org/standard/17277.html"
@@ -8113,7 +8110,7 @@
                     "stid": "704"
                 }
             ],
-            "title": "Terminology work — Principles and methods",
+            "title": "Terminology work - Principles and methods",
             "date": "2009",
             "url": [
                 "https://www.iso.org/standard/38109.html"
@@ -8133,7 +8130,7 @@
                     "stid": "1087-1"
                 }
             ],
-            "title": "Terminology work — Vocabulary — Part 1: Theory and application",
+            "title": "Terminology work - Vocabulary - Part 1: Theory and application",
             "date": "2000",
             "url": [
                 "https://www.iso.org/standard/20057.html"
@@ -8157,7 +8154,7 @@
                     "stid": "11179 (all parts)"
                 }
             ],
-            "title": "Information technology — Metadata registries (MDR)",
+            "title": "Information technology - Metadata registries (MDR)",
             "date": "2019",
             "url": [
                 "https://en.wikipedia.org/wiki/ISO/IEC_11179#Structure_of_the_ISO/IEC_11179_standard"
@@ -8177,7 +8174,7 @@
                     "stid": "24619"
                 }
             ],
-            "title": "Language resource management — Persistent identification and sustainable access (PISA)",
+            "title": "Language resource management - Persistent identification and sustainable access (PISA)",
             "date": "2011",
             "url": [
                 "https://www.iso.org/standard/37333.html"
@@ -8196,7 +8193,7 @@
                     "stid": "19135-1"
                 }
             ],
-            "title": "Geographic information — Procedures for item registration — Part 1: Fundamentals",
+            "title": "Geographic information - Procedures for item registration - Part 1: Fundamentals",
             "date": "2015",
             "url": [
                 "https://www.iso.org/standard/54721.html"
@@ -8215,7 +8212,7 @@
                     "stid": "2382-15"
                 }
             ],
-            "title": "Data processing — Vocabulary — Part 15: Programming languages",
+            "title": "Data processing - Vocabulary - Part 15: Programming languages",
             "date": "1985",
             "url": [
                 "https://www.iso.org/standard/7256.html"
@@ -8238,7 +8235,7 @@
                     "stid": "6429"
                 }
             ],
-            "title": "Information technology — Control functions for coded character sets",
+            "title": "Information technology - Control functions for coded character sets",
             "date": "1992",
             "url": [
                 "https://www.iso.org/standard/12782.html"
@@ -8285,7 +8282,7 @@
                     "stid": "10746-3"
                 }
             ],
-            "title": "Information technology — Open Distributed Processing — Reference Model: Architecture",
+            "title": "Information technology - Open Distributed Processing - Reference Model: Architecture",
             "date": "1995/1996",
             "url": [
                 "https://www.iso.org/standard/20697.html"
@@ -8308,7 +8305,7 @@
                     "stid": "14496-18"
                 }
             ],
-            "title": "Information technology — Coding of audio-visual objects — Part 18: Font compression and streaming",
+            "title": "Information technology - Coding of audio-visual objects - Part 18: Font compression and streaming",
             "date": "2004",
             "url": [
                 "https://www.iso.org/standard/40151.html"
@@ -8392,7 +8389,7 @@
                     "stid": "12651-1"
                 }
             ],
-            "title": "Electronic document management — Vocabulary – Part 1: Electronic document imaging",
+            "title": "Electronic document management - Vocabulary – Part 1: Electronic document imaging",
             "date": "2012",
             "url": [
                 "https://www.iso.org/standard/54755.html"
@@ -8415,7 +8412,7 @@
                     "stid": "24517-1"
                 }
             ],
-            "title": "Document management — Engineering document format using PDF — Part 1: Use of PDF 1.6 (PDF/E-1)",
+            "title": "Document management - Engineering document format using PDF - Part 1: Use of PDF 1.6 (PDF/E-1)",
             "date": "2008",
             "url": [
                 "https://www.iso.org/standard/42274.html"
@@ -8460,7 +8457,7 @@
                     "stid": "12651 Part 1 and Part 2"
                 }
             ],
-            "title": "Electronic imaging — Vocabulary",
+            "title": "Electronic imaging - Vocabulary",
             "date": "2014",
             "url": [
                 "https://www.iso.org/standard/1885.html"
@@ -8695,7 +8692,7 @@
                     "stid": "ST 170M"
                 }
             ],
-            "title": "For Television — Composite Analog Video Signal — NTSC for Studio Applications",
+            "title": "For Television - Composite Analog Video Signal - NTSC for Studio Applications",
             "date": "2004",
             "url": [
                 "https://ieeexplore.ieee.org/document/7291416/versions#versions"
@@ -8714,7 +8711,7 @@
                     "stid": "ST 240"
                 }
             ],
-            "title": "For Television — 1125-Line High-Definition Production Systems — Signal Parameters",
+            "title": "For Television - 1125-Line High-Definition Production Systems - Signal Parameters",
             "date": "1999",
             "url": [
                 "https://ieeexplore.ieee.org/document/7291461?arnumber=7291461"
@@ -8783,7 +8780,7 @@
                     "stid": "8613-2"
                 }
             ],
-            "title": "Information technology — Open Document Architecture (ODA) and interchange format: Document structures — Part 2",
+            "title": "Information technology - Open Document Architecture (ODA) and interchange format: Document structures - Part 2",
             "date": "1995",
             "url": [
                 "https://www.iso.org/standard/25650.html"
@@ -9001,7 +8998,7 @@
                 854,
                 855
             ],
-            "note": "Obsoleted by: RFC 7303\n\nUpdated by: RFC 6839"
+            "note": "Obsoleted by: RFC 7303  Updated by: RFC 6839"
         },
         {
             "id": 344,
@@ -9271,7 +9268,7 @@
             "referencedBy": [
                 138
             ],
-            "note": "Obsoleted by: RFC 2156\n\nUpdated by: RFC 1495"
+            "note": "Obsoleted by: RFC 2156  Updated by: RFC 1495"
         },
         {
             "id": 358,
@@ -9297,7 +9294,7 @@
                 562,
                 817
             ],
-            "note": "Obsoleted by: RFC 4288, RFC 4289\nUpdated by: RFC 3023\n\n"
+            "note": "Obsoleted by: RFC 4288, RFC 4289 Updated by: RFC 3023 "
         },
         {
             "id": 359,
@@ -9329,7 +9326,7 @@
                 491,
                 562
             ],
-            "note": "Updated by:\nRFC 3667, RFC 3668, RFC 3932, RFC 3978, RFC 3979, RFC 5378, RFC 5657, RFC 5742, RFC 6410, RFC 7100, RFC 7127, RFC 7475, RFC 8179"
+            "note": "Updated by: RFC 3667, RFC 3668, RFC 3932, RFC 3978, RFC 3979, RFC 5378, RFC 5657, RFC 5742, RFC 6410, RFC 7100, RFC 7127, RFC 7475, RFC 8179"
         },
         {
             "id": 360,
@@ -9356,7 +9353,7 @@
                 57,
                 138
             ],
-            "note": "Updated by: \nRFC 3668, RFC 3979, RFC 8717"
+            "note": "Updated by:  RFC 3668, RFC 3979, RFC 8717"
         },
         {
             "id": 362,
@@ -9427,7 +9424,7 @@
                     "stid": "15836"
                 }
             ],
-            "title": "Information and documentation — The Dublin Core metadata element set",
+            "title": "Information and documentation - The Dublin Core metadata element set",
             "date": "2009",
             "url": [
                 "https://www.iso.org/standard/52142.html"
@@ -10036,7 +10033,7 @@
                     "stid": "19790"
                 }
             ],
-            "title": "Information technology — Security techniques — Security requirements for cryptographic modules",
+            "title": "Information technology - Security techniques - Security requirements for cryptographic modules",
             "date": "2012",
             "url": [
                 "https://www.iso.org/standard/52906.html"
@@ -10059,7 +10056,7 @@
                     "stid": "24759"
                 }
             ],
-            "title": "Information technology — Security techniques — Test requirements for cryptographic modules",
+            "title": "Information technology - Security techniques - Test requirements for cryptographic modules",
             "date": "2017",
             "url": [
                 "https://www.iso.org/standard/72515.html"
@@ -10145,7 +10142,7 @@
                     "stid": "18014-1"
                 }
             ],
-            "title": "Information technology — Security techniques — Time-stamping services — Part 1: Framework",
+            "title": "Information technology - Security techniques - Time-stamping services - Part 1: Framework",
             "date": "2008",
             "url": [
                 "https://www.iso.org/standard/50678.html"
@@ -11504,7 +11501,7 @@
                 856,
                 857
             ],
-            "note": "Obsoleted by: RFC 4248, RFC 4266\n\nUpdated by:\nRFC 1808, RFC 2368, RFC 2396, RFC 3986, RFC 6196, RFC 6270, RFC 8089"
+            "note": "Obsoleted by: RFC 4248, RFC 4266  Updated by: RFC 1808, RFC 2368, RFC 2396, RFC 3986, RFC 6196, RFC 6270, RFC 8089"
         },
         {
             "id": 453,
@@ -11570,7 +11567,7 @@
                 831,
                 834
             ],
-            "note": "Obsoleted by: RFC 2822\n\nUpdated by:\nRFC 1123, RFC 2156, RFC 1327, RFC 1138, RFC 1148"
+            "note": "Obsoleted by: RFC 2822  Updated by: RFC 1123, RFC 2156, RFC 1327, RFC 1138, RFC 1148"
         },
         {
             "id": 455,
@@ -11631,7 +11628,7 @@
                 164,
                 571
             ],
-            "note": "Obsoleted by: RFC 4346\n\nUpdated by:\nRFC 3546, RFC 5746, RFC 6176, RFC 7465, RFC 7507, RFC 7919"
+            "note": "Obsoleted by: RFC 4346  Updated by: RFC 3546, RFC 5746, RFC 6176, RFC 7465, RFC 7507, RFC 7919"
         },
         {
             "id": 457,
@@ -12097,7 +12094,7 @@
                     "stid": "2382-1"
                 }
             ],
-            "title": "Information technology — Vocabulary — Part 1: Fundamental terms",
+            "title": "Information technology - Vocabulary - Part 1: Fundamental terms",
             "date": "1993",
             "url": [
                 "https://www.iso.org/standard/7229.html"
@@ -12140,7 +12137,7 @@
                     "stid": "11172-2"
                 }
             ],
-            "title": "Information technology — Coding of moving pictures and associated audio for digital storage media at up to about 1,5 Mbit/s — Part 2: Video",
+            "title": "Information technology - Coding of moving pictures and associated audio for digital storage media at up to about 1,5 Mbit/s - Part 2: Video",
             "date": "1993",
             "url": [
                 "https://www.iso.org/standard/22411.html"
@@ -12163,7 +12160,7 @@
                     "stid": "23002-1"
                 }
             ],
-            "title": "Information technology — MPEG video technologies — Part 1: Accuracy requirements for implementation of integer-output 8x8 inverse discrete cosine transform",
+            "title": "Information technology - MPEG video technologies - Part 1: Accuracy requirements for implementation of integer-output 8x8 inverse discrete cosine transform",
             "date": "2006",
             "url": [
                 "https://www.iso.org/standard/42030.html"
@@ -12240,7 +12237,7 @@
                     "stid": "14496-1"
                 }
             ],
-            "title": "Information technology — Coding of audio-visual objects — Part 1: Systems",
+            "title": "Information technology - Coding of audio-visual objects - Part 1: Systems",
             "date": "2010",
             "url": [
                 "https://www.iso.org/standard/55688.html"
@@ -12263,7 +12260,7 @@
                     "stid": "14496-11"
                 }
             ],
-            "title": "Information technology — Coding of audio-visual objects — Part 11: Scene description and application engine",
+            "title": "Information technology - Coding of audio-visual objects - Part 11: Scene description and application engine",
             "date": "2015",
             "url": [
                 "https://www.iso.org/standard/63548.html"
@@ -12282,7 +12279,7 @@
                     "stid": "18901"
                 }
             ],
-            "title": "Imaging materials — Processed silver-gelatin-type black-and-white films — Specifications for stability",
+            "title": "Imaging materials - Processed silver-gelatin-type black-and-white films - Specifications for stability",
             "date": "2010",
             "url": [
                 "https://www.iso.org/standard/51029.html"
@@ -12301,7 +12298,7 @@
                     "stid": "19005-1"
                 }
             ],
-            "title": "Document management — Electronic document file format for long-term preservation — Part 1: Use of PDF 1.4 (PDF/A-1)",
+            "title": "Document management - Electronic document file format for long-term preservation - Part 1: Use of PDF 1.4 (PDF/A-1)",
             "date": "2005",
             "url": [
                 "https://www.iso.org/standard/38920.html"
@@ -12749,7 +12746,7 @@
                     "stid": "9594-8"
                 }
             ],
-            "title": "Information technology — Open Systems Interconnection — The Directory: Authentication framework",
+            "title": "Information technology - Open Systems Interconnection - The Directory: Authentication framework",
             "date": "1995",
             "url": [
                 "https://www.iso.org/standard/17393.html"
@@ -12914,7 +12911,7 @@
                     "stid": "8473-1"
                 }
             ],
-            "title": "Information technology — Protocol for providing the connectionless-mode Network service: Protocol specification",
+            "title": "Information technology - Protocol for providing the connectionless-mode Network service: Protocol specification",
             "date": "1993/1994",
             "url": [
                 "https://www.iso.org/standard/20790.html"
@@ -12941,7 +12938,7 @@
                     "stid": "11577"
                 }
             ],
-            "title": "Information technology — Open Systems Interconnection — Network layer security protocol",
+            "title": "Information technology - Open Systems Interconnection - Network layer security protocol",
             "date": "1994/1995",
             "url": [
                 "https://www.iso.org/standard/22084.html"
@@ -12968,7 +12965,7 @@
                     "stid": "10736"
                 }
             ],
-            "title": "Information technology — Telecommunication and information exchange between systems — Transport layer security protocol",
+            "title": "Information technology - Telecommunication and information exchange between systems - Transport layer security protocol",
             "date": "1994/1995",
             "url": [
                 "https://www.iso.org/standard/18828.html"
@@ -12995,7 +12992,7 @@
                     "stid": "10181-1"
                 }
             ],
-            "title": "Information technology — Open Systems Interconnection — Security frameworks for open systems: Overview",
+            "title": "Information technology - Open Systems Interconnection - Security frameworks for open systems: Overview",
             "date": "1995/1996",
             "url": [
                 "https://www.iso.org/standard/24404.html"
@@ -13022,7 +13019,7 @@
                     "stid": "10181-3"
                 }
             ],
-            "title": "Information technology — Open Systems Interconnection — Security frameworks for open systems: Access control framework",
+            "title": "Information technology - Open Systems Interconnection - Security frameworks for open systems: Access control framework",
             "date": "1995/1996",
             "url": [
                 "https://www.iso.org/standard/18199.html"
@@ -13295,7 +13292,7 @@
                     "stid": "13239"
                 }
             ],
-            "title": "Information technology — Telecommunications and information exchange between systems — High-level data link control (HDLC) procedures",
+            "title": "Information technology - Telecommunications and information exchange between systems - High-level data link control (HDLC) procedures",
             "date": "2002",
             "url": [
                 "https://www.iso.org/standard/37010.html"
@@ -13325,7 +13322,7 @@
                     "stid": "9899"
                 }
             ],
-            "title": "Information technology — Programming languages — C",
+            "title": "Information technology - Programming languages - C",
             "date": "2018",
             "url": [
                 "https://www.iso.org/standard/74528.html"
@@ -13501,7 +13498,7 @@
                     "stid": "2382"
                 }
             ],
-            "title": "Information technology — Vocabulary. Available from the ISO online browsing platform",
+            "title": "Information technology - Vocabulary. Available from the ISO online browsing platform",
             "date": "2015",
             "url": [
                 "https://www.iso.org/standard/63598.html"
@@ -13524,7 +13521,7 @@
                     "stid": "60559"
                 }
             ],
-            "title": "Information technology — Microprocessor Systems — Floating-Point arithmetic",
+            "title": "Information technology - Microprocessor Systems - Floating-Point arithmetic",
             "date": "2020",
             "url": [
                 "https://www.iso.org/standard/80985.html"
@@ -13544,7 +13541,7 @@
                     "stid": "80000-2"
                 }
             ],
-            "title": "Quantities and units — Part 2: Mathematical signs and symbols to be used in the natural sciences and technology",
+            "title": "Quantities and units - Part 2: Mathematical signs and symbols to be used in the natural sciences and technology",
             "date": "2009",
             "url": [
                 "https://www.iso.org/standard/31887.html"
@@ -13713,7 +13710,7 @@
                     "stid": "12234-2"
                 }
             ],
-            "title": "Electronic still-picture imaging — Removable memory — Part 2: TIFF/EP image data format",
+            "title": "Electronic still-picture imaging - Removable memory - Part 2: TIFF/EP image data format",
             "date": "2001",
             "url": [
                 "https://www.iso.org/standard/29377.html"
@@ -13732,7 +13729,7 @@
                     "stid": "12639"
                 }
             ],
-            "title": "Graphic technology — Prepress digital data exchange — Tag image file format for image technology (TIFF/IT)",
+            "title": "Graphic technology - Prepress digital data exchange - Tag image file format for image technology (TIFF/IT)",
             "date": "2004",
             "url": [
                 "https://www.iso.org/standard/34342.html"
@@ -13751,7 +13748,7 @@
                     "stid": "12641"
                 }
             ],
-            "title": "Graphic technology — Prepress digital data exchange — Colour targets for input scanner calibration",
+            "title": "Graphic technology - Prepress digital data exchange - Colour targets for input scanner calibration",
             "date": "1997",
             "url": [
                 "https://www.iso.org/standard/2079.html"
@@ -13770,7 +13767,7 @@
                     "stid": "12642-1"
                 }
             ],
-            "title": "Graphic technology — Input data for characterization of 4-colour process printing — Part 1: Initial data set",
+            "title": "Graphic technology - Input data for characterization of 4-colour process printing - Part 1: Initial data set",
             "date": "1996",
             "url": [
                 "https://www.iso.org/standard/1611.html"
@@ -14046,7 +14043,7 @@
                     "stid": "14496-22"
                 }
             ],
-            "title": "Information technology — Coding of audio-visual objects — Part 22: Open Font Format",
+            "title": "Information technology - Coding of audio-visual objects - Part 22: Open Font Format",
             "date": "2019",
             "url": [
                 "https://www.iso.org/standard/74461.html"
@@ -14066,7 +14063,7 @@
                 0,
                 345
             ],
-            "note": "original version from 2015\n"
+            "note": "original version from 2015"
         },
         {
             "id": 561,
@@ -14164,7 +14161,7 @@
                 848,
                 855
             ],
-            "note": "HTTP specification is referenced by ISO 32000-1 only once in relationship with Web capture command dictionary. However, it is also referenced from a number of other encryption-related standards like PKCS#5.\n\nObsoleted by RFC 7230, RFC 7231, RFC 7232, RFC 7233, RFC 7234, RFC 7235\n\nUpdated by RFC 2817, RFC 5785, RFC 6266, RFC 6585"
+            "note": "HTTP specification is referenced by ISO 32000-1 only once in relationship with Web capture command dictionary. However, it is also referenced from a number of other encryption-related standards like PKCS#5.  Obsoleted by RFC 7230, RFC 7231, RFC 7232, RFC 7233, RFC 7234, RFC 7235  Updated by RFC 2817, RFC 5785, RFC 6266, RFC 6585"
         },
         {
             "id": 563,
@@ -14312,7 +14309,7 @@
                 16,
                 427
             ],
-            "note": "Updated by:\nRFC 4634, RFC 6234"
+            "note": "Updated by: RFC 4634, RFC 6234"
         },
         {
             "id": 567,
@@ -14370,7 +14367,7 @@
                     "stid": "10118-3"
                 }
             ],
-            "title": "Information Technology—Security techniques—Hash-functions—Part 3: Dedicated hash-functions",
+            "title": "Information Technology-Security techniques-Hash-functions-Part 3: Dedicated hash-functions",
             "date": "1998",
             "url": [
                 "https://www.iso.org/standard/25428.html"
@@ -14399,7 +14396,7 @@
             "referencedBy": [
                 62
             ],
-            "note": "withdrawn on 19 May 2005\n\n"
+            "note": "withdrawn on 19 May 2005 "
         },
         {
             "id": 571,
@@ -14509,7 +14506,7 @@
                 462,
                 824
             ],
-            "note": "Updated by:\nRFC 6151"
+            "note": "Updated by: RFC 6151"
         },
         {
             "id": 575,
@@ -16386,7 +16383,7 @@
                     "stid": "9945-2"
                 }
             ],
-            "title": "Information technology — Portable Operating System Interface (POSIX) — Part 2: Shell and Utilities",
+            "title": "Information technology - Portable Operating System Interface (POSIX) - Part 2: Shell and Utilities",
             "date": "1993",
             "url": [
                 "https://www.iso.org/standard/17841.html"
@@ -17239,7 +17236,7 @@
             "referencedBy": [
                 562
             ],
-            "note": "Obsoleted by:\nRFC 7235, RFC 7615, RFC 7616, RFC 7617"
+            "note": "Obsoleted by: RFC 7235, RFC 7615, RFC 7616, RFC 7617"
         },
         {
             "id": 713,
@@ -17359,7 +17356,7 @@
             "referencedBy": [
                 563
             ],
-            "note": "Updated by:\nRFC 4519, RFC 4524"
+            "note": "Updated by: RFC 4519, RFC 4524"
         },
         {
             "id": 719,
@@ -17379,7 +17376,7 @@
             "referencedBy": [
                 563
             ],
-            "note": "Obsoleted by:\nRFC 4510, RFC 4517, RFC 4523, RFC 4512\nUpdated by:\nRFC 3377"
+            "note": "Obsoleted by: RFC 4510, RFC 4517, RFC 4523, RFC 4512 Updated by: RFC 3377"
         },
         {
             "id": 720,
@@ -17399,7 +17396,7 @@
             "referencedBy": [
                 566
             ],
-            "note": "Status:\nHISTORIC (changed from INFORMATIONAL March 2011)\n\nObsoleted by:\nRFC 6150"
+            "note": "Status: HISTORIC (changed from INFORMATIONAL March 2011)  Obsoleted by: RFC 6150"
         },
         {
             "id": 721,
@@ -17419,7 +17416,7 @@
             "referencedBy": [
                 574
             ],
-            "note": "withdrawn\noriginal version from 1981"
+            "note": "withdrawn original version from 1981"
         },
         {
             "id": 722,
@@ -17439,7 +17436,7 @@
             "referencedBy": [
                 574
             ],
-            "note": "Obsoleted by:\nRFC 2402"
+            "note": "Obsoleted by: RFC 2402"
         },
         {
             "id": 723,
@@ -17667,7 +17664,7 @@
             "referencedBy": [
                 810
             ],
-            "note": "Obsoleted by:\nRFC 1421"
+            "note": "Obsoleted by: RFC 1421"
         },
         {
             "id": 735,
@@ -17687,7 +17684,7 @@
             "referencedBy": [
                 810
             ],
-            "note": "Obsoleted by:\nRFC 1422"
+            "note": "Obsoleted by: RFC 1422"
         },
         {
             "id": 736,
@@ -17707,7 +17704,7 @@
             "referencedBy": [
                 810
             ],
-            "note": "Obsoleted by:\nRFC 1423"
+            "note": "Obsoleted by: RFC 1423"
         },
         {
             "id": 737,
@@ -17860,7 +17857,7 @@
             "referencedBy": [
                 822
             ],
-            "note": "Obsoleted by:\nRFC 1288, RFC 1196, RFC 1194"
+            "note": "Obsoleted by: RFC 1288, RFC 1196, RFC 1194"
         },
         {
             "id": 745,
@@ -17978,7 +17975,7 @@
             "referencedBy": [
                 822
             ],
-            "note": "Obsoleted by:\nRFC 954, RFC 3912"
+            "note": "Obsoleted by: RFC 954, RFC 3912"
         },
         {
             "id": 751,
@@ -18093,7 +18090,7 @@
             "referencedBy": [
                 822
             ],
-            "note": "Obsoleted by:\nRFC 1034, RFC 1035"
+            "note": "Obsoleted by: RFC 1034, RFC 1035"
         },
         {
             "id": 757,
@@ -18116,7 +18113,7 @@
                 822,
                 825
             ],
-            "note": "Obsoleted by:\nRFC 2821"
+            "note": "Obsoleted by: RFC 2821"
         },
         {
             "id": 758,
@@ -18175,7 +18172,7 @@
                 818,
                 822
             ],
-            "note": "Obsoleted by:\nRFC 1060"
+            "note": "Obsoleted by: RFC 1060"
         },
         {
             "id": 761,
@@ -18255,7 +18252,7 @@
                 164,
                 823
             ],
-            "note": "Obsoleted by: RFC 4301\nUpdated by: RFC 3168"
+            "note": "Obsoleted by: RFC 4301 Updated by: RFC 3168"
         },
         {
             "id": 765,
@@ -18276,7 +18273,7 @@
                 164,
                 823
             ],
-            "note": "Obsoleted by:\nRFC 4302, RFC 4305"
+            "note": "Obsoleted by: RFC 4302, RFC 4305"
         },
         {
             "id": 766,
@@ -18297,7 +18294,7 @@
                 164,
                 823
             ],
-            "note": "Obsoleted by:\nRFC 4303, RFC 4305"
+            "note": "Obsoleted by: RFC 4303, RFC 4305"
         },
         {
             "id": 767,
@@ -18317,7 +18314,7 @@
             "referencedBy": [
                 823
             ],
-            "note": "Obsoleted by:\nRFC 4443"
+            "note": "Obsoleted by: RFC 4443"
         },
         {
             "id": 768,
@@ -18338,7 +18335,7 @@
                 823,
                 825
             ],
-            "note": "Obsoleted by:\nRFC 3513"
+            "note": "Obsoleted by: RFC 3513"
         },
         {
             "id": 769,
@@ -18358,7 +18355,7 @@
             "referencedBy": [
                 823
             ],
-            "note": "Obsoleted by:\nRFC 8201"
+            "note": "Obsoleted by: RFC 8201"
         },
         {
             "id": 770,
@@ -18378,7 +18375,7 @@
             "referencedBy": [
                 823
             ],
-            "note": "Updated by:\nRFC 2153"
+            "note": "Updated by: RFC 2153"
         },
         {
             "id": 771,
@@ -18415,7 +18412,7 @@
             "referencedBy": [
                 824
             ],
-            "note": "Obsoleted by:\nRFC 6955"
+            "note": "Obsoleted by: RFC 6955"
         },
         {
             "id": 773,
@@ -18465,7 +18462,7 @@
             "referencedBy": [
                 824
             ],
-            "note": "Obsoleted by:\nRFC 2986"
+            "note": "Obsoleted by: RFC 2986"
         },
         {
             "id": 775,
@@ -18524,7 +18521,7 @@
             "referencedBy": [
                 825
             ],
-            "note": "Obsoleted by:\nRFC 4880"
+            "note": "Obsoleted by: RFC 4880"
         },
         {
             "id": 778,
@@ -18582,7 +18579,7 @@
             "referencedBy": [
                 825
             ],
-            "note": "Obsoleted by:\nRFC 3798"
+            "note": "Obsoleted by: RFC 3798"
         },
         {
             "id": 781,
@@ -18640,7 +18637,7 @@
             "referencedBy": [
                 825
             ],
-            "note": "Obsoleted by:\nRFC 4409"
+            "note": "Obsoleted by: RFC 4409"
         },
         {
             "id": 784,
@@ -18679,7 +18676,7 @@
             "referencedBy": [
                 825
             ],
-            "note": "Obsoleted by:\nRFC 2821"
+            "note": "Obsoleted by: RFC 2821"
         },
         {
             "id": 786,
@@ -18721,7 +18718,7 @@
                 818,
                 825
             ],
-            "note": "Updated by:\nRFC 1101, RFC 1183, RFC 1348, RFC 1876, RFC 1982, RFC 1995, RFC 1996, RFC 2065, RFC 2136, RFC 2181, RFC 2137, RFC 2308, RFC 2535, RFC 2673, RFC 2845, RFC 3425, RFC 3658, RFC 4033, RFC 4034, RFC 4035, RFC 4343, RFC 5936, RFC 5966, RFC 6604, RFC 7766, RFC 8482, RFC 8490, RFC 8767"
+            "note": "Updated by: RFC 1101, RFC 1183, RFC 1348, RFC 1876, RFC 1982, RFC 1995, RFC 1996, RFC 2065, RFC 2136, RFC 2181, RFC 2137, RFC 2308, RFC 2535, RFC 2673, RFC 2845, RFC 3425, RFC 3658, RFC 4033, RFC 4034, RFC 4035, RFC 4343, RFC 5936, RFC 5966, RFC 6604, RFC 7766, RFC 8482, RFC 8490, RFC 8767"
         },
         {
             "id": 788,
@@ -18741,7 +18738,7 @@
             "referencedBy": [
                 825
             ],
-            "note": "Obsoleted by:\nRFC 3461"
+            "note": "Obsoleted by: RFC 3461"
         },
         {
             "id": 789,
@@ -18761,7 +18758,7 @@
             "referencedBy": [
                 825
             ],
-            "note": "Obsoleted by:\nRFC 3464\nUpdated by:\nRFC 2852"
+            "note": "Obsoleted by: RFC 3464 Updated by: RFC 2852"
         },
         {
             "id": 790,
@@ -18782,7 +18779,7 @@
                 571,
                 825
             ],
-            "note": "Updated by:\nRFC 1957, RFC 2449, RFC 6186, RFC 8314"
+            "note": "Updated by: RFC 1957, RFC 2449, RFC 6186, RFC 8314"
         },
         {
             "id": 791,
@@ -18822,7 +18819,7 @@
             "referencedBy": [
                 825
             ],
-            "note": "Obsoleted by:\nRFC 3030"
+            "note": "Obsoleted by: RFC 3030"
         },
         {
             "id": 793,
@@ -18842,7 +18839,7 @@
             "referencedBy": [
                 825
             ],
-            "note": "Obsoleted by:\nRFC 3463"
+            "note": "Obsoleted by: RFC 3463"
         },
         {
             "id": 794,
@@ -18863,7 +18860,7 @@
                 826,
                 849
             ],
-            "note": "Obsoleted by:\nRFC 5891"
+            "note": "Obsoleted by: RFC 5891"
         },
         {
             "id": 795,
@@ -18883,7 +18880,7 @@
             "referencedBy": [
                 826
             ],
-            "note": "Updated by:\nRFC 5891"
+            "note": "Updated by: RFC 5891"
         },
         {
             "id": 801,
@@ -19130,7 +19127,7 @@
                 456,
                 811
             ],
-            "note": "Obsoleted by RFC 6149\n"
+            "note": "Obsoleted by RFC 6149"
         },
         {
             "id": 811,
@@ -19512,7 +19509,7 @@
                 826,
                 848
             ],
-            "note": "Updated by:\nRFC 1101, RFC 1183, RFC 1348, RFC 1876, RFC 1982, RFC 2065, RFC 2181, RFC 2308, RFC 2535, RFC 4033, RFC 4034, RFC 4035, RFC 4343, RFC 4035, RFC 4592, RFC 5936, RFC 8020, RFC 8482, RFC 8767"
+            "note": "Updated by: RFC 1101, RFC 1183, RFC 1348, RFC 1876, RFC 1982, RFC 2065, RFC 2181, RFC 2308, RFC 2535, RFC 4033, RFC 4034, RFC 4035, RFC 4343, RFC 4035, RFC 4592, RFC 5936, RFC 8020, RFC 8482, RFC 8767"
         },
         {
             "id": 823,
@@ -19542,7 +19539,7 @@
             "referencedBy": [
                 54
             ],
-            "note": "Obsoleted by: RFC 8200\n\nUpdated by: RFC 5095, RFC 5722, RFC 5871, RFC 6437, RFC 6564, RFC 6935, RFC 6946, RFC 7045, RFC 7112"
+            "note": "Obsoleted by: RFC 8200  Updated by: RFC 5095, RFC 5722, RFC 5871, RFC 6437, RFC 6564, RFC 6935, RFC 6946, RFC 7045, RFC 7112"
         },
         {
             "id": 824,
@@ -19634,7 +19631,7 @@
             "referencedBy": [
                 54
             ],
-            "note": "Obsoleted by: RFC 5321\n\nUpdated by: RFC 5336\n\n"
+            "note": "Obsoleted by: RFC 5321  Updated by: RFC 5336 "
         },
         {
             "id": 826,
@@ -20418,7 +20415,7 @@
                     "stid": "19757-2"
                 }
             ],
-            "title": "Information technology — Document Schema Definition Language (DSDL) — Part 2: Regular-grammar-based validation — RELAX NG",
+            "title": "Information technology - Document Schema Definition Language (DSDL) - Part 2: Regular-grammar-based validation - RELAX NG",
             "date": "2008",
             "url": [
                 "https://www.iso.org/standard/52348.html"
@@ -20813,7 +20810,7 @@
                     "stid": "8372"
                 }
             ],
-            "title": "Information processing — Modes of operation for a 64-bit block cipher algorithm",
+            "title": "Information processing - Modes of operation for a 64-bit block cipher algorithm",
             "date": "1987",
             "url": [
                 "https://www.iso.org/standard/15530.html"
@@ -20970,7 +20967,7 @@
                     "stid": "3309"
                 }
             ],
-            "title": "Information technology — Telecommunications and information exchange between systems — High-level data link control (HDLC) procedures — Frame structure",
+            "title": "Information technology - Telecommunications and information exchange between systems - High-level data link control (HDLC) procedures - Frame structure",
             "date": "2002",
             "url": [
                 "https://www.iso.org/standard/37010.html"
@@ -21101,7 +21098,7 @@
                 825,
                 834
             ],
-            "note": "Obsoleted by: RFC 5322\n\nUpdated by: RFC 5335, RFC 5336"
+            "note": "Obsoleted by: RFC 5322  Updated by: RFC 5335, RFC 5336"
         },
         {
             "id": 883,
@@ -21639,7 +21636,7 @@
             "referencedBy": [
                 843
             ],
-            "note": "Obsoleted by:\nRFC 2045, RFC 2046, RFC 2047, RFC 2048, RFC 2049\nUpdated by:\nRFC 1590"
+            "note": "Obsoleted by: RFC 2045, RFC 2046, RFC 2047, RFC 2048, RFC 2049 Updated by: RFC 1590"
         },
         {
             "id": 911,
@@ -21672,7 +21669,7 @@
                     "stid": "TR 9573-13"
                 }
             ],
-            "title": "Information technology — SGML support facilities — Techniques for using SGML — Part 13: Public entity sets for mathematics and science",
+            "title": "Information technology - SGML support facilities - Techniques for using SGML - Part 13: Public entity sets for mathematics and science",
             "date": "1991",
             "url": [
                 "https://www.iso.org/standard/17332.html"
@@ -22319,7 +22316,7 @@
                     "stid": "13818-1"
                 }
             ],
-            "title": "Information technology — Generic coding of moving pictures and associated audio information — Part 1: Systems",
+            "title": "Information technology - Generic coding of moving pictures and associated audio information - Part 1: Systems",
             "date": "2019",
             "url": [
                 "https://www.iso.org/standard/75928.html"
@@ -22342,7 +22339,7 @@
                     "stid": "14496-12"
                 }
             ],
-            "title": "Information technology — Coding of audio-visual objects — Part 12: ISO base media file format",
+            "title": "Information technology - Coding of audio-visual objects - Part 12: ISO base media file format",
             "date": "2020",
             "url": [
                 "https://www.iso.org/standard/74428.html"
@@ -22429,7 +22426,7 @@
             "referencedBy": [
                 848
             ],
-            "note": "Obsoleted by:\nRFC 7578"
+            "note": "Obsoleted by: RFC 7578"
         },
         {
             "id": 952,
@@ -22507,7 +22504,7 @@
             "referencedBy": [
                 848
             ],
-            "note": "Obsoleted by:\nRFC 6381"
+            "note": "Obsoleted by: RFC 6381"
         },
         {
             "id": 956,
@@ -22527,7 +22524,7 @@
             "referencedBy": [
                 848
             ],
-            "note": "Obsoleted by:\nRFC 7595"
+            "note": "Obsoleted by: RFC 7595"
         },
         {
             "id": 957,
@@ -22547,7 +22544,7 @@
             "referencedBy": [
                 848
             ],
-            "note": "Updated by:\nRFC 6854"
+            "note": "Updated by: RFC 6854"
         },
         {
             "id": 958,
@@ -22700,7 +22697,7 @@
             "referencedBy": [
                 848
             ],
-            "note": "Updated by:\nRFC 7936, RFC 8307, RFC 8441"
+            "note": "Updated by: RFC 7936, RFC 8307, RFC 8441"
         },
         {
             "id": 966,
@@ -22720,7 +22717,7 @@
             "referencedBy": [
                 852
             ],
-            "note": "Obsoleted by:\nRFC 4855, RFC 4856\nUpdated by:\nRFC 3625, RFC 4629"
+            "note": "Obsoleted by: RFC 4855, RFC 4856 Updated by: RFC 3625, RFC 4629"
         },
         {
             "id": 968,
@@ -22740,7 +22737,7 @@
             "referencedBy": [
                 163
             ],
-            "note": "Obsoleted by:\nRFC 3852"
+            "note": "Obsoleted by: RFC 3852"
         },
         {
             "id": 969,
@@ -22754,7 +22751,7 @@
                     "stid": "9796-2"
                 }
             ],
-            "title": "Information technology — Security techniques — Digital signature schemes giving message recovery — Part 2: Integer factorization based mechanisms",
+            "title": "Information technology - Security techniques - Digital signature schemes giving message recovery - Part 2: Integer factorization based mechanisms",
             "date": "2002",
             "url": [
                 "https://www.iso.org/standard/35455.html"
@@ -22777,7 +22774,7 @@
                     "stid": "18033-2"
                 }
             ],
-            "title": "Information technology — Security techniques — Encryption algorithms — Part 2: Asymmetric ciphers",
+            "title": "Information technology - Security techniques - Encryption algorithms - Part 2: Asymmetric ciphers",
             "date": "2006",
             "url": [
                 "https://www.iso.org/standard/37971.html"
@@ -22806,7 +22803,7 @@
             "referencedBy": [
                 163
             ],
-            "note": "Obsoleted by:\nRFC 3447"
+            "note": "Obsoleted by: RFC 3447"
         },
         {
             "id": 972,
@@ -22834,7 +22831,7 @@
                     "stid": "8823"
                 }
             ],
-            "title": "Information processing systems — Open Systems Interconnection — Connection oriented presentation protocol specification",
+            "title": "Information processing systems - Open Systems Interconnection - Connection oriented presentation protocol specification",
             "date": "1988",
             "url": [
                 "https://www.iso.org/standard/16280.html"
@@ -22853,7 +22850,7 @@
                     "stid": "6093"
                 }
             ],
-            "title": "Information processing — Representation of numerical values in character strings for information interchange",
+            "title": "Information processing - Representation of numerical values in character strings for information interchange",
             "date": "1985",
             "url": [
                 "https://www.iso.org/standard/12285.html"
@@ -22880,7 +22877,7 @@
                     "stid": "8825-1 Cor. 2"
                 }
             ],
-            "title": "Information technology — ASN.1 encoding rules: Specification of Basic Encoding Rules (BER), Canonical Encoding Rules (CER) and Distinguished Encoding Rules (DER) — Part 1: — Technical Corrigendum 2",
+            "title": "Information technology - ASN.1 encoding rules: Specification of Basic Encoding Rules (BER), Canonical Encoding Rules (CER) and Distinguished Encoding Rules (DER) - Part 1: - Technical Corrigendum 2",
             "date": "2014",
             "url": [
                 "https://www.iso.org/standard/64966.html"
@@ -23094,7 +23091,7 @@
             "referencedBy": [
                 572
             ],
-            "note": "Obsoleted by:\nRFC 8018"
+            "note": "Obsoleted by: RFC 8018"
         },
         {
             "id": 985,
@@ -23165,7 +23162,7 @@
                     "stid": "9945-1"
                 }
             ],
-            "title": "Information technology — Portable Operating System Interface (POSIX) — Part 1: System Application Program Interface (API) [C Language]",
+            "title": "Information technology - Portable Operating System Interface (POSIX) - Part 1: System Application Program Interface (API) [C Language]",
             "date": "1990",
             "url": [
                 "https://www.iso.org/standard/17840.html"
@@ -23271,7 +23268,7 @@
             "referencedBy": [
                 855
             ],
-            "note": "Obsoleted by:\nRFC 3676"
+            "note": "Obsoleted by: RFC 3676"
         },
         {
             "id": 994,
@@ -23349,7 +23346,7 @@
                 856,
                 857
             ],
-            "note": "Obsoleted by:\nRFC 2854"
+            "note": "Obsoleted by: RFC 2854"
         },
         {
             "id": 998,
@@ -23369,7 +23366,7 @@
             "referencedBy": [
                 857
             ],
-            "note": "Obsoleted by:\nRFC 3551"
+            "note": "Obsoleted by: RFC 3551"
         },
         {
             "id": 999,
@@ -23383,7 +23380,7 @@
                     "stid": "13818-6"
                 }
             ],
-            "title": "Information technology — Generic coding of moving pictures and associated audio information — Part 6: Extensions for DSM-CC",
+            "title": "Information technology - Generic coding of moving pictures and associated audio information - Part 6: Extensions for DSM-CC",
             "date": "1998",
             "url": [
                 "https://www.iso.org/standard/25039.html"
@@ -23412,7 +23409,7 @@
             "referencedBy": [
                 857
             ],
-            "note": "Obsoleted by:\nRFC 4566\nUpdated by:\nRFC 3266"
+            "note": "Obsoleted by: RFC 4566 Updated by: RFC 3266"
         },
         {
             "id": 1001,
@@ -23546,7 +23543,7 @@
             "referencedBy": [
                 857
             ],
-            "note": "Obsoleted by:\nRFC 6247"
+            "note": "Obsoleted by: RFC 6247"
         },
         {
             "id": 1008,
@@ -23566,7 +23563,7 @@
             "referencedBy": [
                 857
             ],
-            "note": "Obsoleted by:\nRFC 3550"
+            "note": "Obsoleted by: RFC 3550"
         },
         {
             "id": 1009,
@@ -23706,7 +23703,7 @@
                     "stid": "9660"
                 }
             ],
-            "title": "Information processing — Volume and file structure of CD-ROM for information interchange",
+            "title": "Information processing - Volume and file structure of CD-ROM for information interchange",
             "date": "1988",
             "url": [
                 "https://www.iso.org/standard/17505.html"
@@ -23773,7 +23770,7 @@
                 164,
                 571
             ],
-            "note": "Updated by:\nRFC 4537, RFC 5021, RFC 5896, RFC 6111, RFC 6112, RFC 6113, RFC 6649, RFC 6806, RFC 7751, RFC 8062, RFC 8129, RFC 8429, RFC 8553"
+            "note": "Updated by: RFC 4537, RFC 5021, RFC 5896, RFC 6111, RFC 6112, RFC 6113, RFC 6649, RFC 6806, RFC 7751, RFC 8062, RFC 8129, RFC 8429, RFC 8553"
         },
         {
             "id": 1020,
@@ -23793,7 +23790,7 @@
             "referencedBy": [
                 571
             ],
-            "note": "Obsoleted by:\nRFC 4366"
+            "note": "Obsoleted by: RFC 4366"
         },
         {
             "id": 1021,
@@ -23814,7 +23811,7 @@
                 164,
                 571
             ],
-            "note": "Obsoleted by:\nRFC 8446"
+            "note": "Obsoleted by: RFC 8446"
         },
         {
             "id": 1022,
@@ -24268,7 +24265,7 @@
                     "stid": "2846-1"
                 }
             ],
-            "title": "Graphic technology — Colour and transparency of ink sets for four-colour-printing — Part 1: Sheet-fed and heat-set web offset lithographic printing",
+            "title": "Graphic technology - Colour and transparency of ink sets for four-colour-printing - Part 1: Sheet-fed and heat-set web offset lithographic printing",
             "date": "1997",
             "url": [
                 "https://www.iso.org/standard/7844.html"
@@ -24431,7 +24428,7 @@
                     "stid": "11568-2"
                 }
             ],
-            "title": "Financial services — Key management (retail) — Part 2: Symmetric ciphers, their key management and life cycle",
+            "title": "Financial services - Key management (retail) - Part 2: Symmetric ciphers, their key management and life cycle",
             "date": "2012",
             "url": [
                 "https://www.iso.org/standard/53568.html"
@@ -24474,7 +24471,7 @@
                     "stid": "20060"
                 }
             ],
-            "title": "Information technology — Open Terminal Architecture (OTA) — Virtual machine",
+            "title": "Information technology - Open Terminal Architecture (OTA) - Virtual machine",
             "date": "2010",
             "url": [
                 "https://www.iso.org/standard/54776.html"
@@ -24512,7 +24509,7 @@
                     "stid": "15782-1"
                 }
             ],
-            "title": "Certificate management for financial services — Part 1: Public key certificates",
+            "title": "Certificate management for financial services - Part 1: Public key certificates",
             "date": "2009",
             "url": [
                 "https://www.iso.org/standard/46547.html"
@@ -24585,7 +24582,7 @@
                     "stid": "13492"
                 }
             ],
-            "title": "Financial services — Key management related data element — Application and usage of ISO 8583 data elements 53 and 96",
+            "title": "Financial services - Key management related data element - Application and usage of ISO 8583 data elements 53 and 96",
             "date": "2007",
             "url": [
                 "https://www.iso.org/standard/39668.html"
@@ -24608,7 +24605,7 @@
                     "stid": "11770-3"
                 }
             ],
-            "title": "Information technology — Security techniques — Key management — Part 3: Mechanisms using asymmetric techniques",
+            "title": "Information technology - Security techniques - Key management - Part 3: Mechanisms using asymmetric techniques",
             "date": "2015",
             "url": [
                 "https://www.iso.org/standard/60237.html"
@@ -24938,7 +24935,7 @@
                     "stid": "15408-1"
                 }
             ],
-            "title": "Information technology — Security techniques — Evaluation criteria for IT security — Part 1: Introduction and general model",
+            "title": "Information technology - Security techniques - Evaluation criteria for IT security - Part 1: Introduction and general model",
             "date": "2009",
             "url": [
                 "https://www.iso.org/standard/50341.html"
@@ -25043,7 +25040,7 @@
             "referencedBy": [
                 164
             ],
-            "note": "Updated by:\nRFC 6712"
+            "note": "Updated by: RFC 6712"
         },
         {
             "id": 1085,
@@ -25139,7 +25136,7 @@
             "referencedBy": [
                 164
             ],
-            "note": "Obsoleted by:\nRFC 8551"
+            "note": "Obsoleted by: RFC 8551"
         },
         {
             "id": 1090,
@@ -25197,7 +25194,7 @@
             "referencedBy": [
                 164
             ],
-            "note": "Obsoleted by:\nRFC 7296\nUpdated by:\nRFC 5998, RFC 6989"
+            "note": "Obsoleted by: RFC 7296 Updated by: RFC 5998, RFC 6989"
         },
         {
             "id": 1093,
@@ -25255,7 +25252,7 @@
             "referencedBy": [
                 164
             ],
-            "note": "Updated by:\nRFC 6161"
+            "note": "Updated by: RFC 6161"
         },
         {
             "id": 1096,
@@ -25313,7 +25310,7 @@
             "referencedBy": [
                 164
             ],
-            "note": "Updated by:\nRFC 7427, RFC 7670, RFC 8247"
+            "note": "Updated by: RFC 7427, RFC 7670, RFC 8247"
         },
         {
             "id": 1099,
@@ -25504,7 +25501,7 @@
             "referencedBy": [
                 164
             ],
-            "note": "Obsoleted by:\nRFC 4306"
+            "note": "Obsoleted by: RFC 4306"
         },
         {
             "id": 1109,
@@ -25524,7 +25521,7 @@
             "referencedBy": [
                 164
             ],
-            "note": "Obsoleted by:\nRFC 4306"
+            "note": "Obsoleted by: RFC 4306"
         },
         {
             "id": 1110,
@@ -25545,7 +25542,7 @@
                 164,
                 462
             ],
-            "note": "Obsoleted by:\nRFC 4306\nUpdated by:\nRFC 4109"
+            "note": "Obsoleted by: RFC 4306 Updated by: RFC 4109"
         },
         {
             "id": 1111,
@@ -25717,7 +25714,7 @@
             "referencedBy": [
                 164
             ],
-            "note": "Updated by:\nRFC 6014, RFC 6840"
+            "note": "Updated by: RFC 6014, RFC 6840"
         },
         {
             "id": 1120,
@@ -25737,7 +25734,7 @@
             "referencedBy": [
                 164
             ],
-            "note": "Updated by:\nRFC 4470, RFC 6014, RFC 6840, RFC 6944"
+            "note": "Updated by: RFC 4470, RFC 6014, RFC 6840, RFC 6944"
         },
         {
             "id": 1121,
@@ -25757,7 +25754,7 @@
             "referencedBy": [
                 164
             ],
-            "note": "Updated by:\nRFC 4470, RFC 6014, RFC 6840, RFC 8198"
+            "note": "Updated by: RFC 4470, RFC 6014, RFC 6840, RFC 8198"
         },
         {
             "id": 1122,
@@ -25815,7 +25812,7 @@
             "referencedBy": [
                 164
             ],
-            "note": "Updated by:\nRFC 8308"
+            "note": "Updated by: RFC 8308"
         },
         {
             "id": 1125,
@@ -25835,7 +25832,7 @@
             "referencedBy": [
                 164
             ],
-            "note": "Updated by:\nRFC 8308, RFC 8332"
+            "note": "Updated by: RFC 8308, RFC 8332"
         },
         {
             "id": 1126,
@@ -25855,7 +25852,7 @@
             "referencedBy": [
                 164
             ],
-            "note": "Updated by:\nRFC 6668, RFC 8268, RFC 8308, RFC 8332, RFC 8709, RFC 8758"
+            "note": "Updated by: RFC 6668, RFC 8268, RFC 8308, RFC 8332, RFC 8709, RFC 8758"
         },
         {
             "id": 1127,
@@ -25875,7 +25872,7 @@
             "referencedBy": [
                 164
             ],
-            "note": "Updated by:\nRFC 8308"
+            "note": "Updated by: RFC 8308"
         },
         {
             "id": 1128,
@@ -25914,7 +25911,7 @@
             "referencedBy": [
                 164
             ],
-            "note": "Updated by:\nRFC 6040, RFC 7619"
+            "note": "Updated by: RFC 6040, RFC 7619"
         },
         {
             "id": 1130,
@@ -25972,7 +25969,7 @@
             "referencedBy": [
                 164
             ],
-            "note": "Obsoleted by:\nRFC 8247"
+            "note": "Obsoleted by: RFC 8247"
         },
         {
             "id": 1133,
@@ -26030,7 +26027,7 @@
             "referencedBy": [
                 164
             ],
-            "note": "Obsoleted by:\nRFC 5246\nUpdated by:\nRFC 4366, RFC 4680, RFC 4681, RFC 5746, RFC 6176, RFC 7465, RFC 7507, RFC 7919"
+            "note": "Obsoleted by: RFC 5246 Updated by: RFC 4366, RFC 4680, RFC 4681, RFC 5746, RFC 6176, RFC 7465, RFC 7507, RFC 7919"
         },
         {
             "id": 1136,
@@ -26050,7 +26047,7 @@
             "referencedBy": [
                 164
             ],
-            "note": "Updated by:\nRFC 8270"
+            "note": "Updated by: RFC 8270"
         },
         {
             "id": 1137,
@@ -26089,7 +26086,7 @@
             "referencedBy": [
                 164
             ],
-            "note": "Updated by:\nRFC 8732\n"
+            "note": "Updated by: RFC 8732"
         },
         {
             "id": 1139,
@@ -26128,7 +26125,7 @@
             "referencedBy": [
                 164
             ],
-            "note": "Updated by:\nRFC 6112, RFC 8062, RFC 8636"
+            "note": "Updated by: RFC 6112, RFC 8062, RFC 8636"
         },
         {
             "id": 1141,
@@ -26186,7 +26183,7 @@
             "referencedBy": [
                 164
             ],
-            "note": "Obsoleted by:\nRFC 7321"
+            "note": "Obsoleted by: RFC 7321"
         },
         {
             "id": 1144,
@@ -26263,7 +26260,7 @@
             "referencedBy": [
                 164
             ],
-            "note": "Updated by:\nRFC 6840, RFC 6944"
+            "note": "Updated by: RFC 6840, RFC 6944"
         },
         {
             "id": 1148,
@@ -26302,7 +26299,7 @@
             "referencedBy": [
                 164
             ],
-            "note": "Obsoleted by:\nRFC 6460"
+            "note": "Obsoleted by: RFC 6460"
         },
         {
             "id": 1150,
@@ -26531,7 +26528,7 @@
             "referencedBy": [
                 164
             ],
-            "note": "Obsoleted by:\nRFC 8624"
+            "note": "Obsoleted by: RFC 8624"
         },
         {
             "id": 1162,
@@ -26570,7 +26567,7 @@
             "referencedBy": [
                 164
             ],
-            "note": "Obsoleted by:\nRFC 8221"
+            "note": "Obsoleted by: RFC 8221"
         },
         {
             "id": 1164,
@@ -26791,7 +26788,7 @@
                     "stid": "15420"
                 }
             ],
-            "title": "Information technology — Automatic identification and data capture techniques — Bar code symbology specification — EAN/UPC",
+            "title": "Information technology - Automatic identification and data capture techniques - Bar code symbology specification - EAN/UPC",
             "date": "2000",
             "url": [
                 "https://www.iso.org/standard/27663.html"
@@ -26859,7 +26856,7 @@
             "referencedBy": [
                 462
             ],
-            "note": "Obsoleted by:\nRFC 3280"
+            "note": "Obsoleted by: RFC 3280"
         },
         {
             "id": 1179,
@@ -26873,7 +26870,7 @@
                     "stid": "14888-3"
                 }
             ],
-            "title": "IT Security techniques — Digital signatures with appendix — Part 3: Discrete logarithm based mechanisms",
+            "title": "IT Security techniques - Digital signatures with appendix - Part 3: Discrete logarithm based mechanisms",
             "date": "2018",
             "url": [
                 "https://www.iso.org/standard/76382.html"
@@ -26896,7 +26893,7 @@
                     "stid": "15946-1"
                 }
             ],
-            "title": "Information technology — Security techniques — Cryptographic techniques based on elliptic curves — Part 1: General",
+            "title": "Information technology - Security techniques - Cryptographic techniques based on elliptic curves - Part 1: General",
             "date": "2016",
             "url": [
                 "https://www.iso.org/standard/65480.html"
@@ -26919,7 +26916,7 @@
                     "stid": "15946-2"
                 }
             ],
-            "title": "Information technology — Security techniques — Cryptographic techniques based on elliptic curves — Part 2: Digital signatures",
+            "title": "Information technology - Security techniques - Cryptographic techniques based on elliptic curves - Part 2: Digital signatures",
             "date": "2002",
             "url": [
                 "https://www.iso.org/standard/31076.html"
@@ -26942,7 +26939,7 @@
                     "stid": "15946-3"
                 }
             ],
-            "title": "Information technology — Security techniques — Cryptographic techniques based on elliptic curves — Part 3: Key establishment",
+            "title": "Information technology - Security techniques - Cryptographic techniques based on elliptic curves - Part 3: Key establishment",
             "date": "2002",
             "url": [
                 "https://www.iso.org/standard/31077.html"
@@ -27008,7 +27005,7 @@
             "referencedBy": [
                 818
             ],
-            "note": "Updated by:\nRFC 1349, RFC 4379, RFC 5884, RFC 6093, RFC 6298, RFC 6633, RFC 6864, RFC 8029"
+            "note": "Updated by: RFC 1349, RFC 4379, RFC 5884, RFC 6093, RFC 6298, RFC 6633, RFC 6864, RFC 8029"
         },
         {
             "id": 1186,
@@ -27028,7 +27025,7 @@
             "referencedBy": [
                 818
             ],
-            "note": "Updated by:\nRFC 6093"
+            "note": "Updated by: RFC 6093"
         },
         {
             "id": 1187,
@@ -27219,7 +27216,7 @@
             "referencedBy": [
                 818
             ],
-            "note": "Obsoleted by:\nRFC 1184"
+            "note": "Obsoleted by: RFC 1184"
         },
         {
             "id": 1197,
@@ -27372,7 +27369,7 @@
             "referencedBy": [
                 818
             ],
-            "note": "Obsoleted by:\nRFC 959"
+            "note": "Obsoleted by: RFC 959"
         },
         {
             "id": 1205,
@@ -27392,7 +27389,7 @@
             "referencedBy": [
                 818
             ],
-            "note": "Obsoleted by:\nRFC 1350"
+            "note": "Obsoleted by: RFC 1350"
         },
         {
             "id": 1206,
@@ -27412,7 +27409,7 @@
             "referencedBy": [
                 818
             ],
-            "note": "Obsoleted by:\nRFC 2156, RFC 1327\nUpdated by:\nRFC 1026, RFC 1138, RFC 1148"
+            "note": "Obsoleted by: RFC 2156, RFC 1327 Updated by: RFC 1026, RFC 1138, RFC 1148"
         },
         {
             "id": 1207,
@@ -27432,7 +27429,7 @@
             "referencedBy": [
                 818
             ],
-            "note": "Obsoleted by:\nRFC 2156, RFC 1327\nUpdated by:\nRFC 1138, RFC 1148\n"
+            "note": "Obsoleted by: RFC 2156, RFC 1327 Updated by: RFC 1138, RFC 1148"
         },
         {
             "id": 1208,
@@ -27490,7 +27487,7 @@
             "referencedBy": [
                 818
             ],
-            "note": "Updated by:\nRFC 1395, RFC 1497, RFC 1532, RFC 1542, RFC 5494"
+            "note": "Updated by: RFC 1395, RFC 1497, RFC 1532, RFC 1542, RFC 5494"
         },
         {
             "id": 1211,
@@ -27510,7 +27507,7 @@
             "referencedBy": [
                 818
             ],
-            "note": "Obsoleted by:\nRFC 1395, RFC 1497, RFC 1533"
+            "note": "Obsoleted by: RFC 1395, RFC 1497, RFC 1533"
         },
         {
             "id": 1212,
@@ -27568,7 +27565,7 @@
             "referencedBy": [
                 818
             ],
-            "note": "Obsoleted by:\nRFC 1155"
+            "note": "Obsoleted by: RFC 1155"
         },
         {
             "id": 1215,
@@ -27588,7 +27585,7 @@
             "referencedBy": [
                 818
             ],
-            "note": "Obsoleted by:\nRFC 1156"
+            "note": "Obsoleted by: RFC 1156"
         },
         {
             "id": 1216,
@@ -27608,7 +27605,7 @@
             "referencedBy": [
                 818
             ],
-            "note": "Obsoleted by:\nRFC 1157"
+            "note": "Obsoleted by: RFC 1157"
         },
         {
             "id": 1217,
@@ -27628,7 +27625,7 @@
             "referencedBy": [
                 818
             ],
-            "note": "Obsoleted by:\nRFC 1189"
+            "note": "Obsoleted by: RFC 1189"
         },
         {
             "id": 1218,
