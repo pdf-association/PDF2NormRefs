@@ -18,6 +18,7 @@
                 }
             ],
             "title": "Document management - Portable Document Format - Part 2: PDF 2.0",
+			"label": "PDF 2.0",
             "date": "202x",
             "url": [
                 "https://www.iso.org/standard/75839.html"
@@ -120,6 +121,7 @@
                 }
             ],
             "title": "Codes for the representation of names of countries and their subdivisions – Part 1: Country codes",
+			"label": "Country codes",
             "date": "2020",
             "url": [
                 "https://www.iso.org/standard/72482.html"
@@ -161,6 +163,7 @@
                 }
             ],
             "title": "Information technology – Abstract Syntax Notation One (ASN.1): Specification of basic notation",
+			"label": "ASN.1 notation",
             "date": "2015",
             "url": [
                 "https://www.iso.org/standard/68350.html"
@@ -222,6 +225,7 @@
                 }
             ],
             "title": "Information technology – Universal Coded Character Set (UCS)",
+			"label": "UCS",
             "date": "2017",
             "url": [
                 "https://www.iso.org/standard/69119.html"
@@ -288,6 +292,7 @@
                 }
             ],
             "title": "Information Technology – Digital Compression and Coding of Continuous-Tone Still Images: Requirements and guidelines (informally known as the JPEG standard, for the Joint Photographic Experts Group, the ISO group that developed the standard)",
+			"label": "JPEG",
             "date": "1994",
             "url": [
                 "https://www.iso.org/standard/18902.html"
@@ -326,6 +331,7 @@
                 }
             ],
             "title": "Information technology - Lossy/lossless coding of bi-level images",
+			"label": "JBIG2",
             "date": "2019",
             "url": [
                 "https://www.iso.org/standard/75396.html"
@@ -351,6 +357,7 @@
                 }
             ],
             "title": "Document management - 3D use of Product Representation Compact (PRC) format - Part 1: PRC 10001",
+			"label": "PRC",
             "date": "2014",
             "url": [
                 "https://www.iso.org/standard/54948.html "
@@ -383,6 +390,7 @@
                 }
             ],
             "title": "Image technology colour management – Architecture, profile format and data structure - Part 1: Based on ICC.1:2010",
+			"label": "ICC profiles",
             "date": "2010",
             "url": [
                 "https://www.iso.org/standard/54754.html"
@@ -422,6 +430,7 @@
                 }
             ],
             "title": "Information technology - JPEG 2000 image coding system: Core coding system",
+			"label": "JPEG2000",
             "date": "2019",
             "url": [
                 "https://www.iso.org/standard/78321.html"
@@ -456,6 +465,7 @@
                 }
             ],
             "title": "Information technology - Computer graphics and image processing - Portable Network Graphics (PNG): Functional specification",
+			"label": "PNG",
             "date": "2004",
             "url": [
                 "https://www.iso.org/standard/29581.html"
@@ -497,6 +507,7 @@
                 }
             ],
             "title": "Extensible metadata platform (XMP) specification - Part 1: Data model, serialization and core properties",
+			"label": "XMP",
             "date": "2019",
             "url": [
                 "https://www.iso.org/standard/75163.html"
@@ -524,6 +535,7 @@
                 }
             ],
             "title": "Graphic technology - Colour data exchange format (CxF/X) - Part 4: Spot colour characterisation data (CxF/X-4)",
+			"label": "CxF/X-4",
             "date": "2018",
             "url": [
                 "https://www.iso.org/standard/71110.html"
@@ -546,6 +558,7 @@
                 }
             ],
             "title": "Image technology colour management – Black point compensation",
+			"label": "Black point compensation",
             "date": "2015",
             "url": [
                 "https://www.iso.org/standard/63033.html"
@@ -568,6 +581,7 @@
                 }
             ],
             "title": "Geographic information – Well known text representation of coordinate reference systems",
+			"label": "Geolocation coordinates",
             "date": "2019",
             "url": [
                 "https://www.iso.org/standard/76496.html"
@@ -592,6 +606,7 @@
                 }
             ],
             "title": "Document management – XML Forms Data Format – Part 1: Use of ISO 32000-2 (XFDF 3.0)",
+			"label": "XFDF 3.0",
             "date": "2019",
             "url": [
                 "https://www.iso.org/standard/74272.html"
@@ -614,6 +629,7 @@
                 }
             ],
             "title": "Document management - ECMAScript for PDF - Part 1: Use of ISO 32000-2 (PDF 2.0)",
+			"label": "ECMAScript for PDF",
             "date": "202x",
             "url": [
                 "https://www.iso.org/standard/71559.html"
@@ -639,6 +655,7 @@
                 }
             ],
             "title": "Multimedia systems and equipment - Colour measurement and management - Part 2-1: Colour management - Default RGB colour space - sRGB",
+			"label": "sRGB",
             "date": "1999",
             "url": [
                 "https://webstore.iec.ch/publication/6169"
@@ -669,6 +686,7 @@
                 }
             ],
             "title": "Public Key Cryptography For The Financial Services Industry: The Elliptic Curve Digital Signature Algorithm (ECDSA)",
+			"label": "ECDSA",
             "date": "2005",
             "url": [
                 "https://infostore.saiglobal.com/en-us/Standards/ANSI-X9-62-2005-2085_SAIG_ABA_ABA_5340/"
@@ -699,6 +717,7 @@
                 }
             ],
             "title": "Information Systems - Coded Character Sets - 7-Bit Standard Code for Information Interchange (7-Bit ASCII)",
+			"label": "7-bit ASCII",
             "date": "2017",
             "url": [
                 "https://webstore.ansi.org/Standards/INCITS/INCITS1986R2017"
@@ -721,6 +740,7 @@
                 }
             ],
             "title": "PostScript Language Third Edition",
+			"label": "PostScript Level 3",
             "date": "February 1999",
             "url": [
                 "https://www.pdfa.org/wp-content/uploads/2020/07/PLRM.pdf"
@@ -765,6 +785,7 @@
                 }
             ],
             "title": "Adobe Glyph List",
+			"label": "AGL",
             "url": [
                 "https://github.com/adobe-type-tools/agl-aglfn"
             ],
@@ -784,6 +805,7 @@
                 }
             ],
             "title": "Adobe Glyph List for New Fonts",
+			"label": "AGL new fonts",
             "url": [
                 "https://github.com/adobe-type-tools/agl-aglfn"
             ],
@@ -803,6 +825,7 @@
                 }
             ],
             "title": "Adobe PDF Signature Build Dictionary Specification v.1.4",
+			"label": "PDF Signature Build Dictionary",
             "date": "March 2008",
             "url": [
                 "https://www.adobe.com/content/dam/acom/en/devnet/acrobat/pdfs/Acrobat_Signature_BuildDict.pdf"
@@ -823,6 +846,7 @@
                 }
             ],
             "title": "Adobe TIFF Revision 6.0 Final",
+			"label": "TIFF 6.0",
             "date": "June 1992",
             "url": [
                 "https://www.pdfa.org/wp-content/uploads/2020/07/TIFF6.pdf"
@@ -845,6 +869,7 @@
                 }
             ],
             "title": "Adobe Type 1 Font Format Version 1.1",
+			"label": "Type1",
             "date": "February 1993",
             "url": [
                 "https://www.pdfa.org/wp-content/uploads/2020/07/Type1Fonts.pdf"
@@ -870,6 +895,7 @@
                 }
             ],
             "title": "Adobe XML Architecture XML Forms Architecture (XFA) Specification version 3.3",
+			"label": "XFA 3.3",
             "date": "January 2012",
             "url": [
                 "https://reference.pdfa.org/iso/32000/wp-content/uploads/2017/04/XFA-3_3.pdf"
@@ -890,6 +916,7 @@
                 }
             ],
             "title": "Character Collection for CID-Keyed Fonts",
+			"label": "Chars-Japan1-7",
             "url": [
                 "https://github.com/adobe-type-tools/cmap-resources"
             ],
@@ -908,6 +935,7 @@
                 }
             ],
             "title": "Character Collection for CID-Keyed Fonts",
+			"label": "Chars-GB1-5",
             "url": [
                 "https://github.com/adobe-type-tools/cmap-resources"
             ],
@@ -926,6 +954,7 @@
                 }
             ],
             "title": "Character Collection for CID-Keyed Fonts",
+			"label": "Chars-CNS1-7",
             "url": [
                 "https://github.com/adobe-type-tools/cmap-resources"
             ],
@@ -944,6 +973,7 @@
                 }
             ],
             "title": "Character Collection for CID-Keyed Fonts",
+			"label": "Chars-Korea1-2",
             "url": [
                 "https://github.com/adobe-type-tools/cmap-resources"
             ],
@@ -962,6 +992,7 @@
                 }
             ],
             "title": "Character Collection for CID-Keyed Fonts",
+			"label": "Chars-Japan2-0",
             "url": [
                 "https://github.com/adobe-type-tools/cmap-resources"
             ],
@@ -980,6 +1011,7 @@
                 }
             ],
             "title": "Character Collection for CID-Keyed Fonts",
+			"label": "Chars-KR-9",
             "url": [
                 "https://github.com/adobe-type-tools/cmap-resources"
             ],
@@ -1000,6 +1032,7 @@
                 }
             ],
             "title": "Adobe CMap and CID Font Files Specification Version 1.0",
+			"label": "CIDFonts",
             "date": "8 October 1996",
             "url": [
                 "https://www.pdfa.org/wp-content/uploads/2020/07/5014.CIDFont_Spec.pdf"
@@ -1025,6 +1058,7 @@
                 }
             ],
             "title": "Type 1 Font Format Supplement",
+			"label": "Type1 Supplement",
             "date": "May 1994",
             "url": [
                 "https://reference.pdfa.org/iso/32000/wp-content/uploads/2020/01/5015.Type1_Supp.pdf"
@@ -1047,6 +1081,7 @@
                 }
             ],
             "title": "Supporting the DCT Filters in PostScript Level 2",
+			"label": "DCT",
             "date": "November 1992",
             "url": [
                 "https://www.pdfa.org/wp-content/uploads/2020/07/5116.DCT_Filter.pdf"
@@ -1069,6 +1104,7 @@
                 }
             ],
             "title": "The Compact Font Format Specification version 1.0",
+			"label": "CFF",
             "date": "December 2003",
             "url": [
                 "https://www.pdfa.org/wp-content/uploads/2020/07/5176.CFF_.pdf"
@@ -1097,6 +1133,7 @@
                 }
             ],
             "title": "The Type 2 Charstring Format",
+			"label": "Type2 Charstrings",
             "date": "March 2000",
             "url": [
                 "https://www.pdfa.org/wp-content/uploads/2020/07/5177.type2_.pdf"
@@ -1122,6 +1159,7 @@
                 }
             ],
             "title": "Portable Job Ticket Format Version 1.1",
+			"label": "PJTF",
             "date": "April 1999",
             "url": [
                 "https://www.pdfa.org/wp-content/uploads/2020/07/5620.PortableJobTicket.pdf"
@@ -1146,6 +1184,7 @@
                 }
             ],
             "title": "Open Prepress Interface (OPI) Specification Version 2.0",
+			"label": "OPI 2.0",
             "date": "January 2000",
             "url": [
                 "https://www.pdfa.org/wp-content/uploads/2020/07/5660_OPI_2_0.pdf"
@@ -1172,6 +1211,7 @@
                 }
             ],
             "title": "Secure Hash Standard (SHS)",
+			"label": "SHS",
             "date": "August 2015",
             "url": [
                 "https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.180-4.pdf"
@@ -1200,6 +1240,7 @@
                 }
             ],
             "title": "Digital Signature Standard, describes DSA signatures",
+			"label": "DSA",
             "date": "July 2013",
             "url": [
                 "https://doi.org/10.6028/NIST.FIPS.186-4б",
@@ -1234,6 +1275,7 @@
                 }
             ],
             "title": "Advanced Encryption Standard (AES)",
+			"label": "AES",
             "date": "November 2001",
             "url": [
                 "https://nvlpubs.nist.gov/nistpubs/fips/NIST.FIPS.197.pdf"
@@ -1258,6 +1300,7 @@
                 }
             ],
             "title": "The MD5 Message-Digest Algorithm",
+			"label": "MD5",
             "date": "1992",
             "url": [
                 "https://dx.doi.org/10.17487/rfc1321"
@@ -1291,6 +1334,7 @@
                 }
             ],
             "title": "ZLIB Compressed Data Format Specification Version 3.3",
+			"label": "ZLIB",
             "date": "1996",
             "url": [
                 "https://dx.doi.org/10.17487/rfc1950"
@@ -1316,6 +1360,7 @@
                 }
             ],
             "title": "DEFLATE Compressed Data Format Specification Version 1.3",
+			"label": "DEFLATE",
             "date": "1996",
             "url": [
                 "https://dx.doi.org/10.17487/rfc1951"
@@ -1343,6 +1388,7 @@
                 }
             ],
             "title": "Multipurpose Internet Mail Extensions (MIME) Part One: Format of Internet Message Bodies",
+			"label": "MIME",
             "date": "1996",
             "url": [
                 "https://dx.doi.org/10.17487/rfc2045"
@@ -1386,6 +1432,7 @@
                 }
             ],
             "title": "Multipurpose Internet Mail Extensions (MIME) Part Two: Media Types",
+			"label": "Media Types",
             "date": "1996",
             "url": [
                 "https://dx.doi.org/10.17487/rfc2046"
@@ -1424,6 +1471,7 @@
                 }
             ],
             "title": "PKCS: #7 Cryptographic Message Syntax Version 1.5",
+			"label": "PKCS#7",
             "date": "1998",
             "url": [
                 "https://dx.doi.org/10.17487/rfc2315"
@@ -1448,6 +1496,7 @@
                 }
             ],
             "title": "Internet X.509 Public Key Infrastructure Time-Stamp Protocol (TSP)",
+			"label": "X.509 TSP",
             "date": "2001",
             "url": [
                 "https://dx.doi.org/10.17487/rfc3161"
@@ -1488,6 +1537,7 @@
                 }
             ],
             "title": "Preparation of International Strings (\"stringprep\")",
+			"label": "stringprep",
             "date": "2002",
             "url": [
                 "https://dx.doi.org/10.17487/rfc3454"
@@ -1515,6 +1565,7 @@
                 }
             ],
             "title": "Uniform Resource Identifier (URI): Generic Syntax",
+			"label": "URI",
             "date": "2005",
             "url": [
                 "https://dx.doi.org/10.17487/rfc3986"
@@ -1559,6 +1610,7 @@
                 }
             ],
             "title": "SASLprep: Stringprep Profile for User Names and Passwords",
+			"label": "SASLprep",
             "date": "2005",
             "url": [
                 "https://dx.doi.org/10.17487/rfc4013"
@@ -1582,6 +1634,7 @@
                 }
             ],
             "title": "Enhanced Security Services (ESS) Update: Adding CertID Algorithm Agility",
+			"label": "ESS CertID",
             "date": "2007",
             "url": [
                 "https://dx.doi.org/10.17487/rfc5035"
@@ -1614,6 +1667,7 @@
                 }
             ],
             "title": "Internet X.509 Public Key Infrastructure Certificate and Certificate Revocation List (CRL) Profile",
+			"label": "X.509 CRL",
             "date": "2008",
             "url": [
                 "https://dx.doi.org/10.17487/rfc5280"
@@ -1666,6 +1720,7 @@
                 }
             ],
             "title": "Elliptic Curve Cryptography Subject Public Key Information",
+			"label": "ECPKI",
             "date": "2009",
             "url": [
                 "https://dx.doi.org/10.17487/rfc5480"
@@ -1697,6 +1752,7 @@
                 }
             ],
             "title": "Tags for Identifying Languages",
+			"label": "LangTags",
             "date": "2009",
             "url": [
                 "https://dx.doi.org/10.17487/rfc5646"
@@ -1742,6 +1798,7 @@
                 }
             ],
             "title": "Cryptographic Message Syntax (CMS)",
+			"label": "CMS",
             "date": "2009",
             "url": [
                 "https://dx.doi.org/10.17487/rfc5652"
@@ -1787,6 +1844,7 @@
                 }
             ],
             "title": "An Internet Attribute Certificate Profile for Authorization",
+			"label": "X.509 AC",
             "date": "2010",
             "url": [
                 "https://dx.doi.org/10.17487/rfc5755"
@@ -1821,6 +1879,7 @@
                 }
             ],
             "title": "ESSCertIDv2 Update for RFC 3161",
+			"label": "ESSCertIDv2",
             "date": "2010",
             "url": [
                 "https://dx.doi.org/10.17487/rfc5816"
@@ -1850,6 +1909,7 @@
                 }
             ],
             "title": "X.509 Internet Public Key Infrastructure Online Certificate Status Protocol – OCSP",
+			"label": "X.509 OCSP",
             "date": "2013",
             "url": [
                 "https://dx.doi.org/10.17487/rfc6960"
@@ -1888,6 +1948,7 @@
                 }
             ],
             "title": "Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content",
+			"label": "HTTP 1.1",
             "date": "2014",
             "url": [
                 "https://dx.doi.org/10.17487/rfc7231"
@@ -1926,6 +1987,7 @@
                 }
             ],
             "title": "PKCS #5: Password-Based Cryptography Specification Version 2.1",
+			"label": "PKCS#5",
             "date": "2017",
             "url": [
                 "https://dx.doi.org/10.17487/rfc8018"
@@ -1973,6 +2035,7 @@
                 }
             ],
             "title": "The application/pdf Media Type",
+			"label": "application/pdf",
             "date": "2017",
             "url": [
                 "https://dx.doi.org/10.17487/rfc8118"
@@ -1995,6 +2058,7 @@
                 }
             ],
             "title": "Electronic Signatures and Infrastructures (ESI). CAdES digital signatures. Part 1: Building blocks and CAdES baseline signatures",
+			"label": "CAdES",
             "date": "April 2016",
             "url": [
                 "https://www.etsi.org/deliver/etsi_en/319100_319199/31912201/01.01.01_60/en_31912201v010101p.pdf"
@@ -2035,6 +2099,7 @@
                 }
             ],
             "title": "Electronic Signatures and Infrastructures (ESI). CAdES digital signatures. Part 2: Extended CAdES signatures",
+			"label": "Extended CAdES",
             "date": "April 2016",
             "url": [
                 "https://www.etsi.org/deliver/etsi_en/319100_319199/31912201/01.01.01_60/en_31912201v010101p.pdf"
@@ -2056,6 +2121,7 @@
                 }
             ],
             "title": "Electronic Signatures and Infrastructures (ESI). PAdES digital signatures. Part 1: Building blocks and PAdES baseline signature",
+			"label": "PAdES Part 1",
             "date": "April 2016",
             "url": [
                 "https://www.etsi.org/deliver/etsi_en/319100_319199/31914201/01.01.01_60/en_31914201v010101p.pdf"
@@ -2085,6 +2151,7 @@
                 }
             ],
             "title": "Electronic Signatures and Infrastructures (ESI). PAdES digital signatures. Part 2: Additional PAdES signatures profiles",
+			"label": "PAdES Part 2",
             "date": "April 2016",
             "url": [
                 "https://www.etsi.org/deliver/etsi_en/319100_319199/31914202/01.01.01_60/en_31914202v010101p.pdf"
@@ -2116,6 +2183,7 @@
                 }
             ],
             "title": "EPSG Geospatial Coordinate System Reference Codes",
+			"label": "EPSG",
             "url": [
                 "http://www.epsg.org"
             ],
@@ -2134,6 +2202,7 @@
                 }
             ],
             "title": "Extensible Markup Language (XML) 1.0 (Fifth Edition)",
+			"label": "XML 1.0",
             "date": "26 November 2008",
             "url": [
                 "https://www.w3.org/TR/xml/"
@@ -2176,6 +2245,7 @@
                 }
             ],
             "title": "Mathematical Markup Language (MathML) Version 3.0 2nd Edition",
+			"label": "MathML 3.0",
             "date": "10 April 2014",
             "url": [
                 "https://www.w3.org/TR/MathML3/"
@@ -2216,6 +2286,7 @@
                 }
             ],
             "title": "Formatting rules for Japanese documents",
+			"label": "JIS X.4051",
             "date": "2004",
             "url": [
                 "https://standards.globalspec.com/std/1206038/JIS%20X%204051"
@@ -2235,6 +2306,7 @@
                 }
             ],
             "title": "PANOSE Classification Metrics Guide",
+			"label": "PANOSE",
             "date": "February 1997",
             "url": [
                 "https://monotype.github.io/panose/pan1.htm"
@@ -2254,6 +2326,7 @@
                 }
             ],
             "title": "Pronunciation Lexicon Specification (PLS) Version 1.0",
+			"label": "PLS 1.0",
             "date": "14 October 2008",
             "url": [
                 "https://www.w3.org/TR/pronunciation-lexicon/"
@@ -2289,6 +2362,7 @@
                 }
             ],
             "title": "Standardization of Group 3 facsimile terminals for document transmission",
+			"label": "T.4",
             "date": "2003",
             "url": [
                 "https://www.itu.int/rec/T-REC-T.4/en"
@@ -2316,6 +2390,7 @@
                 }
             ],
             "title": "Universal 3D File Format",
+			"label": "U3D",
             "date": "June 2007",
             "url": [
                 "https://www.ecma-international.org/publications/standards/Ecma-363.htm"
@@ -2342,6 +2417,7 @@
                 }
             ],
             "title": "Synchronized Multimedia Integration Language (SMIL 3.0)",
+			"label": "SMIL 3.0",
             "date": "01 December 2008",
             "url": [
                 "http://www.w3.org/TR/SMIL3/"
@@ -2376,6 +2452,7 @@
                 }
             ],
             "title": "TrueType Reference Manual",
+			"label": "TrueType",
             "url": [
                 "https://developer.apple.com/fonts/TrueType-Reference-Manual/"
             ],
@@ -2399,6 +2476,7 @@
                 }
             ],
             "title": "Information technology - Character code structure and extension techniques",
+			"label": "8-bit ASCII",
             "date": "1994",
             "url": [
                 "https://www.iso.org/standard/22747.html"
@@ -2438,6 +2516,7 @@
                 }
             ],
             "title": "Information technology - Control functions for coded character sets",
+			"label": "ASCII Ctrl Functions",
             "date": "1992",
             "url": [
                 "https://www.iso.org/standard/12782.html"
@@ -2526,7 +2605,6 @@
             "referencedBy": [
                 3
             ],
-            "note": "check links again"
         },
         {
             "id": 106,
@@ -2535,9 +2613,10 @@
                     "org": "Unicode Consortium"
                 }
             ],
-            "title": "The Unicode Standard Version 9.0 Charter 4,  (July 2016)",
+            "title": "The Unicode Standard Version 9.0 Charter 4",
+			"date": "July 2016", 
             "url": [
-                "http://www.unicode.org/versions/Unicode9.0.0/ch04.pdf "
+                "http://www.unicode.org/versions/Unicode9.0.0/ch04.pdf"
             ],
             "status": "active",
             "refs": [],
