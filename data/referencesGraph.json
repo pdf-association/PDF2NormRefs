@@ -2,7 +2,7 @@
     "comment": "This material is based upon work supported by the Defense Advanced Research Projects Agency (DARPA) under Contract No. HR001119C0079. Any opinions, findings and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the Defense Advanced Research Projects Agency (DARPA). Approved for public release.",
     "statusCount": {
         "active": 985,
-        "in developing": 4,
+        "in development": 4,
         "update": 57,
         "obsolete": 129,
         "withdrawn": 6,
@@ -127,6 +127,10 @@
                 "https://www.iso.org/standard/72482.html"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "ascii",
+				"complexity": "low"
+			},
             "refs": [
                 110,
                 264,
@@ -298,6 +302,11 @@
                 "https://www.iso.org/standard/18902.html"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "binary",
+				"complexity": "high",
+				"comment": "Parser implementation risks are out of scope"
+			},
             "refs": [
                 108,
                 277,
@@ -337,7 +346,11 @@
                 "https://www.iso.org/standard/75396.html"
             ],
             "status": "active",
-            "refs": [
+			"__parser": { 
+				"type": "binary",
+				"complexity": "high"
+			},            
+			"refs": [
                 325,
                 553,
                 297,
@@ -363,6 +376,10 @@
                 "https://www.iso.org/standard/54948.html "
             ],
             "status": "active",
+			"__parser": { 
+				"type": "binary",
+				"complexity": "high"
+			},
             "refs": [
                 315,
                 316,
@@ -396,6 +413,10 @@
                 "https://www.iso.org/standard/54754.html"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "binary",
+				"complexity": "high"
+			},
             "refs": [
                 109,
                 110,
@@ -436,6 +457,10 @@
                 "https://www.iso.org/standard/78321.html"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "binary",
+				"complexity": "high"
+			},
             "refs": [
                 119,
                 120,
@@ -471,6 +496,11 @@
                 "https://www.iso.org/standard/29581.html"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "binary",
+				"complexity": "medium",
+				"comment": "Parser implementation risks are out of scope"
+			},
             "refs": [
                 217,
                 111,
@@ -513,6 +543,11 @@
                 "https://www.iso.org/standard/75163.html"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "ascii",
+				"complexity": "medium",
+				"comment": "Based on XML/RDF"
+			},
             "refs": [
                 53,
                 138,
@@ -541,6 +576,11 @@
                 "https://www.iso.org/standard/71110.html"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "ascii",
+				"complexity": "medium",
+				"comment": "Based on XML"
+			},
             "refs": [
                 142
             ],
@@ -558,7 +598,7 @@
                 }
             ],
             "title": "Image technology colour management – Black point compensation",
-			"label": "Black point compensation",
+			"label": "BPC",
             "date": "2015",
             "url": [
                 "https://www.iso.org/standard/63033.html"
@@ -581,12 +621,16 @@
                 }
             ],
             "title": "Geographic information – Well known text representation of coordinate reference systems",
-			"label": "Geolocation coordinates",
+			"label": "WKT-CRS",
             "date": "2019",
             "url": [
                 "https://www.iso.org/standard/76496.html"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "ascii",
+				"complexity": "low"
+			},
             "refs": [
                 143,
                 3,
@@ -612,6 +656,11 @@
                 "https://www.iso.org/standard/74272.html"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "ascii",
+				"complexity": "medium",
+				"comment": "Based on XML"
+			},
             "refs": [
                 0,
                 69
@@ -634,7 +683,12 @@
             "url": [
                 "https://www.iso.org/standard/71559.html"
             ],
-            "status": "in developing",
+            "status": "in development",
+			"__parser": { 
+				"type": "ascii",
+				"complexity": "high",
+				"comment": "JavaScript is out of scope"
+			},
             "refs": [
                 0,
                 564,
@@ -644,7 +698,7 @@
             "referencedBy": [
                 0
             ],
-            "note": "in developing"
+            "note": "in development"
         },
         {
             "id": 17,
@@ -692,6 +746,11 @@
                 "https://infostore.saiglobal.com/en-us/Standards/ANSI-X9-62-2005-2085_SAIG_ABA_ABA_5340/"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "binary",
+				"complexity": "high",
+				"comment": "Certificate-based cryptography is out of scope"
+			},
             "refs": [
                 162,
                 567
@@ -706,7 +765,7 @@
                 427,
                 462
             ],
-            "note": "many links, not clear which of them are normative. The specification is not openly available."
+            "note": "many links, not clear which of them are normative"
         },
         {
             "id": 19,
@@ -730,7 +789,7 @@
                 261,
                 836
             ],
-            "note": "original version from 1986: this document is referenced by ISO 32000-2 for definition of 7-bit ASCII set including character names and the notion of graphical characters. It contains a number of further references, but they are irrelevant for PDF 2.0 syntax. "
+            "note": "original version from 1986: this document is referenced by ISO 32000-2 for definition of 7-bit ASCII set including character names and the notion of graphical characters. It contains a number of further references, but they are irrelevant for PDF 2.0 syntax"
         },
         {
             "id": 20,
@@ -746,6 +805,12 @@
                 "https://www.pdfa.org/wp-content/uploads/2020/07/PLRM.pdf"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "ascii",
+				"complexity": "high",
+				"dialects": "PostScript Levels 1 and 2",
+				"comment": "Needed to parse Type1 fonts and CMaps"
+			},
             "refs": [
                 25,
                 35,
@@ -790,6 +855,11 @@
                 "https://github.com/adobe-type-tools/agl-aglfn"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "ascii",
+				"complexity": "easy",
+				"dialects": "Adobe Glyph List for New Fonts (ref 22)"
+			},
             "refs": [
                 803
             ],
@@ -810,6 +880,11 @@
                 "https://github.com/adobe-type-tools/agl-aglfn"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "ascii",
+				"complexity": "easy",
+				"dialects": "Adobe Glyph List (ref 21)"			
+			},
             "refs": [
                 803
             ],
@@ -852,6 +927,10 @@
                 "https://www.pdfa.org/wp-content/uploads/2020/07/TIFF6.pdf"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "binary",
+				"complexity": "high"
+			},            
             "refs": [],
             "referencedBy": [
                 0,
@@ -875,6 +954,11 @@
                 "https://www.pdfa.org/wp-content/uploads/2020/07/Type1Fonts.pdf"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "ascii binary",
+				"complexity": "high",
+				"dialects": "Updated by Type1 Font Format Supplement (ref 34)"			
+			},
             "refs": [
                 20
             ],
@@ -921,6 +1005,11 @@
                 "https://github.com/adobe-type-tools/cmap-resources"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "ascii",
+				"complexity": "easy",
+				"comment": "Parsing rules defined in Adobe Technical Note #5014 (ref 33)"				
+			},
             "refs": [],
             "referencedBy": [
                 0
@@ -940,6 +1029,11 @@
                 "https://github.com/adobe-type-tools/cmap-resources"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "ascii",
+				"complexity": "easy",
+				"comment": "Parsing rules defined in Adobe Technical Note #5014 (ref 33)"				
+			},
             "refs": [],
             "referencedBy": [
                 0
@@ -959,6 +1053,11 @@
                 "https://github.com/adobe-type-tools/cmap-resources"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "ascii",
+				"complexity": "easy",
+				"comment": "Parsing rules defined in Adobe Technical Note #5014 (ref 33)"
+			},
             "refs": [],
             "referencedBy": [
                 0
@@ -978,6 +1077,11 @@
                 "https://github.com/adobe-type-tools/cmap-resources"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "ascii",
+				"complexity": "easy",
+				"comment": "Parsing rules defined in Adobe Technical Note #5014 (ref 33)"
+			},
             "refs": [],
             "referencedBy": [
                 0
@@ -997,6 +1101,11 @@
                 "https://github.com/adobe-type-tools/cmap-resources"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "ascii",
+				"complexity": "easy",
+				"comment": "Parsing rules defined in Adobe Technical Note #5014 (ref 33)"
+			},
             "refs": [],
             "referencedBy": [
                 0
@@ -1016,6 +1125,11 @@
                 "https://github.com/adobe-type-tools/cmap-resources"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "ascii",
+				"complexity": "easy",
+				"comment": "Parsing rules defined in Adobe Technical Note #5014 (ref 33)"
+			},
             "refs": [
                 20
             ],
@@ -1038,6 +1152,10 @@
                 "https://www.pdfa.org/wp-content/uploads/2020/07/5014.CIDFont_Spec.pdf"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "ascii",
+				"complexity": "medium"
+			},
             "refs": [
                 20,
                 25,
@@ -1064,6 +1182,11 @@
                 "https://reference.pdfa.org/iso/32000/wp-content/uploads/2020/01/5015.Type1_Supp.pdf"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "ascii",
+				"complexity": "medium",
+				"comment": "Updates the behavior of Adobe Type1 Font parsing (ref 25)"
+			},
             "refs": [
                 25
             ],
@@ -1087,6 +1210,10 @@
                 "https://www.pdfa.org/wp-content/uploads/2020/07/5116.DCT_Filter.pdf"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "binary",
+				"complexity": "high"
+			},
             "refs": [
                 4
             ],
@@ -1110,6 +1237,10 @@
                 "https://www.pdfa.org/wp-content/uploads/2020/07/5176.CFF_.pdf"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "binary",
+				"complexity": "high"
+			},
             "refs": [
                 37,
                 25,
@@ -1139,6 +1270,10 @@
                 "https://www.pdfa.org/wp-content/uploads/2020/07/5177.type2_.pdf"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "binary",
+				"complexity": "high"
+			},
             "refs": [
                 25,
                 36,
@@ -1165,6 +1300,11 @@
                 "https://www.pdfa.org/wp-content/uploads/2020/07/5620.PortableJobTicket.pdf"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "ascii",
+				"complexity": "medium",
+				"comment" : "Used to define TrapRegions in TrapNet annotations, deprecated in PDF 2.0" 
+			},
             "refs": [
                 20,
                 805,
@@ -1190,6 +1330,11 @@
                 "https://www.pdfa.org/wp-content/uploads/2020/07/5660_OPI_2_0.pdf"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "ascii",
+				"complexity": "easy",
+				"comment" : "Value of OPI entry is XObject dictionaries. Deprecated in PDF 2.0" 
+			},
             "refs": [
                 178,
                 20,
@@ -1211,12 +1356,16 @@
                 }
             ],
             "title": "Secure Hash Standard (SHS)",
-			"label": "SHS",
+			"label": "SHA",
             "date": "August 2015",
             "url": [
                 "https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.180-4.pdf"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "binary",
+				"complexity": "medium"
+			},
             "refs": [
                 164,
                 396
@@ -1247,6 +1396,11 @@
                 "https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.186-4.pdf"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "binary",
+				"complexity": "high",
+				"comment": "Certificate-based cryptography is out of scope"
+			},
             "refs": [
                 160,
                 40,
@@ -1281,7 +1435,11 @@
                 "https://nvlpubs.nist.gov/nistpubs/fips/NIST.FIPS.197.pdf"
             ],
             "status": "active",
-            "refs": [],
+			"__parser": { 
+				"type": "binary",
+				"complexity": "medium"
+			}, 
+			"refs": [],
             "referencedBy": [
                 0,
                 62,
@@ -1306,6 +1464,10 @@
                 "https://dx.doi.org/10.17487/rfc1321"
             ],
             "status": "update",
+			"__parser": { 
+				"type": "binary",
+				"complexity": "medium"
+			},						
             "refs": [],
             "referencedBy": [
                 0,
@@ -1340,6 +1502,10 @@
                 "https://dx.doi.org/10.17487/rfc1950"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "binary",
+				"complexity": "medium"
+			},
             "refs": [],
             "referencedBy": [
                 0,
@@ -1366,6 +1532,10 @@
                 "https://dx.doi.org/10.17487/rfc1951"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "binary",
+				"complexity": "medium"
+			},
             "refs": [],
             "referencedBy": [
                 0,
@@ -1394,6 +1564,10 @@
                 "https://dx.doi.org/10.17487/rfc2045"
             ],
             "status": "update",
+			"__parser": { 
+				"type": "ascii",
+				"complexity": "easy"
+			},
             "refs": [],
             "referencedBy": [
                 0,
@@ -1477,6 +1651,11 @@
                 "https://dx.doi.org/10.17487/rfc2315"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "binary",
+				"complexity": "high",
+				"comment": "Certificate-based cryptography is out of scope"
+			},
             "refs": [],
             "referencedBy": [
                 0,
@@ -1502,6 +1681,11 @@
                 "https://dx.doi.org/10.17487/rfc3161"
             ],
             "status": "update",
+			"__parser": { 
+				"type": "binary",
+				"complexity": "high",
+				"comment": "Certificate-based cryptography is out of scope"
+			},			
             "refs": [
                 257,
                 456,
@@ -1543,6 +1727,12 @@
                 "https://dx.doi.org/10.17487/rfc3454"
             ],
             "status": "obsolete",
+			"__parser": { 
+				"type": "binary",
+				"complexity": "high",
+				"dialects": "RFC 7564, Unicode", 
+				"comment": "Based on obsolete version of Unicode 2.0"
+			},
             "refs": [
                 472,
                 461,
@@ -1571,6 +1761,11 @@
                 "https://dx.doi.org/10.17487/rfc3986"
             ],
             "status": "update",
+			"__parser": { 
+				"type": "ascii",
+				"complexity": "medium",
+				"comment": "Parser implementation risks are out of scope"
+			},
             "refs": [
                 19,
                 261,
@@ -1616,6 +1811,12 @@
                 "https://dx.doi.org/10.17487/rfc4013"
             ],
             "status": "obsolete",
+			"__parser": { 
+				"type": "binary",
+				"complexity": "high",
+				"dialects": "RFC 7613, Unicode", 
+				"comment": "Based on obsolete version of Unicode 2.0"
+			},
             "refs": [
                 50,
                 461
@@ -1640,6 +1841,11 @@
                 "https://dx.doi.org/10.17487/rfc5035"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "binary",
+				"complexity": "high",
+				"comment": "Certificate-based cryptography is out of scope"
+			},
             "refs": [
                 171,
                 257,
@@ -1673,6 +1879,11 @@
                 "https://dx.doi.org/10.17487/rfc5280"
             ],
             "status": "update",
+			"__parser": { 
+				"type": "binary",
+				"complexity": "high",
+				"comment": "Certificate-based cryptography is out of scope"
+			},
             "refs": [
                 821,
                 822,
@@ -1726,6 +1937,11 @@
                 "https://dx.doi.org/10.17487/rfc5480"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "binary",
+				"complexity": "high",
+				"comment": "Certificate-based cryptography is out of scope"
+			},
             "refs": [
                 460,
                 458,
@@ -1758,6 +1974,11 @@
                 "https://dx.doi.org/10.17487/rfc5646"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "ascii",
+				"complexity": "easy",
+				"dialects": "Unicode"
+			},
             "refs": [
                 231,
                 1,
@@ -1804,6 +2025,11 @@
                 "https://dx.doi.org/10.17487/rfc5652"
             ],
             "status": "update",
+			"__parser": { 
+				"type": "binary",
+				"complexity": "high",
+				"comment": "Certificate-based cryptography is out of scope"
+			},
             "refs": [
                 412,
                 54,
@@ -1850,6 +2076,11 @@
                 "https://dx.doi.org/10.17487/rfc5755"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "binary",
+				"complexity": "high",
+				"comment": "Certificate-based cryptography is out of scope"
+			},
             "refs": [
                 463,
                 57,
@@ -1885,6 +2116,11 @@
                 "https://dx.doi.org/10.17487/rfc5816"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "binary",
+				"complexity": "high",
+				"comment": "Certificate-based cryptography is out of scope"
+			},
             "refs": [
                 257,
                 171,
@@ -1915,6 +2151,11 @@
                 "https://dx.doi.org/10.17487/rfc6960"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "binary",
+				"complexity": "high",
+				"comment": "Certificate-based cryptography is out of scope"
+			},
             "refs": [
                 257,
                 562,
@@ -1954,6 +2195,11 @@
                 "https://dx.doi.org/10.17487/rfc7231"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "ascii",
+				"complexity": "medium",
+				"comment": "Used in Web Capture sata strcutures. Parser implementation risks are out of scope"
+			},
             "refs": [
                 46,
                 47,
@@ -1993,6 +2239,11 @@
                 "https://dx.doi.org/10.17487/rfc8018"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "binary",
+				"complexity": "easy",
+				"comment": "PDF password algorithms reuse only the padding scheme from this reference"
+			},
             "refs": [
                 808,
                 2,
@@ -2023,8 +2274,7 @@
             "referencedBy": [
                 0,
                 773
-            ],
-            "note": "34 references"
+            ]
         },
         {
             "id": 63,
@@ -2064,6 +2314,11 @@
                 "https://www.etsi.org/deliver/etsi_en/319100_319199/31912201/01.01.01_60/en_31912201v010101p.pdf"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "binary",
+				"complexity": "high",
+				"comment": "Certificate-based cryptography is out of scope"
+			},
             "refs": [
                 170,
                 46,
@@ -2105,6 +2360,11 @@
                 "https://www.etsi.org/deliver/etsi_en/319100_319199/31912201/01.01.01_60/en_31912201v010101p.pdf"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "binary",
+				"complexity": "high",
+				"comment": "Certificate-based cryptography is out of scope"
+			},
             "refs": [
                 64
             ],
@@ -2127,6 +2387,11 @@
                 "https://www.etsi.org/deliver/etsi_en/319100_319199/31914201/01.01.01_60/en_31914201v010101p.pdf"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "binary",
+				"complexity": "high",
+				"comment": "Certificate-based cryptography is out of scope"
+			},
             "refs": [
                 178,
                 64,
@@ -2157,6 +2422,11 @@
                 "https://www.etsi.org/deliver/etsi_en/319100_319199/31914202/01.01.01_60/en_31914202v010101p.pdf"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "binary",
+				"complexity": "high",
+				"comment": "Certificate-based cryptography is out of scope"
+			},
             "refs": [
                 178,
                 48,
@@ -2188,6 +2458,10 @@
                 "http://www.epsg.org"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "ascii",
+				"complexity": "easy"
+			},
             "refs": [],
             "referencedBy": [
                 0
@@ -2208,6 +2482,11 @@
                 "https://www.w3.org/TR/xml/"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "ascii",
+				"complexity": "high",
+				"comment": "Parser implementation risks are out of scope"
+			},			
             "refs": [
                 686,
                 257,
@@ -2251,6 +2530,11 @@
                 "https://www.w3.org/TR/MathML3/"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "ascii",
+				"complexity": "medium",
+				"comment": "Parser implementation risks are out of scope"
+			},	
             "refs": [
                 103,
                 847,
@@ -2312,6 +2596,10 @@
                 "https://monotype.github.io/panose/pan1.htm"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "ascii",
+				"complexity": "easy",
+			},	
             "refs": [],
             "referencedBy": [
                 0
@@ -2332,6 +2620,11 @@
                 "https://www.w3.org/TR/pronunciation-lexicon/"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "ascii",
+				"complexity": "medium",
+				"comment": "Parser implementation risks are out of scope"
+			},
             "refs": [
                 56,
                 840,
@@ -2368,6 +2661,10 @@
                 "https://www.itu.int/rec/T-REC-T.4/en"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "binary",
+				"complexity": "medium"
+			},
             "refs": [
                 831,
                 274,
@@ -2379,7 +2676,7 @@
                 831,
                 832
             ],
-            "note": "T.4 (07/2003). Normative references for optional features defined in Annex B and Annex C are omitted. "
+            "note": "T.4 (07/2003). Normative references for optional features defined in Annex B and Annex C are omitted"
         },
         {
             "id": 77,
@@ -2396,6 +2693,10 @@
                 "https://www.ecma-international.org/publications/standards/Ecma-363.htm"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "binary",
+				"complexity": "high"
+			},
             "refs": [
                 118,
                 134,
@@ -2406,7 +2707,7 @@
             "referencedBy": [
                 0
             ],
-            "note": "Two generic references to \"ECMA-335: Common Language Infrastructure (CLI)\" and \"ISO/IEC 9899:1999 Programming languages -- C\"  are not included"
+            "note": "Two generic references to \"ECMA-335: Common Language Infrastructure (CLI)\" and \"ISO/IEC 9899:1999 Programming languages -- C\" are not included"
         },
         {
             "id": 78,
@@ -2423,6 +2724,11 @@
                 "http://www.w3.org/TR/SMIL3/"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "ascii",
+				"complexity": "medium",
+				"comment": "Parser implementation risks are out of scope"
+			},
             "refs": [
                 855,
                 856,
@@ -2457,6 +2763,11 @@
                 "https://developer.apple.com/fonts/TrueType-Reference-Manual/"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "binary",
+				"complexity": "medium",
+				"dialects": "Microosoft specification of TrueType; OpenType specification"
+			},
             "refs": [],
             "referencedBy": [
                 0,
@@ -5558,7 +5869,7 @@
             "url": [
                 "https://www.iso.org/standard/52496.html"
             ],
-            "status": "in developing",
+            "status": "in development",
             "refs": [
                 199,
                 224,
@@ -5569,7 +5880,7 @@
                 109,
                 197
             ],
-            "note": "in developing "
+            "note": "in development "
         },
         {
             "id": 203,
@@ -7528,6 +7839,12 @@
                 "https://www.itu.int/rec/T-REC-T.82/en"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "binary",
+				"complexity": "medium",
+				"comment" : "Required for decoding CCITT filters in PDF 2.0" 
+				
+			},
             "refs": [],
             "referencedBy": [
                 4,
@@ -8674,6 +8991,10 @@
                 "https://www.itu.int/rec/T-REC-T.6/en"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "binary",
+				"complexity": "medium"
+			},
             "refs": [],
             "referencedBy": [
                 0,
@@ -10361,13 +10682,13 @@
             "url": [
                 "http://csrc.nist.gov/publications/drafts/800-90/draft-sp800-90b.pdf"
             ],
-            "status": "in developing",
+            "status": "in development",
             "refs": [],
             "referencedBy": [
                 164,
                 166
             ],
-            "note": "in developing "
+            "note": "in development "
         },
         {
             "id": 405,
@@ -10382,13 +10703,13 @@
             "url": [
                 "http://csrc.nist.gov/publications/drafts/800-90/draft-sp800-90c.pdf"
             ],
-            "status": "in developing",
+            "status": "in development",
             "refs": [],
             "referencedBy": [
                 164,
                 166
             ],
-            "note": "in developing "
+            "note": "in development"
         },
         {
             "id": 406,
@@ -14128,7 +14449,11 @@
                 "https://www.iso.org/standard/74461.html"
             ],
             "status": "active",
-            "refs": [
+			"__parser": { 
+				"type": "binary",
+				"complexity": "medium"
+			},            
+			"refs": [
                 3,
                 311,
                 10,
@@ -21869,6 +22194,11 @@
                 "https://www.w3.org/TR/wai-aria-1.1/"
             ],
             "status": "active",
+			"__parser": { 
+				"type": "ascii",
+				"complexity": "medium",
+				"comment": "Parser implementation risks are out of scope"
+			},			
             "refs": [
                 257,
                 830
