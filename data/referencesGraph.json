@@ -982,7 +982,7 @@
 			"label": "XFA 3.3",
             "date": "January 2012",
             "url": [
-                "https://reference.pdfa.org/iso/32000/wp-content/uploads/2017/04/XFA-3_3.pdf"
+                "https://www.pdfa.org/wp-content/uploads/2020/07/XFA-3_3.pdf"
             ],
             "status": "active",
             "refs": [],
@@ -1179,7 +1179,7 @@
 			"label": "Type1 Supplement",
             "date": "May 1994",
             "url": [
-                "https://reference.pdfa.org/iso/32000/wp-content/uploads/2020/01/5015.Type1_Supp.pdf"
+                "https://www.pdfa.org/wp-content/uploads/2020/07/5015.Type1_Supp.pdf"
             ],
             "status": "active",
 			"__parser": { 
