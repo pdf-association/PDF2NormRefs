@@ -6,8 +6,8 @@ This repo contains:
 
 - A human-readable worksheet of normative references in the OpenDocument Spreadsheet format (ODS), readable by [Libre Office](https://www.libreoffice.org/): [NormRefsTreeISO32000-2.ods](NormRefsTreeISO32000-2.ods).
 - Machine-readable representation of the normative references in JSON format [referencesGraph.json](data/referencesGraph.json).
-- A Python script to convert the machine-readable JSON to a 3D graph representation [ODStoJSON.py](data/JSONto3D.py) 
-- A Python script to calculate some basic metrics for any specific document [countLevels.py](data/countLevels.py).
+- A Python script to calculate some basic metrics for any specific document [countLevels.py](scripts/countLevels.py).
+- A Python script to convert the machine-readable JSON to a 3D graph representation [JSONto3D.py](scripts/JSONto3D.py) 
 
 As of November 2020, the references database contains 1172 documents (vertices of the graph). First level references mean the documents are directly referenced from ISO/DIS 32000-2. Their references are called second level references and so on. The database contains:
 
