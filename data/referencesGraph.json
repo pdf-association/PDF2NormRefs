@@ -1,12 +1,12 @@
 {
     "comment": "This material is based upon work supported by the Defense Advanced Research Projects Agency (DARPA) under Contract No. HR001119C0079. Any opinions, findings and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the Defense Advanced Research Projects Agency (DARPA). Approved for public release.",
     "statusCount": {
-        "active": 985,
-        "in development": 4,
+        "active": 984,
+        "in development": 5,
         "update": 57,
         "obsolete": 129,
         "withdrawn": 6,
-        "DIS": 1
+		"not available": 1
     },
     "ISO32000-2-DB": [
         {
@@ -305,7 +305,7 @@
 			"__parser": { 
 				"type": "binary",
 				"complexity": "high",
-				"comment": "Parser implementation risks are out of scope"
+				"comment": "Parser implementation risks are commonly known and out of scope"
 			},
             "refs": [
                 108,
@@ -499,7 +499,7 @@
 			"__parser": { 
 				"type": "binary",
 				"complexity": "medium",
-				"comment": "Parser implementation risks are out of scope"
+				"comment": "Parser implementation risks are commonly known and out of scope"
 			},
             "refs": [
                 217,
@@ -1764,7 +1764,7 @@
 			"__parser": { 
 				"type": "ascii",
 				"complexity": "medium",
-				"comment": "Parser implementation risks are out of scope"
+				"comment": "Parser implementation risks are commonly known and out of scope"
 			},
             "refs": [
                 19,
@@ -1976,8 +1976,7 @@
             "status": "active",
 			"__parser": { 
 				"type": "ascii",
-				"complexity": "easy",
-				"dialects": "Unicode"
+				"complexity": "easy"
 			},
             "refs": [
                 231,
@@ -2198,7 +2197,7 @@
 			"__parser": { 
 				"type": "ascii",
 				"complexity": "medium",
-				"comment": "Used in Web Capture sata strcutures. Parser implementation risks are out of scope"
+				"comment": "Used in Web Capture sata strcutures. Parser implementation risks are commonly known and out of scope"
 			},
             "refs": [
                 46,
@@ -2472,7 +2471,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation XML 1.0"
                 }
             ],
             "title": "Extensible Markup Language (XML) 1.0 (Fifth Edition)",
@@ -2485,7 +2484,7 @@
 			"__parser": { 
 				"type": "ascii",
 				"complexity": "high",
-				"comment": "Parser implementation risks are out of scope"
+				"comment": "Parser implementation risks are commonly known and out of scope"
 			},			
             "refs": [
                 686,
@@ -2520,7 +2519,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation MathML 3.0"
                 }
             ],
             "title": "Mathematical Markup Language (MathML) Version 3.0 2nd Edition",
@@ -2533,7 +2532,7 @@
 			"__parser": { 
 				"type": "ascii",
 				"complexity": "medium",
-				"comment": "Parser implementation risks are out of scope"
+				"comment": "Parser implementation risks are commonly known and out of scope"
 			},	
             "refs": [
                 103,
@@ -2575,7 +2574,7 @@
             "url": [
                 "https://standards.globalspec.com/std/1206038/JIS%20X%204051"
             ],
-            "status": "active",
+            "status": "not available",
             "refs": [],
             "referencedBy": [
                 0
@@ -2598,7 +2597,7 @@
             "status": "active",
 			"__parser": { 
 				"type": "ascii",
-				"complexity": "easy",
+				"complexity": "easy"
 			},	
             "refs": [],
             "referencedBy": [
@@ -2610,7 +2609,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation PLS 1.0"
                 }
             ],
             "title": "Pronunciation Lexicon Specification (PLS) Version 1.0",
@@ -2623,7 +2622,7 @@
 			"__parser": { 
 				"type": "ascii",
 				"complexity": "medium",
-				"comment": "Parser implementation risks are out of scope"
+				"comment": "Parser implementation risks are commonly known and out of scope"
 			},
             "refs": [
                 56,
@@ -2714,7 +2713,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation SMIL 3.0"
                 }
             ],
             "title": "Synchronized Multimedia Integration Language (SMIL 3.0)",
@@ -2727,7 +2726,7 @@
 			"__parser": { 
 				"type": "ascii",
 				"complexity": "medium",
-				"comment": "Parser implementation risks are out of scope"
+				"comment": "Parser implementation risks are commonly known and out of scope"
 			},
             "refs": [
                 855,
@@ -2915,7 +2914,7 @@
             ],
             "referencedBy": [
                 3
-            ],
+            ]
         },
         {
             "id": 106,
@@ -3586,7 +3585,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation XML 1.0 (2004)"
                 }
             ],
             "title": "Extensible Markup Language (XML) version 1.0",
@@ -3613,7 +3612,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation RDF"
                 }
             ],
             "title": "RDF/XML Syntax Specification (Revised)",
@@ -3846,10 +3845,11 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Note"
+                    "stid": "Note URIs"
                 }
             ],
-            "title": "URIs URLs, and URNs: Clarifications and Recommendations 1.0",
+            "title": "URLs, and URNs: Clarifications and Recommendations 1.0",
+			"label": "W3C URIs",
             "date": "21 September 2001",
             "url": [
                 "http://www.w3.org/TR/2001/NOTE-uri-clarification-20010921/"
@@ -3976,10 +3976,11 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation DOM Level 2"
                 }
             ],
             "title": "Document Object Model (DOM) Level 2 Specifications",
+			"label": "W3C DOM Level 2",
             "date": "13 November 2000",
             "url": [
                 "https://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/"
@@ -4008,7 +4009,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation XML 1.0 (2000)"
                 }
             ],
             "title": "Extensible Markup Language 1.0 (Second Edition)",
@@ -4035,7 +4036,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation Namespaces in XML 1.0"
                 }
             ],
             "title": "Namespaces in XML 1.0",
@@ -4112,7 +4113,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation XML InfoSet"
                 }
             ],
             "title": "XML Information Set",
@@ -4142,7 +4143,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation XPath 1.0"
                 }
             ],
             "title": "XML Path Language (XPath) Version 1.0",
@@ -4173,7 +4174,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation XML Schema-1"
                 }
             ],
             "title": "XML Schema Part 1: Structures",
@@ -4206,7 +4207,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation XML Schema-2"
                 }
             ],
             "title": "XML Schema Part 2: Datatypes",
@@ -5186,7 +5187,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation Canonical XML 1.1" 
                 }
             ],
             "title": "Canonical XML Version 1.1",
@@ -5358,7 +5359,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation XML DSig 1.1"
                 }
             ],
             "title": "XML-Signature Syntax and Processing Version 1.1",
@@ -5996,7 +5997,7 @@
             "url": [
                 "http://cie.co.at/publications/ilv-international-lighting-vocabulary-2nd-edition"
             ],
-            "status": "DIS",
+            "status": "in development",
             "refs": [],
             "referencedBy": [
                 156,
@@ -6189,7 +6190,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation XSLT 1.0"
                 }
             ],
             "title": "XSL Transformations (XSLT) Version 1.0",
@@ -8756,7 +8757,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation SVG 1.1"
                 }
             ],
             "title": "Scalable Vector Graphics (SVG) 1.1 (2nd edition)",
@@ -9286,7 +9287,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation RDF Syntax"
                 }
             ],
             "title": "Resource Description Framework (RDF) Model and Syntax Specification",
@@ -9305,7 +9306,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation RDf Concepts"
                 }
             ],
             "title": "Resource Description Framework (RDF): Concepts and Abstract Syntax",
@@ -9325,7 +9326,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation RDF Test Cases"
                 }
             ],
             "title": "RDF-TESTS RDF Test Cases",
@@ -9425,7 +9426,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation XML Base"
                 }
             ],
             "title": "XML Base",
@@ -9455,7 +9456,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation Canonical XML 1.0"
                 }
             ],
             "title": "Exclusive XML Canonicalization Version 1.0",
@@ -10113,7 +10114,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Working Draft"
+                    "stid": "Working Draft Character Model"
                 }
             ],
             "title": "Character Model for the World Wide Web",
@@ -10153,7 +10154,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation HTML 4.01"
                 }
             ],
             "title": "HTML 4.01 Specification",
@@ -10310,7 +10311,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation XML Base"
                 }
             ],
             "title": "XML Base (Second Edition)",
@@ -10332,10 +10333,10 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Note"
+                    "stid": "Note XML Schema Req"
                 }
             ],
-            "title": "XML Schema Requirements ",
+            "title": "XML Schema Requirements",
             "date": "15 February 1999",
             "url": [
                 "http://www.w3.org/TR/1999/NOTE-xml-schema-req-19990215"
@@ -10352,7 +10353,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Last Call Working Draft"
+                    "stid": "Working Draft XPointer"
                 }
             ],
             "title": "XML Pointer Language (XPointer)",
@@ -10407,10 +10408,11 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Proposed Recommendation"
+                    "stid": "Proposed Recommendation XLink"
                 }
             ],
             "title": "XML Linking Language (XLink)",
+			"label": "XLink",
             "date": "20 December 2000",
             "url": [
                 "http://www.w3.org/TR/2000/PR-xlink-20001220/"
@@ -11729,10 +11731,11 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation XML DSig 1.1"
                 }
             ],
             "title": "XML Signature Syntax and Processing Version 1.1",
+			"label": "XML DSig 1.1",
             "date": "11 April 2013",
             "url": [
                 "https://www.w3.org/TR/xmldsig-core1/"
@@ -11748,7 +11751,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation XML Schema-1"
                 }
             ],
             "title": "XML Schema Part 1: Structures Second Edition",
@@ -11769,7 +11772,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation XML Schema-2"
                 }
             ],
             "title": "XML Schema Part 2: Datatypes Second Edition",
@@ -11790,7 +11793,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation Canonical XML 1.0"
                 }
             ],
             "title": "Canonical XML Version 1.0",
@@ -11812,7 +11815,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation XML DSig Filter 2.0"
                 }
             ],
             "title": "XML-Signature XPath Filter 2.0",
@@ -13784,7 +13787,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation XML 1.0 (2000)"
                 }
             ],
             "title": "XML 1.0 (Second Edition)",
@@ -15562,7 +15565,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation XML Encryption"
                 }
             ],
             "title": "XML Encryption Syntax and Processing",
@@ -15581,7 +15584,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation XML Signature"
                 }
             ],
             "title": "XML-Signature Syntax and Processing",
@@ -15600,7 +15603,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Working Draft"
+                    "stid": "Working Draft Canonical XML 1.0"
                 }
             ],
             "title": "Canonical XML Version 1.0",
@@ -15619,7 +15622,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Working Group Note"
+                    "stid": "Working Group Note Canonical XML 1.0 Issues"
                 }
             ],
             "title": "Known Issues with Canonical XML 1.0",
@@ -15638,7 +15641,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Working Group Note"
+                    "stid": "Recommendation DSig usage"
                 }
             ],
             "title": "Using XML Digital Signatures in the 2006 XML Environment",
@@ -15695,7 +15698,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation XML 1.0 (2006)"
                 }
             ],
             "title": "Extensible Markup Language (XML) 1.0 (Fourth Edition)",
@@ -15715,7 +15718,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation XML DSig 1.1"
                 }
             ],
             "title": "XML Signature Syntax and Processing Version 1.1",
@@ -15852,7 +15855,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Note"
+                    "stid": "Note XML Media Types"
                 }
             ],
             "title": "Describing Media Content of Binary Data in XML",
@@ -15871,7 +15874,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation Namespace XML 1.0 (2009)"
                 }
             ],
             "title": "Namespaces in XML 1.0 (Third Edition)",
@@ -15894,7 +15897,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation XML 1.0 (2008)"
                 }
             ],
             "title": "Extensible Markup Language (XML) 1.0 (Fifth Edition)",
@@ -15914,7 +15917,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation XML Encryption 1.1"
                 }
             ],
             "title": "XML Encryption Syntax and Processing Version 1.1",
@@ -15934,7 +15937,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation XPointer Scheme"
                 }
             ],
             "title": "XPointer element() Scheme",
@@ -15953,7 +15956,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation XPointer Framework"
                 }
             ],
             "title": "XPointer Framework",
@@ -15972,7 +15975,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation XSL 1.0"
                 }
             ],
             "title": "Extensible Stylesheet Language (XSL) Version 1.0",
@@ -15991,7 +15994,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation XML 1.0 (1998)"
                 }
             ],
             "title": "Extensible Markup Language (XML) 1.0",
@@ -16190,7 +16193,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation CSS1"
                 }
             ],
             "title": "Cascading Style Sheets level 1",
@@ -16210,7 +16213,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Note"
+                    "stid": "Note DateTime"
                 }
             ],
             "title": "Date and Time Formats",
@@ -16229,7 +16232,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation HTML 4.0"
                 }
             ],
             "title": "HTML 4.0 Specification",
@@ -16826,10 +16829,10 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation MathML 1.01"
                 }
             ],
-            "title": "Mathematical Markup Language (MathML™) 1.01 Specification",
+            "title": "Mathematical Markup Language (MathML) 1.01 Specification",
             "date": "07 July 1999",
             "url": [
                 "https://www.w3.org/TR/REC-MathML/"
@@ -20166,7 +20169,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Candidate Recommendation"
+                    "stid": "Candidate Recommendation UI Events"
                 }
             ],
             "title": "UI Events KeyboardEvent key Values",
@@ -20450,15 +20453,14 @@
             ],
             "referencedBy": [
                 74
-            ],
-            "note": "9 references"
+            ]
         },
         {
             "id": 842,
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation Speech Grammar"
                 }
             ],
             "title": "Speech Recognition Grammar Specification Version 1.0",
@@ -20490,7 +20492,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation SSML 1.0"
                 }
             ],
             "title": "Speech Synthesis Markup Language (SSML) Version 1.0",
@@ -20525,7 +20527,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation XML 1.1 (2006)"
                 }
             ],
             "title": "Extensible Markup Language (XML) 1.1 (Second Edition)",
@@ -20557,7 +20559,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation XML ID 1.0"
                 }
             ],
             "title": "xml:id Version 1.0",
@@ -20585,7 +20587,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation Namespace XML 1.1"
                 }
             ],
             "title": "Namespaces in XML 1.1",
@@ -20615,7 +20617,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation XML Entity Names"
                 }
             ],
             "title": "XML Entity Definitions for Characters (2nd Edition)",
@@ -20645,7 +20647,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Candidate Recommendation"
+                    "stid": "Candidate Recommendation HTML5"
                 }
             ],
             "title": "HTML 5, A vocabulary and associated APIs for HTML and XHTML",
@@ -20894,10 +20896,10 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation XHTML 1.0"
                 }
             ],
-            "title": "XHTML™ 1.0 The Extensible HyperText Markup Language (Second Edition): A Reformulation of HTML 4 in XML 1.0",
+            "title": "XHTML 1.0 The Extensible HyperText Markup Language (Second Edition): A Reformulation of HTML 4 in XML 1.0",
             "date": "August 2002",
             "url": [
                 "http://www.w3.org/TR/xhtml1/"
@@ -20967,7 +20969,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation CSS2"
                 }
             ],
             "title": "Cascading Style Sheets, level 2: CSS2 Specification",
@@ -21566,7 +21568,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Working Draft"
+                    "stid": "Working Draft CCXML 1.0"
                 }
             ],
             "title": "Voice Browser Call Control: CCXML Version 1.0",
@@ -21585,7 +21587,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Working Draft"
+                    "stid": "Working Draft PLS 1.0"
                 }
             ],
             "title": "Pronunciation Lexicon Specification (PLS) Version 1.0",
@@ -21604,7 +21606,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation VoiceXML 2.0"
                 }
             ],
             "title": "Voice Extensible Markup Language (VoiceXML) Version 2.0",
@@ -21623,7 +21625,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Working Draft"
+                    "stid": "Working Draft VoiceXML 2.1"
                 }
             ],
             "title": "Voice Extensible Markup Language (VoiceXML) Version 2.1",
@@ -21642,7 +21644,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation XML 1.0 (2004)"
                 }
             ],
             "title": "Extensible Markup Language (XML) 1.0 (Third Edition)",
@@ -21663,7 +21665,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Working Draft"
+                    "stid": "Working Draft UI Events"
                 }
             ],
             "title": "UI Events",
@@ -21682,10 +21684,10 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Candidate Recommendation"
+                    "stid": "Candidate Recommendation UI Events Code"
                 }
             ],
-            "title": "I Events KeyboardEvent code Values",
+            "title": "UI Events KeyboardEvent code Values",
             "date": "01 June 2017",
             "url": [
                 "https://www.w3.org/TR/uievents-code/"
@@ -21985,7 +21987,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation XML 1.0 (2000)"
                 }
             ],
             "title": "Extensible Markup Language (XML) 1.0 (Second Edition)",
@@ -22007,7 +22009,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation XML Base"
                 }
             ],
             "title": "XML Base",
@@ -22047,7 +22049,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation XML InfoSet"
                 }
             ],
             "title": "XML Information Set (Second Edition)",
@@ -22107,7 +22109,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation MathML 2.0"
                 }
             ],
             "title": "Mathematical Markup Language (MathML) Version 2.0 (Second Edition)",
@@ -22128,7 +22130,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Candidate Recommendation"
+                    "stid": "Candidate Recommendation HTML5"
                 }
             ],
             "title": "HTML5 A vocabulary and associated APIs for HTML and XHTML",
@@ -22147,7 +22149,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Working Group Note"
+                    "stid": "Working Group Note Character Model"
                 }
             ],
             "title": "Character Model for the World Wide Web: String Matching",
@@ -22185,10 +22187,11 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation WAI-ARIA 1.1"
                 }
             ],
             "title": "Accessible Rich Internet Applications (WAI-ARIA) 1.1",
+			"label": "WAI-ARIA 1.1",
             "date": "14 December 2017",
             "url": [
                 "https://www.w3.org/TR/wai-aria-1.1/"
@@ -22197,7 +22200,7 @@
 			"__parser": { 
 				"type": "ascii",
 				"complexity": "medium",
-				"comment": "Parser implementation risks are out of scope"
+				"comment": "Parser implementation risks are commonly known and out of scope"
 			},			
             "refs": [
                 257,
@@ -22213,7 +22216,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Editors' Draft"
+                    "stid": "Editors' Draft WAI-ARIA 1.0 Implementation"
                 }
             ],
             "title": "WAI-ARIA 1.0 User Agent Implementation Guide. A user agent developer's guide to understanding and implementing Accessible Rich Internet Applications",
@@ -22269,10 +22272,11 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation CORS"
                 }
             ],
             "title": "Cross-Origin Resource Sharing",
+			"label": "CORS", 
             "date": "02 June 2020",
             "url": [
                 "https://www.w3.org/TR/2020/SPSD-cors-20200602/"
@@ -22288,7 +22292,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation CSS 2.1"
                 }
             ],
             "title": "Cascading Style Sheets Level 2 Revision 1 (CSS 2.1) Specification",
@@ -22307,7 +22311,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Editor's Draft"
+                    "stid": "Editor's Draft CSS Style Attributes"
                 }
             ],
             "title": "CSS Style Attributes",
@@ -22326,7 +22330,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Editor's Draft"
+                    "stid": "Editor's Draft CSS3 Color"
                 }
             ],
             "title": "CSS Color Module Level 3",
@@ -22345,7 +22349,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Last Call Working Draft"
+                    "stid": "Recommendation CSS3 Font Loading"
                 }
             ],
             "title": "CSS Font Loading Module Level 3",
@@ -22364,7 +22368,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Proposed Recommendation"
+                    "stid": "Proposed Recommendation CSS3 Fonts"
                 }
             ],
             "title": "CSS Fonts Module Level 3",
@@ -22383,7 +22387,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Working Draft"
+                    "stid": "Working Draft CSS3 Content"
                 }
             ],
             "title": "CSS Generated Content Module Level 3",
@@ -22402,7 +22406,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Working Draft"
+                    "stid": "Working Draft CSS3 Images"
                 }
             ],
             "title": "CSS Image Values and Replaced Content Module Level 3",
@@ -22421,7 +22425,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Working Draft"
+                    "stid": "Working Draft CSSOM"
                 }
             ],
             "title": "CSS Object Model (CSSOM)",
@@ -22440,7 +22444,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Working Draft"
+                    "stid": "Working Draft CSSOM View"
                 }
             ],
             "title": "CSSOM View Module",
@@ -22459,7 +22463,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Working Draft"
+                    "stid": "Working Draft CSS3 UI"
                 }
             ],
             "title": "CSS3 Basic User Interface Module",
@@ -22478,7 +22482,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Last Call Working Draft"
+                    "stid": "Last Call Working Draft CSS3 Cascade"
                 }
             ],
             "title": "CSS Cascading and Inheritance Level 3",
@@ -22497,7 +22501,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Working Draft"
+                    "stid": "Working Draft CSS3 Values"
                 }
             ],
             "title": "CSS Values and Units Module Level 3",
@@ -22516,7 +22520,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Candidate Recommendation"
+                    "stid": "Candidate Recommendation CSS4 Writing Modes"
                 }
             ],
             "title": "CSS Writing Modes Level 4",
@@ -22535,7 +22539,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Working Draft"
+                    "stid": "Working Draft Custom Elements"
                 }
             ],
             "title": "Custom Elements",
@@ -22554,7 +22558,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation DOM 4.0"
                 }
             ],
             "title": "DOM4",
@@ -22573,7 +22577,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Working Draft"
+                    "stid": "Working Draft DOM 3.0 Events"
                 }
             ],
             "title": "Document Object Model (DOM) Level 3 Events Specification",
@@ -22592,7 +22596,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Working Draft"
+                    "stid": "Working Draft DOM Parsing"
                 }
             ],
             "title": "DOM Parsing and Serialization",
@@ -22611,7 +22615,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "First Public Working Draft"
+                    "stid": "First Public Working Draft Encoding"
                 }
             ],
             "title": "Encoding",
@@ -22630,7 +22634,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation Event Source"
                 }
             ],
             "title": "Server-Sent Events",
@@ -22649,7 +22653,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Editor’s Draft"
+                    "stid": "Editor’s Draft File API"
                 }
             ],
             "title": "File API",
@@ -22686,7 +22690,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation Media Frags"
                 }
             ],
             "title": "Media Fragments URI 1.0 (basic)",
@@ -22764,7 +22768,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation CSS3 Media Queries"
                 }
             ],
             "title": "Media Queries",
@@ -22979,7 +22983,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Editor’s Draft"
+                    "stid": "Editor’s Draft Selectors"
                 }
             ],
             "title": "Selectors Level 4",
@@ -22998,7 +23002,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation SVG Tiny 1.2"
                 }
             ],
             "title": "Scalable Vector Graphics (SVG) Tiny 1.2 Specification",
@@ -23017,7 +23021,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Working Draft"
+                    "stid": "Working Draft Web IDL"
                 }
             ],
             "title": "Web IDL",
@@ -23036,7 +23040,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation HTML5 Messaging"
                 }
             ],
             "title": "HTML5 Web Messaging",
@@ -23055,7 +23059,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Editor's Draft"
+                    "stid": "Editor's Draft Web Storage"
                 }
             ],
             "title": "Web Storage",
@@ -23074,7 +23078,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Working Draft"
+                    "stid": "Working Draft Web Workers"
                 }
             ],
             "title": "Web Workers",
@@ -23507,7 +23511,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation CSS 2.1"
                 }
             ],
             "title": "Cascading Style Sheets Level 2 Revision 1 (CSS 2.1) Specification",
@@ -23526,7 +23530,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation DOM Level 1"
                 }
             ],
             "title": "Document Object Model (DOM) Level 1 Specification Version 1.0",
@@ -23545,7 +23549,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Candidate Recommendation"
+                    "stid": "Candidate Recommendation DOM Level 2"
                 }
             ],
             "title": "Document Object Model (DOM) Level 2 Specification Version 1.0",
@@ -23626,7 +23630,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Note"
+                    "stid": "Note XHTML Media Types"
                 }
             ],
             "title": "XHTML Media Types",
@@ -23645,10 +23649,10 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation XHTML Modularization"
                 }
             ],
-            "title": "Modularization of XHTML™",
+            "title": "Modularization of XHTML",
             "date": "10 April 2001",
             "url": [
                 "https://www.w3.org/TR/2001/REC-xhtml-modularization-20010410/"
@@ -23684,7 +23688,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation SMIL 2.0"
                 }
             ],
             "title": "Synchronized Multimedia Integration Language (SMIL 2.0)",
@@ -23722,7 +23726,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation PNG 1.0"
                 }
             ],
             "title": "PNG (Portable Network Graphics) Specification Version 1.0",
@@ -23882,7 +23886,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation PICS Services"
                 }
             ],
             "title": "Rating Services and Rating Systems (and Their Machine Readable Descriptions) Version 1.1",
@@ -23901,7 +23905,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation PICS Labels"
                 }
             ],
             "title": "PICS Label Distribution Label Syntax and Communication Protocols Version 1.1",
@@ -23979,7 +23983,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation XLink 1.0"
                 }
             ],
             "title": "XML Linking Language (XLink) Version 1.0",
@@ -24146,7 +24150,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation OWL Features"
                 }
             ],
             "title": "OWL Web Ontology Language Overview",
@@ -27115,7 +27119,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Note"
+                    "stid": "Note SOAP 1.1"
                 }
             ],
             "title": "Simple Object Access Protocol (SOAP) 1.1",
@@ -27134,7 +27138,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Note"
+                    "stid": "Note WSDL 1.1"
                 }
             ],
             "title": "Web Services Description Language (WSDL) 1.1",
@@ -27153,7 +27157,7 @@
             "orgs": [
                 {
                     "org": "W3C",
-                    "stid": "Recommendation"
+                    "stid": "Recommendation XSL 1.1"
                 }
             ],
             "title": "Extensible Stylesheet Language (XSL) Version 1.1",
