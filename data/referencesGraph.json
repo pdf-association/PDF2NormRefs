@@ -1,10 +1,10 @@
 {
     "comment": "This material is based upon work supported by the Defense Advanced Research Projects Agency (DARPA) under Contract No. HR001119C0079. Any opinions, findings and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the Defense Advanced Research Projects Agency (DARPA). Approved for public release.",
     "statusCount": {
-        "active": 984,
+        "active": 975,
         "in development": 5,
         "update": 57,
-        "obsolete": 129,
+        "obsolete": 127,
         "withdrawn": 6,
 		"not available": 1
     },
@@ -3526,24 +3526,6 @@
             "note": "Assume that the normative references form a subset of PDF 1.7 normative references"
         },
         {
-            "id": 129,
-            "orgs": [
-                {
-                    "org": "Adobe Systems Incorporated"
-                }
-            ],
-            "title": "Supplement to ISO 32000-1 BaseVersion 1.7 ExtensionLevel 5",
-            "date": "June 2009",
-            "url": [
-                "http://www.adobe.com/devnet/acrobat/pdfs/adobe_supplement_iso32000_1.pdf"
-            ],
-            "status": "active",
-            "refs": [
-                178
-            ],
-            "referencedBy": []
-        },
-        {
             "id": 130,
             "orgs": [
                 {
@@ -3561,51 +3543,6 @@
                 316
             ],
             "note": "similar to document number 131?"
-        },
-        {
-            "id": 131,
-            "orgs": [
-                {
-                    "org": "Adobe Systems Incorporated"
-                }
-            ],
-            "title": "PDF Blend Modes: Addendum",
-            "date": "23 January 2006",
-            "url": [
-                "http://www.npes.org/standards/toolspdfx.html"
-            ],
-            "status": "active",
-            "refs": [
-                128
-            ],
-            "referencedBy": []
-        },
-        {
-            "id": 132,
-            "orgs": [
-                {
-                    "org": "W3C",
-                    "stid": "Recommendation XML 1.0 (2004)"
-                }
-            ],
-            "title": "Extensible Markup Language (XML) version 1.0",
-            "date": "4 February 2004",
-            "url": [
-                "http://www.w3.org/TR/2004/REC-xml-20040204"
-            ],
-            "status": "obsolete",
-            "refs": [
-                686,
-                257,
-                242,
-                337,
-                138,
-                3,
-                338,
-                339
-            ],
-            "referencedBy": [],
-            "note": "obsolete"
         },
         {
             "id": 133,
@@ -9265,24 +9202,6 @@
             ]
         },
         {
-            "id": 339,
-            "orgs": [
-                {
-                    "org": "Unicode Consortium"
-                }
-            ],
-            "title": "The Unicode Standard Version 3.2.0",
-            "date": "2011",
-            "url": [
-                "http://www.unicode.org/reports/tr28"
-            ],
-            "status": "active",
-            "refs": [],
-            "referencedBy": [
-                132
-            ]
-        },
-        {
             "id": 340,
             "orgs": [
                 {
@@ -11973,24 +11892,6 @@
             "note": "Obsoleted by: RFC 2822  Updated by: RFC 1123, RFC 2156, RFC 1327, RFC 1138, RFC 1148"
         },
         {
-            "id": 455,
-            "orgs": [
-                {
-                    "org": "IETF",
-                    "stid": "RFC 1736"
-                }
-            ],
-            "title": "Functional Recommendations for Internet Resource Locators",
-            "date": "1995",
-            "url": [
-                "https://www.rfc-editor.org/info/rfc1736"
-            ],
-            "status": "active",
-            "refs": [],
-            "referencedBy": [],
-            "note": "there are no links in the document"
-        },
-        {
             "id": 456,
             "orgs": [
                 {
@@ -12859,26 +12760,6 @@
                 852
             ],
             "note": "Obsoleted by: RFC 5234"
-        },
-        {
-            "id": 493,
-            "orgs": [
-                {
-                    "org": "IETF",
-                    "stid": "RFC 733"
-                }
-            ],
-            "title": "Standard for the format of ARPA network text messages",
-            "date": "1977",
-            "url": [
-                "https://www.rfc-editor.org/info/rfc733"
-            ],
-            "status": "obsolete",
-            "refs": [],
-            "referencedBy": [
-                261
-            ],
-            "note": "Obsoleted by: RFC 822"
         },
         {
             "id": 494,
@@ -16684,23 +16565,6 @@
             ]
         },
         {
-            "id": 664,
-            "orgs": [
-                {
-                    "org": "IETF",
-                    "stid": "RFC 854 STD 8"
-                }
-            ],
-            "title": "Telnet Protocol Specifications",
-            "date": "1993",
-            "url": [
-                "https://www.rfc-editor.org/info/rfc854"
-            ],
-            "status": "active",
-            "refs": [],
-            "referencedBy": []
-        },
-        {
             "id": 665,
             "orgs": [
                 {
@@ -17320,23 +17184,6 @@
             ]
         },
         {
-            "id": 696,
-            "orgs": [
-                {
-                    "org": "IETF",
-                    "stid": "RFC 8418"
-                }
-            ],
-            "title": "Use of the Elliptic Curve Diffie-Hellman Key Agreement Algorithm with X25519 and X448 in the Cryptographic Message Syntax (CMS)",
-            "date": "2018",
-            "url": [
-                "https://www.rfc-editor.org/info/rfc8418"
-            ],
-            "status": "active",
-            "refs": [],
-            "referencedBy": []
-        },
-        {
             "id": 697,
             "orgs": [
                 {
@@ -17354,23 +17201,6 @@
             "referencedBy": [
                 468
             ]
-        },
-        {
-            "id": 698,
-            "orgs": [
-                {
-                    "org": "IETF",
-                    "stid": "RFC 8550"
-                }
-            ],
-            "title": "Secure/Multipurpose Internet Mail Extensions (S/MIME) Version 4.0 Certificate Handling",
-            "date": "2019",
-            "url": [
-                "https://www.rfc-editor.org/info/rfc8550"
-            ],
-            "status": "active",
-            "refs": [],
-            "referencedBy": []
         },
         {
             "id": 699,
@@ -19572,24 +19402,6 @@
                 563
             ],
             "note": "14 references"
-        },
-        {
-            "id": 812,
-            "orgs": [
-                {
-                    "org": "NIST",
-                    "stid": "FIPS PUB 46-2"
-                }
-            ],
-            "title": "Data Encryption Standard",
-            "date": "30 December 1993",
-            "url": [
-                "https://csrc.nist.gov/publications/detail/fips/46/2/archive/1993-12-30"
-            ],
-            "status": "active",
-            "refs": [],
-            "referencedBy": [],
-            "note": "withdrawn on 19 May 2005"
         },
         {
             "id": 813,
