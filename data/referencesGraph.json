@@ -857,7 +857,7 @@
             "status": "active",
 			"__parser": { 
 				"type": "ascii",
-				"complexity": "easy",
+				"complexity": "low",
 				"dialects": "Adobe Glyph List for New Fonts (ref 22)"
 			},
             "refs": [
@@ -882,7 +882,7 @@
             "status": "active",
 			"__parser": { 
 				"type": "ascii",
-				"complexity": "easy",
+				"complexity": "low",
 				"dialects": "Adobe Glyph List (ref 21)"			
 			},
             "refs": [
@@ -1007,7 +1007,7 @@
             "status": "active",
 			"__parser": { 
 				"type": "ascii",
-				"complexity": "easy",
+				"complexity": "low",
 				"comment": "Parsing rules defined in Adobe Technical Note #5014 (ref 33)"				
 			},
             "refs": [],
@@ -1031,7 +1031,7 @@
             "status": "active",
 			"__parser": { 
 				"type": "ascii",
-				"complexity": "easy",
+				"complexity": "low",
 				"comment": "Parsing rules defined in Adobe Technical Note #5014 (ref 33)"				
 			},
             "refs": [],
@@ -1055,7 +1055,7 @@
             "status": "active",
 			"__parser": { 
 				"type": "ascii",
-				"complexity": "easy",
+				"complexity": "low",
 				"comment": "Parsing rules defined in Adobe Technical Note #5014 (ref 33)"
 			},
             "refs": [],
@@ -1079,7 +1079,7 @@
             "status": "active",
 			"__parser": { 
 				"type": "ascii",
-				"complexity": "easy",
+				"complexity": "low",
 				"comment": "Parsing rules defined in Adobe Technical Note #5014 (ref 33)"
 			},
             "refs": [],
@@ -1103,7 +1103,7 @@
             "status": "active",
 			"__parser": { 
 				"type": "ascii",
-				"complexity": "easy",
+				"complexity": "low",
 				"comment": "Parsing rules defined in Adobe Technical Note #5014 (ref 33)"
 			},
             "refs": [],
@@ -1127,7 +1127,7 @@
             "status": "active",
 			"__parser": { 
 				"type": "ascii",
-				"complexity": "easy",
+				"complexity": "low",
 				"comment": "Parsing rules defined in Adobe Technical Note #5014 (ref 33)"
 			},
             "refs": [
@@ -1332,7 +1332,7 @@
             "status": "active",
 			"__parser": { 
 				"type": "ascii",
-				"complexity": "easy",
+				"complexity": "low",
 				"comment" : "Value of OPI entry is XObject dictionaries. Deprecated in PDF 2.0" 
 			},
             "refs": [
@@ -1566,7 +1566,7 @@
             "status": "update",
 			"__parser": { 
 				"type": "ascii",
-				"complexity": "easy"
+				"complexity": "low"
 			},
             "refs": [],
             "referencedBy": [
@@ -1976,7 +1976,7 @@
             "status": "active",
 			"__parser": { 
 				"type": "ascii",
-				"complexity": "easy"
+				"complexity": "low"
 			},
             "refs": [
                 231,
@@ -2240,7 +2240,7 @@
             "status": "active",
 			"__parser": { 
 				"type": "binary",
-				"complexity": "easy",
+				"complexity": "low",
 				"comment": "PDF password algorithms reuse only the padding scheme from this reference"
 			},
             "refs": [
@@ -2459,7 +2459,7 @@
             "status": "active",
 			"__parser": { 
 				"type": "ascii",
-				"complexity": "easy"
+				"complexity": "low"
 			},
             "refs": [],
             "referencedBy": [
@@ -2597,7 +2597,7 @@
             "status": "active",
 			"__parser": { 
 				"type": "ascii",
-				"complexity": "easy"
+				"complexity": "low"
 			},	
             "refs": [],
             "referencedBy": [
