@@ -22,7 +22,7 @@ import json
 
 jfile    = open("referencesGraph.json")
 indata   = json.load(jfile)
-normrefs = indata["ISO32000-2-DB"]
+normrefs = indata["ISO32000_2_DB"]
 
 nodes = []
 for doc in normrefs:

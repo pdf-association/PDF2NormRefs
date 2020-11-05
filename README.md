@@ -24,7 +24,7 @@ The Legend used within the ODS file reflects the processing status of the docume
 
 ## **Machine-readable JSON**
 
-[referencesGraph.json](referencesGraph.json) contains the JSON representation of the above data organized as follows. The value of the (root) key ISO32000-2-DB is the array of all normative documents. 
+[referencesGraph.json](referencesGraph.json) contains the JSON representation of the above data organized as follows. The value of the (root) key ISO32000_2_DB is the array of all normative documents. 
 Each document is a record with the following fields:
 - **id** - unique id of the document.
 - **title** - title of the document.
