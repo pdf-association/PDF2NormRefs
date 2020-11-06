@@ -2487,7 +2487,7 @@
 				"comment": "Parser implementation risks are commonly known and out of scope"
 			},			
             "refs": [
-                686,
+				686,
                 257,
                 56,
                 351,
@@ -16551,7 +16551,7 @@
             "id": 662,
             "orgs": [
                 {
-                    "org": "Hartung-Gorre Verlag"
+                    "org": "Hartung-Gorre"
                 }
             ],
             "title": "On the Design and Security of Block Ciphers, X. Lai",
@@ -20246,7 +20246,12 @@
         },
         {
             "id": 840,
-            "title": "IPA, Handbook of the International Phonetic Association",
+            "orgs": [
+                {
+                    "org": "IPA"
+                }
+            ],
+            "title": "Handbook of the International Phonetic Association",
             "date": "July 1999",
             "url": [
                 "https://www.internationalphoneticassociation.org/content/handbook-ipa"
@@ -22538,7 +22543,13 @@
         },
         {
             "id": 945,
-            "title": "MIME Sniffing, Living Standard",
+            "orgs": [
+                {
+                    "org": "WHATWG",
+                    "stid": "mimesniff"
+                }
+            ],
+            "title": "MIME Sniffing",
             "date": "29 June 2020",
             "url": [
                 "https://mimesniff.spec.whatwg.org/"

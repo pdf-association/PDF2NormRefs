@@ -41,6 +41,7 @@ def extractGraph(filename):
         dualGraph = graph[1]
         orgsCounter = graph[2]
         statusCounter = graph[3]
+        noOrgs = []
 		
         for standard in data:
             refGraph[standard['id']] = standard['refs']
@@ -60,6 +61,10 @@ def extractGraph(filename):
                         orgsCounter[orgName] += 1
                     else:
                         orgsCounter[orgName] = 1
+            else:
+                noOrgs.append(standard['id'])
+		
+        orgsCounter['noOrgs'] = noOrgs		
         return graph
 
 def findTopRefs(graph, N):
