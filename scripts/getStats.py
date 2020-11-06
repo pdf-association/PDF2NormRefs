@@ -54,7 +54,7 @@ def extractGraph(filename):
                 else:
                     statusCounter[status] = 1
 			
-            if 'orgs' in standard:
+            if 'orgs' in standard and standard['orgs']:
                 for org in standard['orgs']:
                     orgName = org['org']
                     if orgName in orgsCounter:

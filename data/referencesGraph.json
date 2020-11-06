@@ -8857,6 +8857,7 @@
             "id": 323,
             "title": "Perl regular expressions",
             "date": "2020",
+            "orgs": [],
             "url": [
                 "http://search.cpan.org/dist/perl/pod/perlre.pod"
             ],
@@ -12653,6 +12654,11 @@
         },
         {
             "id": 488,
+            "orgs": [
+                {
+                    "org": "Prentice-Hall"
+                }			
+			],
             "title": "Network Computing Architecture, Zahn L., Dineen T. and P. Leach",
             "date": "January 1990",
             "url": [
@@ -20960,6 +20966,11 @@
         },
         {
             "id": 862,
+            "orgs": [
+                {
+                    "org": "John Wiley & Sons"
+                }
+            ],
             "title": "Applied Cryptography, Bruce Schneier",
             "date": "1996",
             "url": [
@@ -20973,6 +20984,7 @@
         },
         {
             "id": 863,
+			"orgs": [],
             "title": "Minimum Key Length for Symmetric Ciphers to Provide Adequate Commercial Security, Matt Blaze et al.",
             "date": "1996",
             "url": [
@@ -21086,6 +21098,11 @@
         },
         {
             "id": 869,
+            "orgs": [
+                {
+                    "org": "ACM Computing Surveys"
+                }
+            ],
             "title": "Security Mechanisms in High-Level Network Protocols, Victor L. Voydock, Stephen T. Kent",
             "date": "June 1983",
             "url": [
@@ -21242,6 +21259,7 @@
         },
         {
             "id": 877,
+			"orgs": [],
             "title": "GZIP, Jean-loup Gailly",
             "url": [
                 "https://www.gzip.org/"
@@ -21254,6 +21272,11 @@
         },
         {
             "id": 878,
+            "orgs": [
+                {
+                    "org": "Communications of the ACM"
+                }
+            ],			
             "title": "Computation of Cyclic Redundancy Checks via Table Look-Up, D. V. Sarwate",
             "date": "1988",
             "url": [
