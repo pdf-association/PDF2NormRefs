@@ -37,7 +37,7 @@ for doc in normrefs:
     #   then trimmed before a COLON (which will strip off ISO years but so be it!)
     if "label" in doc:
         n["short"] = doc["label"]
-    elif "orgs" in doc:
+    elif "orgs" in doc and doc["orgs"]:
         org = doc["orgs"][0]
         s = org["org"]
         if "stid" in org:
@@ -51,7 +51,7 @@ for doc in normrefs:
     # otherwise rough grouping (and thus color coding of node) based on title
 
     # Parsing "group" property by the first org in orgs array
-    if "orgs" in doc:
+    if "orgs" in doc and doc["orgs"]:
         n["group"] = doc["orgs"][0]["org"]
     else:
         n["group"] = "Other"
