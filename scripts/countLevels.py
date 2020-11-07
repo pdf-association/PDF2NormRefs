@@ -28,7 +28,7 @@ import sys
 
 def extractGraph(filename):
     with open(filename) as json_file:
-        data = json.load(json_file)["ISO32000-2-DB"]
+        data = json.load(json_file)["ISO32000_2_DB"]
         graph = {}
         for standard in data:
             graph[standard['id']] = standard['refs']

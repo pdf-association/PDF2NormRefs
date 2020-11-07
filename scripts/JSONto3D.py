@@ -22,7 +22,7 @@ import json
 
 jfile    = open("referencesGraph.json")
 indata   = json.load(jfile)
-normrefs = indata["ISO32000-2-DB"]
+normrefs = indata["ISO32000_2_DB"]
 
 nodes = []
 for doc in normrefs:
@@ -34,24 +34,28 @@ for doc in normrefs:
     # Size of planet node is proportional to the square of the number of out-going references
     n["val"] = len(doc["refs"]) * len(doc["refs"])
     # Short name is everything before a COMMA (normally the ISO document number or simple title)
-    #   then trimmed before a COLON (which will strip off ISO years but so be it!) 
-    s = doc["title"].split(",")
-    s = s[0].split(":")
-    n["short"] = s[0]
+    #   then trimmed before a COLON (which will strip off ISO years but so be it!)
+    if "label" in doc:
+        n["short"] = doc["label"]
+    elif "orgs" in doc:
+        org = doc["orgs"][0]
+        s = org["org"]
+        if "stid" in org:
+            s += ", " + org["stid"]
+        if "date" in doc:
+            s += ", " + doc["date"]
+        n["short"] = s
+    else:
+        n["short"] = doc["title"]
     # Make PDF 2.0 the large red centre of the 3D universe!
     # otherwise rough grouping (and thus color coding of node) based on title
-    if (doc["id"] == 0):
-        n["group"] = "PDF2"
-    elif ("ISO" in doc["title"]) or ("IEC" in doc["title"]):
-        n["group"] = "ISO"
-    elif ("W3C" in doc["title"]) or ("RFC" in doc["title"]) or ("IETF" in doc["title"]) or ("World Wide Web" in doc["title"]):
-        n["group"] = "W3C"
-    elif ("Adobe" in doc["title"]):
-        n["group"] = "Adobe"
-    elif ("Unicode" in doc["title"]):
-        n["group"] = "Unicode"
+
+    # Parsing "group" property by the first org in orgs array
+    if "orgs" in doc:
+        n["group"] = doc["orgs"][0]["org"]
     else:
         n["group"] = "Other"
+
     nodes.append(n)
     
 links = []
@@ -64,20 +68,16 @@ for doc in normrefs:
         lnk["target"] = ref   
         # Make all 1st order links from PDF 2.0 red
         # otherwise do rough grouping (and thus color coding of link) based on source title
-        if (doc["id"] == 0):
-            # Make PDF 2.0 the large red centre of the 3D universe
-            lnk["group"] = "PDF2"
+        
+        # Make PDF 2.0 the large red centre of the 3D universe
+        if doc["id"] == 0:
             lnk["color"] = "red"
-        elif ("ISO" in doc["title"]) or ("IEC" in doc["title"]):
-            lnk["group"] = "ISO"
-        elif ("W3C" in doc["title"]) or ("RFC" in doc["title"]) or ("IETF" in doc["title"]) or ("World Wide Web" in doc["title"]):
-            lnk["group"] = "W3C"
-        elif ("Adobe" in doc["title"]):
-            lnk["group"] = "Adobe"
-        elif ("Unicode" in doc["title"]):
-            lnk["group"] = "Unicode"
+        
+        if "orgs" in doc:
+            lnk["group"] = doc["orgs"][0]["org"]
         else:
             lnk["group"] = "Other"
+        
         # 'desc' attribute is what links display below their label (default attribute 'name') but in smaller text
         # This text is too long and makes for too much... need short friendly names for documents!
         # lnk_doc = next(r for r in normrefs if r["id"] == ref)
