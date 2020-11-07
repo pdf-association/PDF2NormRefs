@@ -736,32 +736,11 @@
             "group": "Adobe Systems Incorporated"
         },
         {
-            "id": 129,
-            "name": "Supplement to ISO 32000-1 BaseVersion 1.7 ExtensionLevel 5",
-            "val": 1,
-            "short": "Adobe Systems Incorporated, June 2009",
-            "group": "Adobe Systems Incorporated"
-        },
-        {
             "id": 130,
             "name": "Errata for Adobe PDF Reference fifth edition version 1.6",
             "val": 0,
             "short": "Adobe Systems Incorporated, 31 August 2005",
             "group": "Adobe Systems Incorporated"
-        },
-        {
-            "id": 131,
-            "name": "PDF Blend Modes: Addendum",
-            "val": 1,
-            "short": "Adobe Systems Incorporated, 23 January 2006",
-            "group": "Adobe Systems Incorporated"
-        },
-        {
-            "id": 132,
-            "name": "Extensible Markup Language (XML) version 1.0",
-            "val": 64,
-            "short": "W3C, Recommendation XML 1.0 (2004), 4 February 2004",
-            "group": "W3C"
         },
         {
             "id": 133,
@@ -1654,13 +1633,6 @@
         },
         {
             "id": 261,
-            "name": "Augmented BNF for Syntax Specifications: ABNF",
-            "val": 9,
-            "short": "IETF, RFC 2234, 1997",
-            "group": "IETF"
-        },
-        {
-            "id": 261,
             "name": "Meta Object Facility (MOF) Version 2.4.1",
             "val": 0,
             "short": "OMG, June 2013",
@@ -2192,13 +2164,6 @@
             "group": "Unicode Consortium"
         },
         {
-            "id": 339,
-            "name": "The Unicode Standard Version 3.2.0",
-            "val": 0,
-            "short": "Unicode Consortium, 2011",
-            "group": "Unicode Consortium"
-        },
-        {
             "id": 340,
             "name": "Resource Description Framework (RDF) Model and Syntax Specification",
             "val": 0,
@@ -2336,6 +2301,13 @@
             "name": "The Organizations Involved in the IETF Standards Process",
             "val": 25,
             "short": "IETF, RFC 2028 BCP 11, 1996",
+            "group": "IETF"
+        },
+        {
+            "id": 361,
+            "name": "Augmented BNF for Syntax Specifications: ABNF",
+            "val": 9,
+            "short": "IETF, RFC 2234, 1997",
             "group": "IETF"
         },
         {
@@ -2990,13 +2962,6 @@
             "group": "IETF"
         },
         {
-            "id": 455,
-            "name": "Functional Recommendations for Internet Resource Locators",
-            "val": 0,
-            "short": "IETF, RFC 1736, 1995",
-            "group": "IETF"
-        },
-        {
             "id": 456,
             "name": "The TLS Protocol Version 1.0",
             "val": 361,
@@ -3217,8 +3182,8 @@
             "id": 488,
             "name": "Network Computing Architecture, Zahn L., Dineen T. and P. Leach",
             "val": 0,
-            "short": "Network Computing Architecture, Zahn L., Dineen T. and P. Leach",
-            "group": "Other"
+            "short": "Prentice-Hall, January 1990",
+            "group": "Prentice-Hall"
         },
         {
             "id": 489,
@@ -4421,21 +4386,14 @@
             "id": 662,
             "name": "On the Design and Security of Block Ciphers, X. Lai",
             "val": 0,
-            "short": "Hartung-Gorre Verlag, 1992",
-            "group": "Hartung-Gorre Verlag"
+            "short": "Hartung-Gorre, 1992",
+            "group": "Hartung-Gorre"
         },
         {
             "id": 663,
             "name": "PKCS #7: Cryptographic Message Syntax Version 1.5",
             "val": 0,
             "short": "IETF, RFC 2315, 1998",
-            "group": "IETF"
-        },
-        {
-            "id": 664,
-            "name": "Telnet Protocol Specifications",
-            "val": 0,
-            "short": "IETF, RFC 854 STD 8, 1993",
             "group": "IETF"
         },
         {
@@ -4656,24 +4614,10 @@
             "group": "IETF"
         },
         {
-            "id": 696,
-            "name": "Use of the Elliptic Curve Diffie-Hellman Key Agreement Algorithm with X25519 and X448 in the Cryptographic Message Syntax (CMS)",
-            "val": 0,
-            "short": "IETF, RFC 8418, 2018",
-            "group": "IETF"
-        },
-        {
             "id": 697,
             "name": "Use of Edwards-Curve Digital Signature Algorithm (EdDSA) Signatures in the Cryptographic Message Syntax (CMS)",
             "val": 0,
             "short": "IETF, RFC 8419, 2018",
-            "group": "IETF"
-        },
-        {
-            "id": 698,
-            "name": "Secure/Multipurpose Internet Mail Extensions (S/MIME) Version 4.0 Certificate Handling",
-            "val": 0,
-            "short": "IETF, RFC 8550, 2019",
             "group": "IETF"
         },
         {
@@ -5433,13 +5377,6 @@
             "group": "IETF"
         },
         {
-            "id": 812,
-            "name": "Data Encryption Standard",
-            "val": 0,
-            "short": "NIST, FIPS PUB 46-2, 30 December 1993",
-            "group": "NIST"
-        },
-        {
             "id": 813,
             "name": "DES Modes of Operation",
             "val": 0,
@@ -5630,10 +5567,10 @@
         },
         {
             "id": 840,
-            "name": "IPA, Handbook of the International Phonetic Association",
+            "name": "Handbook of the International Phonetic Association",
             "val": 0,
-            "short": "IPA, Handbook of the International Phonetic Association",
-            "group": "Other"
+            "short": "IPA, July 1999",
+            "group": "IPA"
         },
         {
             "id": 841,
@@ -5786,8 +5723,8 @@
             "id": 862,
             "name": "Applied Cryptography, Bruce Schneier",
             "val": 0,
-            "short": "Applied Cryptography, Bruce Schneier",
-            "group": "Other"
+            "short": "John Wiley & Sons, 1996",
+            "group": "John Wiley & Sons"
         },
         {
             "id": 863,
@@ -5835,8 +5772,8 @@
             "id": 869,
             "name": "Security Mechanisms in High-Level Network Protocols, Victor L. Voydock, Stephen T. Kent",
             "val": 0,
-            "short": "Security Mechanisms in High-Level Network Protocols, Victor L. Voydock, Stephen T. Kent",
-            "group": "Other"
+            "short": "ACM Computing Surveys, June 1983",
+            "group": "ACM Computing Surveys"
         },
         {
             "id": 870,
@@ -5898,8 +5835,8 @@
             "id": 878,
             "name": "Computation of Cyclic Redundancy Checks via Table Look-Up, D. V. Sarwate",
             "val": 0,
-            "short": "Computation of Cyclic Redundancy Checks via Table Look-Up, D. V. Sarwate",
-            "group": "Other"
+            "short": "Communications of the ACM, 1988",
+            "group": "Communications of the ACM"
         },
         {
             "id": 879,
@@ -6365,10 +6302,10 @@
         },
         {
             "id": 945,
-            "name": "MIME Sniffing, Living Standard",
+            "name": "MIME Sniffing",
             "val": 0,
-            "short": "MIME Sniffing, Living Standard",
-            "group": "Other"
+            "short": "WHATWG, mimesniff, 29 June 2020",
+            "group": "WHATWG"
         },
         {
             "id": 946,
@@ -9632,7 +9569,7 @@
         },
         {
             "source": 51,
-            "target": 261,
+            "target": 361,
             "group": "IETF"
         },
         {
@@ -11271,56 +11208,6 @@
             "group": "ICC"
         },
         {
-            "source": 129,
-            "target": 178,
-            "group": "Adobe Systems Incorporated"
-        },
-        {
-            "source": 131,
-            "target": 128,
-            "group": "Adobe Systems Incorporated"
-        },
-        {
-            "source": 132,
-            "target": 686,
-            "group": "W3C"
-        },
-        {
-            "source": 132,
-            "target": 257,
-            "group": "W3C"
-        },
-        {
-            "source": 132,
-            "target": 242,
-            "group": "W3C"
-        },
-        {
-            "source": 132,
-            "target": 337,
-            "group": "W3C"
-        },
-        {
-            "source": 132,
-            "target": 138,
-            "group": "W3C"
-        },
-        {
-            "source": 132,
-            "target": 3,
-            "group": "W3C"
-        },
-        {
-            "source": 132,
-            "target": 338,
-            "group": "W3C"
-        },
-        {
-            "source": 132,
-            "target": 339,
-            "group": "W3C"
-        },
-        {
             "source": 133,
             "target": 340,
             "group": "W3C"
@@ -11522,7 +11409,7 @@
         },
         {
             "source": 138,
-            "target": 261,
+            "target": 361,
             "group": "IETF"
         },
         {
@@ -15131,21 +15018,6 @@
             "group": "ISO"
         },
         {
-            "source": 261,
-            "target": 19,
-            "group": "IETF"
-        },
-        {
-            "source": 261,
-            "target": 493,
-            "group": "IETF"
-        },
-        {
-            "source": 261,
-            "target": 454,
-            "group": "IETF"
-        },
-        {
             "source": 264,
             "target": 1,
             "group": "ISO"
@@ -15818,6 +15690,21 @@
         {
             "source": 360,
             "target": 638,
+            "group": "IETF"
+        },
+        {
+            "source": 361,
+            "target": 19,
+            "group": "IETF"
+        },
+        {
+            "source": 361,
+            "target": 493,
+            "group": "IETF"
+        },
+        {
+            "source": 361,
+            "target": 454,
             "group": "IETF"
         },
         {
@@ -18622,7 +18509,7 @@
         },
         {
             "source": 805,
-            "target": 261,
+            "target": 361,
             "group": "IETF"
         },
         {
@@ -19447,7 +19334,7 @@
         },
         {
             "source": 825,
-            "target": 261,
+            "target": 361,
             "group": "IETF"
         },
         {
@@ -19922,7 +19809,7 @@
         },
         {
             "source": 834,
-            "target": 261,
+            "target": 361,
             "group": "IETF"
         },
         {
@@ -20677,7 +20564,7 @@
         },
         {
             "source": 849,
-            "target": 261,
+            "target": 361,
             "group": "IETF"
         },
         {
@@ -21217,7 +21104,7 @@
         },
         {
             "source": 857,
-            "target": 261,
+            "target": 361,
             "group": "IETF"
         },
         {
