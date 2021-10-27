@@ -1,6 +1,6 @@
-# **ISO/DIS 32000-2 (PDF 2.0) Normative References Tree**
+# **ISO 32000-2:2020 (PDF 2.0) Normative References Tree**
 
-The Normative References if ISO/DIS 32000-2 (PDF 2.0) are structured as an oriented graph (tree), whose vertices are normative documents and (oriented) edges are references from one document to another. Both vertices and edges are annotated by additional comments to describe discovered issues or just to provide additional informative notes. 
+The Normative References if ISO 32000-2:2020 (PDF 2.0) are structured as an oriented graph (tree), whose vertices are normative documents and (oriented) edges are references from one document to another. Both vertices and edges are annotated by additional comments to describe discovered issues or just to provide additional informative notes. 
 
 This repo contains:
 
@@ -9,9 +9,9 @@ This repo contains:
 - A Python script to calculate some basic metrics for any specific document [countLevels.py](scripts/countLevels.py).
 - A Python script to convert the machine-readable JSON to a 3D graph representation [JSONto3D.py](scripts/JSONto3D.py) 
 
-As of November 2020, the references database contains 1172 documents (vertices of the graph). First level references mean the documents are directly referenced from ISO/DIS 32000-2. Their references are called second level references and so on. The database contains:
+As of November 2020, the references database contains 1172 documents (vertices of the graph). First level references mean the documents are directly referenced from ISO 32000-2:2020. Their references are called second level references and so on. The database contains:
 
--	The ISO 32000-2:202x (FDIS) specification, which has id=0 and serves as a root node of the graph.
+-	The ISO 32000-2:2020 specification, which has id=0 and serves as a root node of the graph.
 -	All (78 out of total 79) first level normative references, while one first level reference is available only in Japanese (JIS X.4051, Formatting rules for Japanese documents, 2004, reference id=72).
 -	All (210 out of total 210 second level normative references are processed), including those that were found inactive (withdrawn, obsoleted).
 -	Additional 1092 references of higher levels up to level 6. 
